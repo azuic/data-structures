@@ -4,4 +4,4 @@
 - [x] Week 1 
 
 ##### Assignments
-- [ ] Week 1
+- [x] Week 1
