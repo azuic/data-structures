@@ -7,4 +7,4 @@
     * "NoSQL and SQL Data Modeling"
 2. TO DO
   - Assignments (Part 1 & 2)
-  - Weekly Dairy (≥ 3 times)
+  - Weekly Diary (≥ 3 times)
