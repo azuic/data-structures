@@ -1,16 +1,17 @@
 var request = require('request');
 var fs = require('fs');
 
-var src = ['https://parsons.nyc/aa/m01.html',
-           'https://parsons.nyc/aa/m02.html',
-           'https://parsons.nyc/aa/m03.html',
-           'https://parsons.nyc/aa/m04.html',
-           'https://parsons.nyc/aa/m05.html',
-           'https://parsons.nyc/aa/m06.html',
-           'https://parsons.nyc/aa/m07.html',
-           'https://parsons.nyc/aa/m08.html',
-           'https://parsons.nyc/aa/m09.html',
-           'https://parsons.nyc/aa/m10.html'];
+var url = 'https://parsons.nyc/aa/m';
+var src =[];
+for (var i=0; i<10; i++){
+  var k = i+1;
+  if (i<9){
+    src[i] = url+'0'+k+'.html';
+  } else {
+    src[i] = url+k+'.html';
+  }
+};
+
 var myPath = '/Users/zuic/Documents/azuic/data-structures/week1/loop';
 process.chdir(myPath);
 // save requested files to the folder under myPath
