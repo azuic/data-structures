@@ -10,7 +10,7 @@
   - Weekly Diary (≥ 3 times)
 
 
-### Week 2
+### Week 4
 09/17/2018
 
 1. Javascript data structures
@@ -30,4 +30,4 @@
     }
   }
   ```
-3. request(function, callback)
+3. `callback` functions
