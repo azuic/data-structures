@@ -20,6 +20,7 @@ $('td[style="border-bottom\\:1px solid #e3e3e3; width\\:260px"]').each(
     m03[i] = m03[i].replace(/<br>/g,''); // remove <br>
     m03[i] = m03[i].replace(/^\s*$[\n\r]{1,}/gm, ''); // remove empty lines
     m03[i] = m03[i].split('<div')[0]; // remove characters after <div ...
+    m03[i] = m03[i].split('<span')[0]; // remove characters after <span ...
     m03[i] = m03[i].split('</b>')[1]; // remove characters before ...</b>
     m03[i] = m03[i].trim(); // remove white space
     m03[i] = m03[i].replace(/(\r\n|\n|\r)/gm,''); // remove line breaks
@@ -27,4 +28,5 @@ $('td[style="border-bottom\\:1px solid #e3e3e3; width\\:260px"]').each(
   }
 );
 
+fs.writeFileSync('/Users/zuic/Documents/azuic/data-structures/week2/m03Addresses.txt', m03); // save as a text file
 console.log(m03); // print the addresses
