@@ -2,7 +2,7 @@
 
 ##### Notes
 - [x] Week 1
-- [x] Week 2-4 
+- [x] Week 2-4
 - [ ] Week 5
 - [ ] Week 6
 - [ ] Week 7
@@ -13,7 +13,7 @@
 
 ##### Assignments
 - [x] Week 1
-- [ ] Week 2-4
+- [x] Week 2-4
 - [ ] Week 5
 - [ ] Week 6
 - [ ] Week 7
