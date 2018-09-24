@@ -12,7 +12,7 @@ for (var i=0; i<10; i++){
   }
 };
 
-var myPath = '/Users/zuic/Documents/azuic/data-structures/week1/loop';
+var myPath = '/Users/zuic/Documents/azuic/data-structures/week1_3/loop';
 process.chdir(myPath);
 // save requested files to the folder under myPath
 

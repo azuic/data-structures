@@ -3,7 +3,7 @@ var fs = require('fs');
 var cheerio = require('cheerio');
 
 // read zone 3 file
-var content = fs.readFileSync('/Users/zuic/Documents/azuic/data-structures/week1/aa-meeting-list/m03.txt');
+var content = fs.readFileSync('/Users/zuic/Documents/azuic/data-structures/week1_3/aa-meeting-list/m03.txt');
 
 // load to an object
 var $ = cheerio.load(content);
@@ -28,5 +28,5 @@ $('td[style="border-bottom\\:1px solid #e3e3e3; width\\:260px"]').each(
   }
 );
 
-fs.writeFileSync('/Users/zuic/Documents/azuic/data-structures/week2/m03Addresses.txt', m03); // save as a text file
+fs.writeFileSync('/Users/zuic/Documents/azuic/data-structures/week4/m03Addresses.txt', m03); // save as a text file
 console.log(m03); // print the addresses

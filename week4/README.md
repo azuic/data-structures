@@ -7,3 +7,4 @@ Finished extracting the addresses from m03.txt
 * `$('td[style=...] td:first-of-type')` here `td:first-of-type` selects the first `td`
 * `$(elem).find('h4,b,...').remove()` to remove elements
 * Can assign each address (say `var address`) to an json object `{'location':address}` and push to the array
+* `if($(elem).attr("style") == "...")` to filter on styles
