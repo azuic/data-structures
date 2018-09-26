@@ -14,7 +14,7 @@
 ##### Assignments
 - [x] Week 1
 - [x] Week 2-4
-- [ ] Week 5
+- [x] Week 5
 - [ ] Week 6
 - [ ] Week 7
 - [ ] Week 8-9
