@@ -4,7 +4,7 @@
 - [x] Week 1
 - [x] Week 2-4
 - [x] Week 5
-- [ ] Week 6
+- [x] Week 6
 - [ ] Week 7
 - [ ] Week 8-9
 - [ ] Week 10-11
