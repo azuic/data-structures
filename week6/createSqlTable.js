@@ -7,7 +7,7 @@ var fs = require('fs');
 var db_credentials = new Object();
 db_credentials.user = 'zuic';
 db_credentials.host = 'zuicdb.ckrsutvzcxxy.us-east-1.rds.amazonaws.com';
-db_credentials.database = 'zuicdb';
+db_credentials.database = 'm03meetings';
 db_credentials.password = process.env.AWSRDS_PW;
 db_credentials.port = 5432;
 
