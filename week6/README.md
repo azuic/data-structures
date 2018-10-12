@@ -5,5 +5,5 @@ Sketch of the data model
 
 
 10/04/2018  
-**file:** creatSqlTable.js, insertData.js
+**file:** creatSqlTable.js, insertData.js  
 Create table `location_info` in `zuicdb` which includes address, lat and lon
