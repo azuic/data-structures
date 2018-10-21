@@ -8,9 +8,9 @@ var apiKey = process.env.TAMU_KEY;
 var meetingsData = [];
 var lat
 
-var rawData = fs.readFileSync('/Users/zuic/Documents/azuic/data-structures/week5/m03.json');
-var m03 = JSON.parse(rawData);
-var addresses = m03.map(i => i.address.split(',')[0]);
+var rawData = fs.readFileSync('/Users/zuic/Documents/azuic/data-structures/week8-9/m09.json');
+var m09 = JSON.parse(rawData);
+var addresses = m09.map(i => i.address.split(',')[0]);
 console.log(addresses.length);
 async.eachSeries(
   addresses,
@@ -33,12 +33,12 @@ async.eachSeries(
         }
       }
     );
-    setTimeout(callback, 4000); // increase from 2000 to get complete list
+    setTimeout(callback, 2000); // increase from 2000 to get complete list
   },
 
   // write into json file
   function() {
-    fs.writeFileSync('/Users/zuic/Documents/azuic/data-structures/week5/m03Geocodes.json', JSON.stringify(meetingsData));
+    fs.writeFileSync('/Users/zuic/Documents/azuic/data-structures/week8-9/m09Geocodes.json', JSON.stringify(meetingsData));
     console.log('*** *** *** *** ***');
     console.log('Number of meetings in this zone: ');
     console.log(meetingsData.length);
@@ -46,11 +46,11 @@ async.eachSeries(
 );
 
 
-var m03Geocodes =   fs.readFileSync('/Users/zuic/Documents/azuic/data-structures/week5/m03Geocodes.json');
-var m03Data = JSON.parse(m03Geocodes);
+var m09Geocodes =   fs.readFileSync('/Users/zuic/Documents/azuic/data-structures/week8-9/m09Geocodes.json');
+var m09Data = JSON.parse(m09Geocodes);
 
-var m03LatLon = m03Data.map(i => ({'address':i.InputAddress.StreetAddress.slice(0,-13)+", New York, NY", 'latLon':{'Latitude':i.OutputGeocodes[0].OutputGeocode.Latitude,
+var m09LatLon = m09Data.map(i => ({'address':i.InputAddress.StreetAddress.slice(0,-13)+", New York, NY", 'latLon':{'Latitude':i.OutputGeocodes[0].OutputGeocode.Latitude,
           'Longitude':i.OutputGeocodes[0].OutputGeocode.Longitude}}));
 
 
-fs.writeFileSync('/Users/zuic/Documents/azuic/data-structures/week5/m03LatLon.json', JSON.stringify(m03LatLon));
+fs.writeFileSync('/Users/zuic/Documents/azuic/data-structures/week8-9/m09LatLon.json', JSON.stringify(m09LatLon));
