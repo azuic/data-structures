@@ -9,14 +9,16 @@ var dynamodb = new AWS.DynamoDB();
 
 var params = {
     TableName : "diary-v1",
-    KeyConditionExpression: "#ae = :aerobicType and dt between :minDate and :maxDate", // the query expression
+    // KeyConditionExpression: "#ae = :aerobicType and dt between :minDate and :maxDate", // the query expression
+    KeyConditionExpression: "#ae = :aerobicType", // the query expression
     ExpressionAttributeNames: { // name substitution, used for reserved words in DynamoDB
         "#ae" : "aerobic"
     },
     ExpressionAttributeValues: { // the query values
-        ":aerobicType": {S: "core"},
-        ":minDate": {S: new Date("2018-10-01").valueOf().toString()},
-        ":maxDate": {S: new Date("2018-10-04").valueOf().toString()}
+        // ":aerobicType": {S: "core"},
+        // ":minDate": {S: new Date("2018-09-27").valueOf().toString()},
+        // ":maxDate": {S: new Date("2018-10-04").valueOf().toString()}
+        ":aerobicType": {S: "core"}
     }
 };
 
