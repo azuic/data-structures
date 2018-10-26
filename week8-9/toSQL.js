@@ -19,7 +19,7 @@ var m05 = JSON.parse(m05data);
 $('h4[style="margin:0;padding:0;"]').each(
   function(i,elem){
 
-    var location = $(this).html().replace(/^\s*$[\n\r]{1,}/gm, '').replace(/\s+/g,' ').replace('&apos;','\'').trim();
+    var location = $(this).html().replace(/^\s*$[\n\r]{1,}/gm, '').replace(/\s+/g,' ').replace('&apos;','\'').trim().replace(/'/g,"''");
     // remove empty lines and extra spaces and reformat hypostrophy
 
     m05[i].location=location;
@@ -30,7 +30,7 @@ $('h4[style="margin:0;padding:0;"]').each(
 // meeting group
 $('td[style="border-bottom\\:1px solid #e3e3e3; width\\:260px"]').each(
   function(i,elem){
-    var group= $(elem).find('b').text().trim().split(" -")[0].replace(/\s\s/g,'').replace(/-/g,' ').trim();
+    var group= $(elem).find('b').text().trim().split(" -")[0].replace(/\s\s/g,'').replace(/-/g,' ').trim().replace(/'/g,"''");
     // remove empty lines and extra spaces
     m05[i].group=group;
     // add each meeting group as a json object to the array
@@ -112,8 +112,8 @@ $('td[style="border-bottom\\:1px solid #e3e3e3;width\\:350px;"]').each(
       sec = sec.join('').trim(); // concat the elements into a string
       var tpStr = "Meeting Type</b> ";
       var spStr = "Special Interest</b> ";
-      var tp;
-      var sp;
+      var tp = "null";
+      var sp = "null";
       if (sec.includes(tpStr)) {
         tp = sec.substring(sec.indexOf(tpStr)+tpStr.length,sec.indexOf(' ='));
       }
@@ -136,5 +136,5 @@ for (var i=0; i<m05.length; i++){
   m05[i].zone = 5;
 }
 
-fs.writeFileSync('/Users/zuic/Documents/azuic/data-structures/week8-9/m05update.json', JSON.stringify(m05));
+fs.writeFileSync('/Users/zuic/Documents/azuic/data-structures/week8-9/m05toSql.json', JSON.stringify(m05));
 // save json file

@@ -14,7 +14,7 @@ const client = new Client(db_credentials);
 client.connect();
 
 // Sample SQL statement to query meetings on Monday that start on or after 7:00pm:
-var thisQuery = "SELECT * FROM aadata ";
+var thisQuery = "SELECT mtgroup, mtspin, mtzone, mtlocation, address, mttype FROM aainfo WHERE 'Friday' = ANY (mtdate)";
 
 client.query(thisQuery, (err, res) => {
     if (err) {throw err}

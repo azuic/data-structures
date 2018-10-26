@@ -8,13 +8,13 @@ var apiKey = process.env.TAMU_KEY;
 var meetingsData = [];
 var lat
 
-// var rawData = fs.readFileSync('/Users/zuic/Documents/azuic/data-structures/week8-9/m09.json');
-// var m09 = JSON.parse(rawData);
-// var addresses = m09.map(i => i.address.split(',')[0]);
-
-// var rawData = fs.readFileSync('/Users/zuic/Documents/azuic/data-structures/week5/m03toFix.json');
-// var m03tofix = JSON.parse(rawData);
-// var addresses = m03tofix.map(i => i.address.split(',')[0]);
+// var rawData = fs.readFileSync('/Users/zuic/Documents/azuic/data-structures/week8-9/m05.json');
+// var m05 = JSON.parse(rawData);
+// var addresses = m05.map(i => i.address.split(',')[0]);
+//
+// // var rawData = fs.readFileSync('/Users/zuic/Documents/azuic/data-structures/week5/m05toFix.json');
+// // var m05tofix = JSON.parse(rawData);
+// // var addresses = m05tofix.map(i => i.address.split(',')[0]);
 //
 // console.log(addresses);
 // async.eachSeries(
@@ -44,7 +44,7 @@ var lat
 //
 //   // write into json file
 //   function() {
-//     fs.writeFileSync('/Users/zuic/Documents/azuic/data-structures/week5/m03Fixes.json', JSON.stringify(meetingsData));
+//     fs.writeFileSync('/Users/zuic/Documents/azuic/data-structures/week8-9/m05Geocodes.json', JSON.stringify(meetingsData));
 //     console.log('*** *** *** *** ***');
 //     console.log('Number of meetings in this zone: ');
 //     console.log(meetingsData.length);
@@ -52,11 +52,11 @@ var lat
 // );
 
 
-var m03Fixes =   fs.readFileSync('/Users/zuic/Documents/azuic/data-structures/week5/m03Fixes.json');
-var m03fix = JSON.parse(m03Fixes);
+var m05data =   fs.readFileSync('/Users/zuic/Documents/azuic/data-structures/week8-9/m05Geocodes.json');
+var m05 = JSON.parse(m05data);
 
-var m03FixLatLon = m03fix.map(i => ({'address':i.InputAddress.StreetAddress.slice(0,-13)+", New York, NY", 'latLon':{'Latitude':i.OutputGeocodes[0].OutputGeocode.Latitude,
+var m05LatLon = m05.map(i => ({'address':i.InputAddress.StreetAddress.slice(0,-13)+", New York, NY", 'latLon':{'Latitude':i.OutputGeocodes[0].OutputGeocode.Latitude,
           'Longitude':i.OutputGeocodes[0].OutputGeocode.Longitude}}));
 
 
-fs.writeFileSync('/Users/zuic/Documents/azuic/data-structures/week5/m03FixLatLon.json', JSON.stringify(m03FixLatLon));
+fs.writeFileSync('/Users/zuic/Documents/azuic/data-structures/week8-9/m05LatLon.json', JSON.stringify(m05LatLon));

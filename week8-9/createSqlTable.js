@@ -15,13 +15,28 @@ db_credentials.port = 5432;
 const client = new Client(db_credentials);
 client.connect();
 
-// Sample SQL statement to create a table:
-var thisQuery = "CREATE TABLE aadata (mtzone int, mtgroup varchar(100), mtlocation varchar(100), mtaddress varchar(100), mtlat double precision, mtlon double precision, mtday varchar(10), mtstart time, mtend time, mttype varchar(10), mtspinterest varchar(100), mtwheelchair bool);";
+// // Sample SQL statement to create a table:
+// var thisQuery = "CREATE TABLE aadata (mtzone int, mtgroup varchar(100), mtlocation varchar(100), mtaddress varchar(100), mtlat double precision, mtlon double precision, mtday varchar(10), mtstart time, mtend time, mttype varchar(10), mtspinterest varchar(100), mtwheelchair bool);";
 //var thisQuery = "DROP TABLE location_info;";
 // Sample SQL statement to delete a table:
 // var thisQuery = "DROP TABLE aalocations;";
 // Sample SQL statement to query the entire contents of a table:
 // var thisQuery = "SELECT * FROM aalocations;";
+var thisQuery = `CREATE TABLE aainfo (id serial PRIMARY KEY,
+                                           address VARCHAR(100),
+                                           lat DOUBLE precision,
+                                           long DOUBLE precision,
+                                           mtgroup VARCHAR(100),
+                                           mtlocation VARCHAR(100),
+                                           wheelchair BOOLEAN,
+                                           mtdate VARCHAR [],
+                                           mtstart VARCHAR [],
+                                           mtend VARCHAR [],
+                                           mttype VARCHAR [],
+                                           mtspin TEXT [],
+                                           mtzone SMALLINT
+                                           );`;
+
 
 client.query(thisQuery, (err, res) => {
     console.log(err, res);

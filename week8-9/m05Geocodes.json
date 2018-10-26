@@ -1,0 +1,981 @@
+[{
+  "version": "4.10",
+  "TransactionId": "e32f4d01-dbd9-4173-b9b2-bb2c67330fc4",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "Success",
+  "FeatureMatchingResultCount": "1",
+  "TimeTaken": "0.0624795",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "122 E 37TH ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7483929",
+      "Longitude": "-73.9787906",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "Success",
+      "FeatureMatchingResultCount": "1",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "e0a22ad7-959c-40cc-86f0-4d14513f7dad",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "Success",
+  "FeatureMatchingResultCount": "1",
+  "TimeTaken": "0.0624979",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "30 E 35TH ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7479892",
+      "Longitude": "-73.9817564",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "Success",
+      "FeatureMatchingResultCount": "1",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "af876f82-612b-41d0-803c-8036d50b84c2",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "Success",
+  "FeatureMatchingResultCount": "1",
+  "TimeTaken": "0.0624999",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "350 E 56TH ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.757654",
+      "Longitude": "-73.963834",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "Success",
+      "FeatureMatchingResultCount": "1",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "600e9671-e371-4c61-a34b-fe58228b8e3f",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "BrokenTie",
+  "FeatureMatchingResultCount": "2",
+  "TimeTaken": "0.0155883",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "619 LEXINGTON AVE New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7588016",
+      "Longitude": "-73.9704542",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed",
+      "FeatureMatchingResultType": "BrokenTie",
+      "FeatureMatchingResultCount": "2",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "d1264cb6-658f-49dc-9bca-748399a250bd",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "Success",
+  "FeatureMatchingResultCount": "1",
+  "TimeTaken": "0.0625158",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "122 E 37TH ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7483929",
+      "Longitude": "-73.9787906",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "Success",
+      "FeatureMatchingResultCount": "1",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "6324c3e3-7b81-41ea-9559-2a89da35e64c",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "Success",
+  "FeatureMatchingResultCount": "1",
+  "TimeTaken": "0.0624372",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "28 E 35TH ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.748023",
+      "Longitude": "-73.9818371",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "Success",
+      "FeatureMatchingResultCount": "1",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "b7423fe8-e6c4-4f38-b078-9cd411828cfc",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "Success",
+  "FeatureMatchingResultCount": "1",
+  "TimeTaken": "0.078136",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "350 E 56TH ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.757654",
+      "Longitude": "-73.963834",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "Success",
+      "FeatureMatchingResultCount": "1",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "5ab90aa4-4f4d-4333-9713-a45a307113ad",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "Success",
+  "FeatureMatchingResultCount": "1",
+  "TimeTaken": "0.0312497",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "283 LEXINGTON AVE New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7479969",
+      "Longitude": "-73.9783809",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed",
+      "FeatureMatchingResultType": "Success",
+      "FeatureMatchingResultCount": "1",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "81b1e2f5-796b-49eb-9412-a0ffb1994316",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "Success",
+  "FeatureMatchingResultCount": "1",
+  "TimeTaken": "0.0624977",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "122 E 37TH ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7483929",
+      "Longitude": "-73.9787906",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "Success",
+      "FeatureMatchingResultCount": "1",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "69ed5007-338a-4479-bcea-5e466a554b9d",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "BrokenTie",
+  "FeatureMatchingResultCount": "2",
+  "TimeTaken": "0.0156265",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "619 LEXINGTON AVE New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7588016",
+      "Longitude": "-73.9704542",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed",
+      "FeatureMatchingResultType": "BrokenTie",
+      "FeatureMatchingResultCount": "2",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "ca819592-d42f-45fd-afc9-a7239512136f",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "Success",
+  "FeatureMatchingResultCount": "1",
+  "TimeTaken": "0.0468651",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "141 E 43RD ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7518754",
+      "Longitude": "-73.9747248",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "Success",
+      "FeatureMatchingResultCount": "1",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "bed2287b-5c5e-4013-bc8a-5c2386f1efc9",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "Success",
+  "FeatureMatchingResultCount": "1",
+  "TimeTaken": "0.046892",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "122 E 37TH ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7483929",
+      "Longitude": "-73.9787906",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "Success",
+      "FeatureMatchingResultCount": "1",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "c962b494-3b91-40f3-bf66-c01ac0e9e510",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "Success",
+  "FeatureMatchingResultCount": "1",
+  "TimeTaken": "0.062507",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "122 E 37TH ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7483929",
+      "Longitude": "-73.9787906",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "Success",
+      "FeatureMatchingResultCount": "1",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "90376a13-b7b4-41da-b734-14f9314f35ef",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "Success",
+  "FeatureMatchingResultCount": "1",
+  "TimeTaken": "0.0468707",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "141 E 43RD ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7518754",
+      "Longitude": "-73.9747248",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "Success",
+      "FeatureMatchingResultCount": "1",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "3b6b5ec1-2c41-44fc-bb25-9ccdc9673853",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "Success",
+  "FeatureMatchingResultCount": "1",
+  "TimeTaken": "0.0156139",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "209 MADISON AVE New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7486487",
+      "Longitude": "-73.9821254",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed",
+      "FeatureMatchingResultType": "Success",
+      "FeatureMatchingResultCount": "1",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "850986fa-8dee-4b1f-bcfb-ef0191f7dd1e",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "Success",
+  "FeatureMatchingResultCount": "1",
+  "TimeTaken": "0.0625184",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "122 E 37TH ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7483929",
+      "Longitude": "-73.9787906",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "Success",
+      "FeatureMatchingResultCount": "1",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "6aca5fa1-442e-48c6-9057-b4ebc07f9196",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "BrokenTie",
+  "FeatureMatchingResultCount": "2",
+  "TimeTaken": "0.0312169",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "619 LEXINGTON AVE New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.6894374",
+      "Longitude": "-73.9367705",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed",
+      "FeatureMatchingResultType": "BrokenTie",
+      "FeatureMatchingResultCount": "2",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "1d99fd8b-013c-448c-935d-dfe6b0dc96ac",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "BrokenTie",
+  "FeatureMatchingResultCount": "2",
+  "TimeTaken": "0.0624834",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "240 E 31ST ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.6447249",
+      "Longitude": "-73.948097",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "BrokenTie",
+      "FeatureMatchingResultCount": "2",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "a51c46df-8e31-40de-83fb-5a610309c4f4",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "Success",
+  "FeatureMatchingResultCount": "1",
+  "TimeTaken": "0.0624985",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "114 E 35TH ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7473169",
+      "Longitude": "-73.9800724",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "Success",
+      "FeatureMatchingResultCount": "1",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "e82a5fc3-b2b0-40e4-b3af-bffe35aa399b",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "Success",
+  "FeatureMatchingResultCount": "1",
+  "TimeTaken": "0.0625277",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "230 E 60TH ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7615607",
+      "Longitude": "-73.9649474",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "Success",
+      "FeatureMatchingResultCount": "1",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "8e8413ff-7ff7-4f89-8079-06417424f854",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "BrokenTie",
+  "FeatureMatchingResultCount": "2",
+  "TimeTaken": "0.0938283",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "244 E 58TH ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7600925",
+      "Longitude": "-73.9653811",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "BrokenTie",
+      "FeatureMatchingResultCount": "2",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "5e52d3a3-5762-4c26-9e02-180e47029639",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "BrokenTie",
+  "FeatureMatchingResultCount": "2",
+  "TimeTaken": "0.0156338",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "619 LEXINGTON AVE New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7588016",
+      "Longitude": "-73.9704542",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed",
+      "FeatureMatchingResultType": "BrokenTie",
+      "FeatureMatchingResultCount": "2",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "6e61e795-bd9c-49b1-ad68-6cab64f8ad7e",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "Success",
+  "FeatureMatchingResultCount": "1",
+  "TimeTaken": "0.0156681",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "325 PARK AVE New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7574552",
+      "Longitude": "-73.9733937",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed",
+      "FeatureMatchingResultType": "Success",
+      "FeatureMatchingResultCount": "1",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "efc070cf-c4ea-40fe-9409-35586fe6cd0e",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "BrokenTie",
+  "FeatureMatchingResultCount": "2",
+  "TimeTaken": "0.0625174",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "236 E 31ST ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.74314",
+      "Longitude": "-73.9781525",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "BrokenTie",
+      "FeatureMatchingResultCount": "2",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "c45df8da-1ab7-4c8d-810a-2587bca24a01",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "BrokenTie",
+  "FeatureMatchingResultCount": "2",
+  "TimeTaken": "0.0625192",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "308 E 55TH ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.6501686",
+      "Longitude": "-73.9254937",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "BrokenTie",
+      "FeatureMatchingResultCount": "2",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "a560505f-76c5-4b53-8be3-d80d1a7ad5a4",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "BrokenTie",
+  "FeatureMatchingResultCount": "2",
+  "TimeTaken": "0.0626021",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "244 E 58TH ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7600925",
+      "Longitude": "-73.9653811",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "BrokenTie",
+      "FeatureMatchingResultCount": "2",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "f3a5e2f6-7d47-43f9-aa84-028785cb78c1",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "BrokenTie",
+  "FeatureMatchingResultCount": "2",
+  "TimeTaken": "0.0625735",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "244 E 58TH ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.6492925",
+      "Longitude": "-73.9225408",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "BrokenTie",
+      "FeatureMatchingResultCount": "2",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}, {
+  "version": "4.10",
+  "TransactionId": "146cad34-4ed3-4545-a77c-701913dd2e94",
+  "Version": "4.1",
+  "QueryStatusCodeValue": "200",
+  "FeatureMatchingResultType": "Success",
+  "FeatureMatchingResultCount": "1",
+  "TimeTaken": "0.0625107",
+  "ExceptionOccured": "False",
+  "Exception": "",
+  "InputAddress": {
+    "StreetAddress": "109 E 50TH ST New York NY ",
+    "City": "New York",
+    "State": "NY",
+    "Zip": ""
+  },
+  "OutputGeocodes": [{
+    "OutputGeocode": {
+      "Latitude": "40.7569178",
+      "Longitude": "-73.97309",
+      "NAACCRGISCoordinateQualityCode": "00",
+      "NAACCRGISCoordinateQualityType": "AddressPoint",
+      "MatchScore": "97.3372781065089",
+      "MatchType": "Relaxed;Soundex",
+      "FeatureMatchingResultType": "Success",
+      "FeatureMatchingResultCount": "1",
+      "FeatureMatchingGeographyType": "Parcel",
+      "RegionSize": "0",
+      "RegionSizeUnits": "Meters",
+      "MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+      "ExceptionOccured": "False",
+      "Exception": "",
+      "ErrorMessage": ""
+    }
+  }]
+}]
