@@ -6,8 +6,8 @@ var fs = require('fs');
 // AWS RDS POSTGRESQL INSTANCE
 var db_credentials = new Object();
 db_credentials.user = 'zuic';
-db_credentials.host = 'zuicdb.ckrsutvzcxxy.us-east-1.rds.amazonaws.com';
-db_credentials.database = 'aameetings';
+db_credentials.host = 'dsdbinstance.ckrsutvzcxxy.us-east-1.rds.amazonaws.com';
+db_credentials.database = 'ds';
 db_credentials.password = process.env.AWSRDS_PW;
 db_credentials.port = 5432;
 
@@ -22,14 +22,14 @@ client.connect();
 // var thisQuery = "DROP TABLE aalocations;";
 // Sample SQL statement to query the entire contents of a table:
 // var thisQuery = "SELECT * FROM aalocations;";
-var thisQuery = `CREATE TABLE aainfo (id serial PRIMARY KEY,
+var thisQuery = `CREATE TABLE aameetings (id serial PRIMARY KEY,
                                            address VARCHAR(100),
                                            lat DOUBLE precision,
                                            long DOUBLE precision,
                                            mtgroup VARCHAR(100),
                                            mtlocation VARCHAR(100),
                                            wheelchair BOOLEAN,
-                                           mtdate VARCHAR [],
+                                           mtday VARCHAR [],
                                            mtstart VARCHAR [],
                                            mtend VARCHAR [],
                                            mttype VARCHAR [],
