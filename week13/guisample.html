@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+<body>
+  <script type="text/javascript" src="build/dat.gui.js"></script>
+  <script type="text/javascript">
+    var meeting = {
+      "Street Address": "20 CARDINAL HAYES PL New York NY ",
+      "Meeting Group": "A DESIGN FOR LIVING",
+      "lat": "40.7132514",
+      "long": "-74.002398",
+      "Meeting Location": "St Andrews Church",
+      "Wheelchair Access": false,
+      "Day": "Thursday",
+      "Start at": "Every 15 min",
+      // "End at": "8:00 AM",
+      "Type": "OD",
+      "Special Interest": "null",
+      "Zone": 1
+    };
+    var gui = new dat.gui.GUI();
+    gui.add(meeting, 'Zone', [1,2,3,4,5,6,7,8,9,10]);
+    gui.add(meeting, 'Street Address');
+    gui.add(meeting, 'Meeting Group');
+    gui.add(meeting, 'Meeting Location');
+    gui.add(meeting, 'Wheelchair Access', ['True','False']);
+    gui.add(meeting, 'Day', ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]);
+    gui.add(meeting, 'Start at');
+    gui.add(meeting, 'Type', ["B", "BB", "C", "S", "T", "O", "OD"]);
+    gui.add(meeting, 'Special Interest', ["AA Grapevine Literature", "AA Literature", "AA Meetings on the Beach", "Agnostic", "Anniversary Meeting", "As Bill Sees It", "Beginners Workshop", "Big Book Topic", "Big Book Workshop", "Came To Believe", "Children Welcome", "Daily Reflections", "Eleventh Step", "Eleventh Step Meditation", "First Step Forum", "First Step Workshop", "Fourth Step Workshop", "Gay Men", "Gay, Lesbian and Bisexual", "H.I.V Positive", "Interpreted for the Deaf", "Jones Beach Meetings- Nassau County", "Korean Speaking", "Lesbian", "Living Sober", "Long-Term Sobriety", "Meditation", "Meditation at Meeting", "Men", "Mental Health Issues in Sobriety", "No Prayers at Meeting", "On-line A.A. Meetings", "Polish Speaking", "Portuguese Speaking", "Promises", "Rotating Step", "Round-Robin Meeting Format", "Russian Speaking ", "Second Step", "Seniors in Sobriety", "Slogans", "Spanish Speaking", "Special Purpose Groups", "Spiritual Workshop", "Sponsorship Workshop", "Steps 1-2-3", "Third Step", "Topic", "Twelve Steps", "Twelve Traditions", "Ukrainian Speaking", "Under Six Months Sober", "Wheel Chair Accessible", "Women", "Young People"]);
+
+  </script>
+</body>

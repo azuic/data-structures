@@ -1,0 +1,1202 @@
+"address","mtgroup","lat","long","mtlocation","wheelchair","mtday","mtstart","mtend","mttype","mtspin","mtzone"
+"20 CARDINAL HAYES PL New York NY ","A DESIGN FOR LIVING","40.7132514","-74.002398","St Andrews Church",false,"Thursday","7:00 AM","8:00 AM","OD","null",1
+"20 CARDINAL HAYES PL New York NY ","A DESIGN FOR LIVING","40.7132514","-74.002398","St Andrews Church",false,"Tuesday","7:00 AM","8:00 AM","B","null",1
+"20 CARDINAL HAYES PL New York NY ","CHAMBERS STREET","40.7132514","-74.002398","St. Andrew''s Church",false,"Monday","12:15 PM","1:15 PM","OD","null",1
+"20 CARDINAL HAYES PL New York NY ","CHAMBERS STREET","40.7132514","-74.002398","St. Andrew''s Church",false,"Wednesday","12:15 PM","1:15 PM","S","null",1
+"20 CARDINAL HAYES PL New York NY ","CHAMBERS STREET","40.7132514","-74.002398","St. Andrew''s Church",false,"Thursday","12:15 PM","1:15 PM","B","null",1
+"20 CARDINAL HAYES PL New York NY ","CHAMBERS STREET","40.7132514","-74.002398","St. Andrew''s Church",false,"Friday","12:15 PM","1:15 PM","BB","null",1
+"29 MOTT ST New York NY ","CHINATOWN","40.7147965","-73.9990363","Church of the Transfiguration",false,"Tuesday","6:30 PM","7:30 PM","C","null",1
+"49 FULTON ST New York NY ","DOWNTOWN","40.7080393","-74.0042361","St. Margaret''s Residence",true,"Monday","7:00 PM","8:00 PM","OD","null",1
+"44 JOHN ST New York NY ","EXCHANGE VIEWS @ JOHN STREET CHURCH","40.7091732","-74.0080677",,false,"Monday","12:15 PM","1:15 PM","OD","null",1
+"44 JOHN ST New York NY ","EXCHANGE VIEWS @ JOHN STREET CHURCH","40.7091732","-74.0080677",,false,"Tuesday","12:15 PM","1:15 PM","S","null",1
+"44 JOHN ST New York NY ","EXCHANGE VIEWS @ JOHN STREET CHURCH","40.7091732","-74.0080677",,false,"Thursday","12:15 PM","1:15 PM","OD","null",1
+"44 JOHN ST New York NY ","EXCHANGE VIEWS @ JOHN STREET CHURCH","40.7091732","-74.0080677",,false,"Monday","1:30 PM","2:30 PM","B","Living Sober",1
+"44 JOHN ST New York NY ","EXCHANGE VIEWS @ JOHN STREET CHURCH","40.7091732","-74.0080677",,false,"Thursday","1:30 PM","2:30 PM","S","null",1
+"49 FULTON ST New York NY ","EXCHANGE VIEWS @ ST. MARGARET''S HOUSE","40.7080393","-74.0042361",,true,"Monday","6:30 AM","7:30 AM","C","Topic",1
+"49 FULTON ST New York NY ","EXCHANGE VIEWS @ ST. MARGARET''S HOUSE","40.7080393","-74.0042361",,true,"Tuesday","6:30 AM","7:30 AM","C","null",1
+"49 FULTON ST New York NY ","EXCHANGE VIEWS @ ST. MARGARET''S HOUSE","40.7080393","-74.0042361",,true,"Wednesday","6:30 AM","7:30 AM","C","Topic",1
+"49 FULTON ST New York NY ","EXCHANGE VIEWS @ ST. MARGARET''S HOUSE","40.7080393","-74.0042361",,true,"Thursday","6:30 AM","7:30 AM","S","null",1
+"49 FULTON ST New York NY ","EXCHANGE VIEWS @ ST. MARGARET''S HOUSE","40.7080393","-74.0042361",,true,"Friday","6:30 AM","7:30 AM","BB","null",1
+"49 FULTON ST New York NY ","EXCHANGE VIEWS @ ST. MARGARET''S HOUSE","40.7080393","-74.0042361",,true,"Monday","7:30 AM","8:30 AM","S","null",1
+"49 FULTON ST New York NY ","EXCHANGE VIEWS @ ST. MARGARET''S HOUSE","40.7080393","-74.0042361",,true,"Tuesday","7:30 AM","8:30 AM","OD","null",1
+"49 FULTON ST New York NY ","EXCHANGE VIEWS @ ST. MARGARET''S HOUSE","40.7080393","-74.0042361",,true,"Wednesday","7:30 AM","8:30 AM","OD","null",1
+"49 FULTON ST New York NY ","EXCHANGE VIEWS @ ST. MARGARET''S HOUSE","40.7080393","-74.0042361",,true,"Thursday","7:30 AM","8:30 AM","OD","null",1
+"49 FULTON ST New York NY ","EXCHANGE VIEWS @ ST. MARGARET''S HOUSE","40.7080393","-74.0042361",,true,"Friday","7:30 AM","8:30 AM","B","null",1
+"49 FULTON ST New York NY ","EXCHANGE VIEWS @ ST. MARGARET''S HOUSE","40.7080393","-74.0042361",,true,"Sunday","7:45 AM","8:45 AM","null","null",1
+"49 FULTON ST New York NY ","EXCHANGE VIEWS @ ST. MARGARET''S HOUSE","40.7080393","-74.0042361",,true,"Saturday","7:45 AM","8:45 AM","null","null",1
+"49 FULTON ST New York NY ","EXCHANGE VIEWS @ ST. MARGARET''S HOUSE","40.7080393","-74.0042361",,true,"Friday","5:30 PM","6:30 PM","B","null",1
+"20 CARDINAL HAYES PL New York NY ","FRIDAY DOWNTOWN","40.7132514","-74.002398","St. Andrew''s Church",true,"Friday","6:00 PM","7:00 PM","OD","null",1
+"22 BARCLAY ST New York NY ","GATEWAY","40.7125016","-74.0094639","St. Peter''s Church",false,"Sunday","6:00 PM","7:00 PM","BB","null",1
+"20 CARDINAL HAYES PL New York NY ","PASSING THE BAR","40.7132514","-74.002398","St. Andrew''s Church",true,"Monday","1:15 PM","2:15 PM","B","null",1
+"20 CARDINAL HAYES PL New York NY ","PASSING THE BAR","40.7132514","-74.002398","St. Andrew''s Church",true,"Tuesday","1:15 PM","2:15 PM","C","null",1
+"20 CARDINAL HAYES PL New York NY ","PASSING THE BAR","40.7132514","-74.002398","St. Andrew''s Church",true,"Wednesday","1:15 PM","2:15 PM","C","Promises",1
+"20 CARDINAL HAYES PL New York NY ","PASSING THE BAR","40.7132514","-74.002398","St. Andrew''s Church",true,"Thursday","1:15 PM","2:15 PM","S","null",1
+"20 CARDINAL HAYES PL New York NY ","PASSING THE BAR","40.7132514","-74.002398","St. Andrew''s Church",true,"Friday","1:15 PM","2:15 PM","BB","null",1
+"22 BARCLAY ST New York NY ","S.O.B.E.R.","40.7125016","-74.0094639","Saint Peter''s Church",false,"Thursday","7:30 PM","8:45 PM","OD","null",1
+"283 W BROADWAY New York NY ","SANE AND SOBER","40.7208165","-74.0048523","Hazelden Tribeca",true,"Wednesday","7:00 PM","8:00 PM","C","Mental Health Issues in Sobriety",1
+"125 BARCLAY ST New York NY ","SATURDAY AFTERNOON DISCUSSION","40.7143477","-74.0130151","Municipal Union Bldg DC 37",false,"Saturday","2:00 PM","3:15 PM","OD","null",1
+"49 FULTON ST New York NY ","SEAMEN''S GROUP","40.7080393","-74.0042361","St. Margaret''s House",true,"Tuesday","6:00 PM","7:00 PM","S","null",1
+"49 FULTON ST New York NY ","SEAPORT","40.7080393","-74.0042361","St. Margaret''s House",true,"Thursday","12:15 PM","1:15 PM","C","null",1
+"49 FULTON ST New York NY ","SEAPORT","40.7080393","-74.0042361","St. Margaret''s House",true,"Friday","12:15 PM","1:15 PM","S","null",1
+"49 FULTON ST New York NY ","SEAPORT","40.7080393","-74.0042361","St. Margaret''s House",true,"Monday","12:15 PM","1:15 PM","S","Meditation",1
+"49 FULTON ST New York NY ","SEAPORT","40.7080393","-74.0042361","St. Margaret''s House",true,"Wednesday","12:15 PM","1:15 PM","BB","null",1
+"49 FULTON ST New York NY ","SEAPORT","40.7080393","-74.0042361","St. Margaret''s House",true,"Tuesday","12:15 PM","1:15 PM","B","null",1
+"20 CARDINAL HAYES PL New York NY ","TOWER","40.7132514","-74.002398","Church of Saint Andrew",false,"Wednesday","5:30 PM","6:30 PM","OD","null",1
+"283 W BROADWAY New York NY ","TRIANGLE GROUP","40.7208165","-74.0048523","Tribeca 12 Building",true,"Sunday","11:00 AM","12:00 PM","C","Meditation",1
+"283 W BROADWAY New York NY ","TRIANGLE GROUP","40.7208165","-74.0048523","Tribeca 12 Building",true,"Friday","12:30 PM","1:30 PM","BB","null",1
+"283 W BROADWAY New York NY ","TRIANGLE GROUP","40.7208165","-74.0048523","Tribeca 12 Building",true,"Monday","6:30 PM","7:30 PM","C","null",1
+"283 W BROADWAY New York NY ","TRIANGLE GROUP","40.7208165","-74.0048523","Tribeca 12 Building",true,"Thursday","6:30 PM","7:30 PM","C","null",1
+"49 FULTON ST New York NY ","TRIBECA GROUP @ ST. MARGARET''S HOUSE","40.7080393","-74.0042361",,true,"Friday","7:30 PM","8:30 PM","S","null",1
+"49 FULTON ST New York NY ","TRIBECA GROUP @ ST. MARGARET''S HOUSE","40.7080393","-74.0042361",,true,"Saturday","7:30 PM","8:30 PM","OD","null",1
+"49 FULTON ST New York NY ","TRIBECA GROUP @ ST. MARGARET''S HOUSE","40.7080393","-74.0042361",,true,"Tuesday","7:30 PM","8:30 PM","BB","null",1
+"49 FULTON ST New York NY ","TRIBECA GROUP @ ST. MARGARET''S HOUSE","40.7080393","-74.0042361",,true,"Thursday","7:30 PM","8:30 PM","B","null",1
+"22 BARCLAY ST New York NY ","TRIBECA GROUP @ ST. PETER''S CHURCH","40.7125016","-74.0094639","St. Peter''s Church",false,"Monday","7:45 PM","8:45 PM","S","null",1
+"22 BARCLAY ST New York NY ","TRIBECA GROUP @ ST. PETER''S CHURCH","40.7125016","-74.0094639","St. Peter''s Church",false,"Wednesday","8:00 PM","9:00 PM","OD","null",1
+"20 CARDINAL HAYES PL New York NY ","WOMEN''S DOWNTOWN AA STEP MEETING","40.7132514","-74.002398","St. Andrew''s Church",false,"Wednesday","1:15 PM","2:15 PM","S","null",1
+"283 W BROADWAY New York NY ","YOUNG PEOPLE''S DIVERSITY","40.7208165","-74.0048523","Hazelden Center",false,"Wednesday","8:30 PM","9:30 PM","C","Gay, Lesbian and Bisexual",1
+"283 W BROADWAY New York NY ","YOUNG PEOPLE''S STEP","40.7208165","-74.0048523","Hazelden Center",true,"Tuesday","7:45 PM","8:45 PM","C","Young People",1
+"283 W BROADWAY New York NY ","YOUTH ENJOYING SOBRIETY (Y.E.S.)","40.7208165","-74.0048523","Hazelden Center",true,"Saturday","7:00 PM","8:15 PM","B","Young People",1
+"273 BOWERY New York NY ","A.A. ON THE BOWERY","40.7236736","-73.9924832","University Settlement",true,"Friday","6:00 PM","7:00 PM","C","null",2
+"232 W 11TH ST New York NY ","AFTER FIVE","40.736193","-74.0028632","Manhattan Seventh-Day Adventist Church",false,"Thursday","6:15 PM","7:15 PM","S","null",2
+"283 W BROADWAY New York NY ","AFTERNOON DELIGHT","40.7208165","-74.0048523","Hazelden Center",true,"Saturday","12:00 PM","1:00 PM","C","null",2
+"232 W 11TH ST New York NY ","ARTISTS IN RECOVERY (A.R.T.)","40.736193","-74.0028632","Seventh Day Adventist Church",false,"Sunday","6:30 PM","7:45 PM","B","null",2
+"220 W HOUSTON ST New York NY ","BAGELS AND BIG BOOK","40.7286385","-74.0045871",,false,"Sunday","10:30 AM","12:00 PM","OD","null",2
+"253 CENTER ST New York NY ","CENTER MEETING","40.7206323","-73.9979756","Golden Bridge Yoga Center",false,"Monday","5:15 PM","6:15 PM","OD","Meditation at Meeting",2
+"273 BOWERY New York NY ","EAST VILLAGE SOBER AGNOSTICS","40.7236736","-73.9924832","University Settlement (The Chinatown YMCA)",true,"Friday","6:45 PM","8:00 PM","OD","Agnostic",2
+"487 HUDSON ST New York NY ","GREENWICH VILLAGE","40.7325884","-74.0066592","St. Luke''s Episcopal School",false,"Monday","7:15 PM","8:15 PM","B","null",2
+"487 HUDSON ST New York NY ","GREENWICH VILLAGE","40.7325884","-74.0066592","St. Luke''s Episcopal School",false,"Tuesday","7:15 PM","8:15 PM","BB","null",2
+"487 HUDSON ST New York NY ","GREENWICH VILLAGE","40.7325884","-74.0066592","St. Luke''s Episcopal School",false,"Wednesday","7:15 PM","8:15 PM","OD","null",2
+"487 HUDSON ST New York NY ","GREENWICH VILLAGE","40.7325884","-74.0066592","St. Luke''s Episcopal School",false,"Friday","8:00 PM","9:00 PM","S","null",2
+"487 HUDSON ST New York NY ","GREENWICH VILLAGE","40.7325884","-74.0066592","St. Luke''s Episcopal School",false,"Monday","8:30 PM","9:30 PM","S","Steps 1-2-3",2
+"292 HENRY ST New York NY ","GRUPO CENTRAL","40.7137143","-73.983033","St. Augustine''s Church",true,"Sunday","3:00 PM","4:00 PM","O","null",2
+"292 HENRY ST New York NY ","GRUPO CENTRAL","40.7137143","-73.983033","St. Augustine''s Church",true,"Tuesday","7:30 PM","8:30 PM","C","null",2
+"292 HENRY ST New York NY ","GRUPO CENTRAL","40.7137143","-73.983033","St. Augustine''s Church",true,"Friday","8:00 PM","9:00 PM","O","null",2
+"232 W 11TH ST New York NY ","HAPPY, JOYOUS AND FREE","40.736193","-74.0028632","Manhattan Church of The Seventh-day Adventist",true,"Monday","7:00 PM","8:00 PM","C","Gay Men",2
+"141 HENRY ST New York NY ","LOWER EAST SIDE","40.6964191","-73.9933777","Church of Saint Theresa Rectory",false,"Tuesday","7:00 PM","8:00 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Monday","12:00 AM","1:15 AM","S","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Sunday","12:00 AM","1:15 AM","S","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Wednesday","12:00 AM","1:15 AM","B","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Saturday","12:00 AM","1:15 AM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Tuesday","12:00 AM","1:15 AM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Friday","12:00 AM","1:15 AM","C","Promises",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Thursday","12:00 AM","1:15 AM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Saturday","2:00 AM","3:15 AM","OD","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Tuesday","2:00 AM","3:15 AM","OD","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Friday","2:00 AM","3:15 AM","OD","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Monday","2:00 AM","3:15 AM","OD","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Thursday","2:00 AM","3:15 AM","OD","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Sunday","2:00 AM","3:15 AM","OD","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Wednesday","2:00 AM","3:15 AM","OD","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Saturday","12:30 PM","1:30 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Tuesday","12:30 PM","1:30 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Monday","12:30 PM","1:30 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Thursday","12:30 PM","1:30 PM","S","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Wednesday","12:30 PM","1:30 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Friday","12:30 PM","1:30 PM","C","Topic",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Sunday","12:30 PM","1:30 PM","C","Meditation",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Tuesday","5:15 PM","6:15 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Friday","5:15 PM","6:15 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Thursday","5:15 PM","6:15 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Sunday","5:15 PM","6:15 PM","S","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Wednesday","5:15 PM","6:15 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Monday","5:15 PM","6:15 PM","C","Living Sober",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Wednesday","6:30 PM","7:30 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Saturday","6:30 PM","7:30 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Tuesday","6:30 PM","7:30 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Friday","6:30 PM","7:30 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Monday","6:30 PM","7:30 PM","B","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Thursday","6:30 PM","7:30 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Sunday","6:30 PM","7:30 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Sunday","8:00 PM","9:15 PM","BB","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Wednesday","8:00 PM","9:15 PM","C","Men",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Saturday","8:00 PM","9:15 PM","O","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Tuesday","8:00 PM","9:15 PM","C","Women",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Monday","8:00 PM","9:15 PM","C","Topic",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Friday","8:00 PM","9:15 PM","S","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Thursday","8:00 PM","9:15 PM","B","Under Six Months Sober",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Sunday","10:00 PM","11:15 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Wednesday","10:00 PM","11:15 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Saturday","10:00 PM","11:15 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Tuesday","10:00 PM","11:15 PM","S","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Monday","10:00 PM","11:15 PM","C","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Friday","10:00 PM","11:15 PM","B","null",2
+"220 W HOUSTON ST New York NY ","MIDNITE","40.7286385","-74.0045871",,false,"Thursday","10:00 PM","11:15 PM","C","Topic",2
+"83 CHRISTOPHER ST New York NY ","NEW GROUP","40.7335702","-74.0037456","St. John''s Lutheran Church",false,"Sunday","12:30 PM","1:30 PM","O","Gay, Lesbian and Bisexual",2
+"83 CHRISTOPHER ST New York NY ","NEW GROUP","40.7335702","-74.0037456","St. John''s Lutheran Church",false,"Wednesday","6:30 PM","7:30 PM","B","Gay, Lesbian and Bisexual",2
+"83 CHRISTOPHER ST New York NY ","NEW GROUP","40.7335702","-74.0037456","St. John''s Lutheran Church",false,"Friday","7:30 PM","8:30 PM","B","Gay, Lesbian and Bisexual",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Wednesday","7:30 AM","8:30 AM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Tuesday","7:30 AM","8:30 AM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Monday","7:30 AM","8:30 AM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Sunday","7:30 AM","8:30 AM","OD","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Saturday","7:30 AM","8:30 AM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Friday","7:30 AM","8:30 AM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Thursday","7:30 AM","8:30 AM","S","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Thursday","9:00 AM","10:00 AM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Wednesday","9:00 AM","10:00 AM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Tuesday","9:00 AM","10:00 AM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Monday","9:00 AM","10:00 AM","OD","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Sunday","9:00 AM","10:00 AM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Friday","9:00 AM","10:00 AM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Saturday","9:30 AM","10:00 AM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Friday","10:30 AM","11:30 AM","C","Women",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Sunday","11:00 AM","12:00 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Saturday","12:00 PM","1:00 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Friday","12:15 PM","1:15 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Thursday","12:15 PM","1:15 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Wednesday","12:15 PM","1:15 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Tuesday","12:15 PM","1:15 PM","S","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Monday","12:15 PM","1:15 PM","B","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Sunday","1:00 PM","2:00 PM","C","Children Welcome",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Saturday","2:30 PM","3:30 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Friday","2:30 PM","3:30 PM","OD","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Thursday","2:30 PM","3:30 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Tuesday","2:30 PM","3:30 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Monday","2:30 PM","3:30 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Wednesday","2:30 PM","3:30 PM","B","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Sunday","3:00 PM","4:30 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Monday","4:00 PM","5:00 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Saturday","4:00 PM","5:00 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Thursday","4:00 PM","5:00 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Wednesday","4:00 PM","5:00 PM","OD","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Tuesday","4:00 PM","5:00 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Friday","4:00 PM","6:00 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Thursday","5:30 PM","6:30 PM","BB","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Monday","6:00 PM","7:00 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Saturday","6:00 PM","7:00 PM","OD","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Sunday","6:00 PM","7:00 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Friday","6:00 PM","7:00 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Wednesday","6:00 PM","7:00 PM","S","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Tuesday","6:00 PM","7:00 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Thursday","7:00 PM","8:00 PM","B","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Tuesday","8:30 PM","9:30 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Monday","8:30 PM","9:30 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Saturday","8:30 PM","9:30 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Sunday","8:30 PM","9:30 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Thursday","8:30 PM","9:30 PM","OD","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Friday","8:30 PM","10:30 PM","S","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Wednesday","8:30 PM","9:30 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Tuesday","10:15 PM","11:15 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Monday","10:15 PM","11:15 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Thursday","10:15 PM","11:15 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Wednesday","10:15 PM","11:15 PM","BB","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Sunday","10:30 PM","11:30 PM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Saturday","11:00 PM","12:00 AM","C","null",2
+"50 PERRY ST New York NY ","PERRY STREET WORKSHOP","40.7354854","-74.0031569",,false,"Friday","11:00 PM","12:00 AM","C","null",2
+"232 W 11TH ST New York NY ","PRIMETIME NYC (I)","40.736193","-74.0028632","Seventh Day Adventist Church",false,"Thursday","6:30 PM","7:45 PM","OD","null",2
+"232 W 11TH ST New York NY ","PRIMETIME NYC (I)","40.736193","-74.0028632","Seventh Day Adventist Church",false,"Tuesday","6:30 PM","7:45 PM","S","null",2
+"224 WAVERLY PL New York NY ","RED DOOR","40.7360657","-74.0019452","St. John''s Episcopal Church",false,"Sunday","7:00 PM","8:00 PM","S","Gay, Lesbian and Bisexual",2
+"224 WAVERLY PL New York NY ","RED DOOR","40.7360657","-74.0019452","St. John''s Episcopal Church",false,"Thursday","7:00 PM","8:00 PM","B","Gay, Lesbian and Bisexual",2
+"224 WAVERLY PL New York NY ","RED DOOR","40.7360657","-74.0019452","St. John''s Episcopal Church",false,"Friday","7:00 PM","8:00 PM","OD","Promises",2
+"224 WAVERLY PL New York NY ","RED DOOR","40.7360657","-74.0019452","St. John''s Episcopal Church",false,"Sunday","8:30 PM","9:30 PM","OD","Gay, Lesbian and Bisexual",2
+"224 WAVERLY PL New York NY ","RED DOOR","40.7360657","-74.0019452","St. John''s Episcopal Church",false,"Friday","8:30 PM","9:30 PM","OD","Gay, Lesbian and Bisexual",2
+"154 SULLIVAN ST New York NY ","ROOM FOR IMPROVEMENT (:I)","40.7273786","-74.0017414","St. Anthony''s of Padua",false,"Monday","7:30 AM","8:30 AM","BB","null",2
+"154 SULLIVAN ST New York NY ","ROOM FOR IMPROVEMENT (:I)","40.7273786","-74.0017414","St. Anthony''s of Padua",false,"Tuesday","7:30 AM","8:30 AM","B","null",2
+"154 SULLIVAN ST New York NY ","ROOM FOR IMPROVEMENT (:I)","40.7273786","-74.0017414","St. Anthony''s of Padua",false,"Wednesday","7:30 AM","8:30 AM","C","null",2
+"154 SULLIVAN ST New York NY ","ROOM FOR IMPROVEMENT (:I)","40.7273786","-74.0017414","St. Anthony''s of Padua",false,"Thursday","7:30 AM","8:30 AM","C","Promises",2
+"154 SULLIVAN ST New York NY ","ROOM FOR IMPROVEMENT (:I)","40.7273786","-74.0017414","St. Anthony''s of Padua",false,"Friday","7:30 AM","8:30 AM","S","null",2
+"273 BOWERY ST New York NY ","ROOM FOR IMPROVEMENT (:II)","40.7236736","-73.9924832","Chinatown YMCA",true,"Sunday","7:30 AM","8:30 AM","null","null",2
+"273 BOWERY ST New York NY ","ROOM FOR IMPROVEMENT (:II)","40.7236736","-73.9924832","Chinatown YMCA",true,"Saturday","7:30 AM","8:30 AM","null","Topic",2
+"371 6TH AVE New York NY ","SHERIDAN SQUARE FOLLIES","40.6701581","-73.9819879","St. Joseph''s Church",true,"Saturday","6:00 PM","7:00 PM","B","Gay, Lesbian and Bisexual",2
+"155 SULLIVAN ST New York NY ","SOHO(:I)","40.6792556","-74.0145369","St. Anthony of Padua Church",false,"Friday","6:30 PM","7:30 PM","B","Interpreted for the Deaf",2
+"155 SULLIVAN ST New York NY ","SOHO(:I)","40.6792556","-74.0145369","St. Anthony of Padua Church",false,"Monday","7:00 PM","8:00 PM","B","null",2
+"155 SULLIVAN ST New York NY ","SOHO(:I)","40.6792556","-74.0145369","St. Anthony of Padua Church",false,"Friday","8:00 PM","9:00 PM","C","null",2
+"155 SULLIVAN ST New York NY ","SOHO(:I)","40.6792556","-74.0145369","St. Anthony of Padua Church",false,"Monday","8:30 PM","9:30 PM","S","null",2
+"7 E 10TH STRERT New York NY ","SPIRITUAL WORKSHOP","40.7332068","-73.9946888","The Bronfman Cernter @ NYU",false,"Sunday","11:00 AM","12:15 PM","C","Eleventh Step",2
+"232 W 11TH ST New York NY ","T&A TOGETHERNESS & ACTION","40.736193","-74.0028632","Seventh Adventist Church",false,"Monday","6:30 PM","7:30 PM","null","null",2
+"81 CHRISTOPHER ST New York NY ","TEN PLUS","40.7335983","-74.0035744","St. John''s Lutheran Church",false,"Tuesday","8:00 PM","9:00 PM","C","null",2
+"273 BOWERY New York NY ","THE CAPTAIN''S TABLE","40.7236736","-73.9924832","University Settlement (The Chinatown YMCA)",true,"Thursday","7:00 PM","8:00 PM","BB","Men",2
+"232 W 11TH ST New York NY ","TOGETHER WE CAN","40.736193","-74.0028632","Manhattan Seventh-Day Adventist Church",false,"Tuesday","6:45 PM","8:00 PM","S","null",2
+"232 W 11TH ST New York NY ","WEDNESDAY FOCUS","40.736193","-74.0028632","Manhattan Church of The Seventh-day Adventist",true,"Wednesday","6:15 PM","7:15 PM","C","null",2
+"83 CHRISTOPHER ST New York NY ","WEST VILLAGE WOMEN","40.7335702","-74.0037456","St. John''s Lutheran Church",true,"Thursday","6:30 PM","7:45 PM","C","Women",2
+"220 W HOUSTON ST New York NY ","WOMEN INTO ACTION","40.7286385","-74.0045871",,false,"Saturday","4:45 PM","5:45 PM","C","Women",2
+"273 BOWERY New York NY ","WOMEN TOGETHER(:II)","40.7236736","-73.9924832","University Settlement @ Houston Street Center",true,"Friday","6:15 PM","7:30 PM","C","Lesbian",2
+"252 W 46TH ST New York NY ","4 THE GRACE","40.7593831","-73.9872329","46th Street Club House",false,"Sunday","4:00 PM","5:00 PM","BB","null",4
+"252 W 46TH ST New York NY ","4 THE GRACE","40.7593831","-73.9872329","46th Street Club House",false,"Monday","4:00 PM","5:00 PM","BB","null",4
+"252 W 46TH ST New York NY ","4 THE GRACE","40.7593831","-73.9872329","46th Street Club House",false,"Tuesday","4:00 PM","5:00 PM","BB","Living Sober",4
+"252 W 46TH ST New York NY ","4 THE GRACE","40.7593831","-73.9872329","46th Street Club House",false,"Wednesday","4:00 PM","5:00 PM","BB","null",4
+"252 W 46TH ST New York NY ","4 THE GRACE","40.7593831","-73.9872329","46th Street Club House",false,"Thursday","4:00 PM","5:00 PM","BB","null",4
+"252 W 46TH ST New York NY ","4 THE GRACE","40.7593831","-73.9872329","46th Street Club House",false,"Friday","4:00 PM","5:00 PM","BB","null",4
+"252 W 46TH ST New York NY ","4 THE GRACE","40.7593831","-73.9872329","46th Street Club House",false,"Saturday","4:00 PM","5:00 PM","BB","null",4
+"303 W 42ND ST New York NY ","42nd AT 9:00pm","40.7575385","-73.9901368",,false,"Monday","9:15 PM","10:15 PM","BB","null",4
+"303 W 42ND ST New York NY ","42nd AT 9:00pm","40.7575385","-73.9901368",,false,"Wednesday","9:15 PM","10:15 PM","C","As Bill Sees It",4
+"303 W 42ND ST New York NY ","42nd AT 9:00pm","40.7575385","-73.9901368",,false,"Thursday","9:15 PM","10:15 PM","S","null",4
+"303 W 42ND ST New York NY ","42nd AT 9:00pm","40.7575385","-73.9901368",,false,"Friday","9:15 PM","10:15 PM","S","null",4
+"303 W 42ND ST New York NY ","42nd AT 9:00pm","40.7575385","-73.9901368",,false,"Saturday","9:15 PM","10:15 PM","C","null",4
+"303 W 42ND ST New York NY ","42nd AT 9:00pm","40.7575385","-73.9901368",,false,"Sunday","9:15 PM","10:15 PM","OD","Beginners Workshop",4
+"303 W 42ND ST New York NY ","42nd AT 9:00pm","40.7575385","-73.9901368",,false,"Tuesday","9:15 PM","10:30 PM","S","Meditation",4
+"303 W 42ND ST New York NY ","A NEW FREEDOM","40.7575385","-73.9901368",,false,"Wednesday","8:00 AM","9:00 AM","OD","null",4
+"303 W 42ND ST New York NY ","A NEW FREEDOM","40.7575385","-73.9901368",,false,"Thursday","8:00 AM","9:00 AM","C","Daily Reflections",4
+"303 W 42ND ST New York NY ","A NEW FREEDOM","40.7575385","-73.9901368",,false,"Friday","8:00 AM","9:00 AM","T","null",4
+"303 W 42ND ST New York NY ","A NEW FREEDOM","40.7575385","-73.9901368",,false,"Saturday","8:00 AM","9:00 AM","OD","Living Sober",4
+"303 W 42ND ST New York NY ","A NEW FREEDOM","40.7575385","-73.9901368",,false,"Sunday","8:00 AM","9:00 AM","S","null",4
+"303 W 42ND ST New York NY ","A NEW FREEDOM","40.7575385","-73.9901368",,false,"Monday","8:00 AM","9:00 AM","S","null",4
+"303 W 42ND ST New York NY ","A NEW FREEDOM","40.7575385","-73.9901368",,false,"Tuesday","8:00 AM","9:00 AM","BB","null",4
+"305 7TH AVE New York NY ","ABINGDON SQUARE IN CHELSEA","40.7467107","-73.9935208","S.A.G.E.",true,"Wednesday","8:00 PM","9:00 PM","OD","null",4
+"1 W 53RD ST New York NY ","ADVENTURES IN SOBRIETY","40.7608523","-73.9765938","Saint Thomas Church",true,"Friday","7:00 PM","8:00 PM","O","Gay, Lesbian and Bisexual",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Monday","12:00 PM","1:00 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Thursday","12:00 PM","1:00 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Saturday","12:00 PM","1:00 PM","B","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Tuesday","12:00 PM","1:00 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Sunday","12:00 PM","1:00 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Wednesday","12:00 PM","1:00 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Friday","12:00 PM","1:00 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Sunday","2:00 PM","3:00 PM","C","Women",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Monday","2:30 PM","3:30 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Saturday","2:30 PM","3:30 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Thursday","2:30 PM","3:30 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Tuesday","2:30 PM","3:30 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Wednesday","2:30 PM","3:30 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Friday","2:30 PM","3:30 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Monday","6:15 PM","7:15 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Saturday","6:15 PM","7:15 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Thursday","6:15 PM","7:15 PM","S","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Tuesday","6:15 PM","7:15 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Sunday","6:15 PM","7:15 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Wednesday","6:15 PM","7:15 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Friday","6:15 PM","7:15 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Friday","8:00 PM","9:00 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Monday","8:00 PM","9:00 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Saturday","8:00 PM","9:00 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Thursday","8:00 PM","9:00 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Sunday","8:00 PM","9:00 PM","C","null",4
+"303 W 42ND ST New York NY ","ALANON HOUSE (AA Meetings Only)","40.7575385","-73.9901368",,false,"Wednesday","8:00 PM","9:00 PM","C","null",4
+"133 W 46TH ST New York NY ","AMAZING GRACE","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Monday","7:30 AM","8:30 AM","C","null",4
+"133 W 46TH ST New York NY ","AMAZING GRACE","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Tuesday","7:30 AM","8:30 AM","C","null",4
+"133 W 46TH ST New York NY ","AMAZING GRACE","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Wednesday","7:30 AM","8:30 AM","C","null",4
+"133 W 46TH ST New York NY ","AMAZING GRACE","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Thursday","7:30 AM","8:30 AM","S","null",4
+"133 W 46TH ST New York NY ","AMAZING GRACE","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Friday","7:30 AM","8:30 AM","C","null",4
+"441 W 26TH ST New York NY ","ANNEX (:I)","40.7495486","-74.0015106","Hudson Guild",true,"Saturday","3:00 PM","4:00 PM","OD","null",4
+"446 W 33RD ST New York NY ","ANNEX(:II)","40.753496","-73.9989428","GMHC",true,"Tuesday","8:00 PM","9:00 PM","O","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","ARTISTS IN RECOVERY","40.7593831","-73.9872329","46th Street Clubhouse",false,"Tuesday","9:15 PM","10:15 PM","C","Special Purpose Groups",4
+"252 W 46TH ST New York NY ","BEGINNERS","40.7593831","-73.9872329","46th Street Club House",false,"Monday","1:30 PM","2:30 PM","B","Living Sober",4
+"252 W 46TH ST New York NY ","BEGINNERS","40.7593831","-73.9872329","46th Street Club House",false,"Tuesday","1:30 PM","2:30 PM","B","Living Sober",4
+"252 W 46TH ST New York NY ","BEGINNERS","40.7593831","-73.9872329","46th Street Club House",false,"Wednesday","1:30 PM","2:30 PM","B","Living Sober",4
+"252 W 46TH ST New York NY ","BEGINNERS","40.7593831","-73.9872329","46th Street Club House",false,"Thursday","1:30 PM","2:30 PM","B","Living Sober",4
+"252 W 46TH ST New York NY ","BEGINNERS","40.7593831","-73.9872329","46th Street Club House",false,"Friday","1:30 PM","2:30 PM","B","Living Sober",4
+"252 W 46TH ST New York NY ","BEGINNERS","40.7593831","-73.9872329","46th Street Club House",false,"Saturday","1:30 PM","2:30 PM","B","Living Sober",4
+"252 W 46TH ST New York NY ","BEGINNERS","40.7593831","-73.9872329","46th Street Club House",false,"Sunday","2:45 PM","3:45 PM","B","null",4
+"252 W 46TH ST New York NY ","BEGINNERS","40.7593831","-73.9872329","46th Street Club House",false,"Monday","2:45 PM","3:45 PM","B","null",4
+"252 W 46TH ST New York NY ","BEGINNERS","40.7593831","-73.9872329","46th Street Club House",false,"Tuesday","2:45 PM","3:45 PM","B","null",4
+"252 W 46TH ST New York NY ","BEGINNERS","40.7593831","-73.9872329","46th Street Club House",false,"Wednesday","2:45 PM","3:45 PM","B","null",4
+"252 W 46TH ST New York NY ","BEGINNERS","40.7593831","-73.9872329","46th Street Club House",false,"Thursday","2:45 PM","3:45 PM","B","null",4
+"252 W 46TH ST New York NY ","BEGINNERS","40.7593831","-73.9872329","46th Street Club House",false,"Friday","2:45 PM","3:45 PM","B","null",4
+"252 W 46TH ST New York NY ","BEGINNERS","40.7593831","-73.9872329","46th Street Club House",false,"Saturday","2:45 PM","3:45 PM","B","null",4
+"339 W 47TH ST New York NY ","BETWEEN SHOWS","40.7612077","-73.9891128","The Actor''s Temple",false,"Wednesday","5:00 PM","6:00 PM","C","null",4
+"303 W 42ND ST New York NY ","BLUEPRINT FOR LIVING","40.7575385","-73.9901368",,false,"Friday","4:30 PM","5:30 AM","null","null",4
+"303 W 42ND ST New York NY ","BLUEPRINT FOR LIVING","40.7575385","-73.9901368",,false,"Tuesday","4:30 PM","4:30 PM","null","Living Sober",4
+"303 W 42ND ST New York NY ","BLUEPRINT FOR LIVING","40.7575385","-73.9901368",,false,"Wednesday","4:30 PM","5:30 PM","BB","null",4
+"303 W 42ND ST New York NY ","BLUEPRINT FOR LIVING","40.7575385","-73.9901368",,false,"Thursday","4:30 PM","5:30 PM","null","null",4
+"303 W 42ND ST New York NY ","BLUEPRINT FOR LIVING","40.7575385","-73.9901368",,false,"Saturday","4:30 PM","5:30 PM","null","Meditation",4
+"303 W 42ND ST New York NY ","BLUEPRINT FOR LIVING","40.7575385","-73.9901368",,false,"Monday","4:30 PM","5:30 PM","null","null",4
+"139 W 31ST ST New York NY ","BOOKSHOP AT NOON","40.647412","-73.9480599","St. Francis of Assisi Education Center",false,"Monday","12:00 PM","1:00 PM","C","null",4
+"139 W 31ST ST New York NY ","BOOKSHOP AT NOON","40.647412","-73.9480599","St. Francis of Assisi Education Center",false,"Wednesday","12:00 PM","1:00 PM","C","null",4
+"139 W 31ST ST New York NY ","BOOKSHOP AT NOON","40.647412","-73.9480599","St. Francis of Assisi Education Center",false,"Friday","12:00 PM","1:00 PM","C","null",4
+"422 W 57TH ST New York NY ","CLEAN AND DRY","40.7682311","-73.9868768","Trinity Presbyterian Church",false,"Sunday","5:00 PM","5:45 PM","B","null",4
+"422 W 57TH ST New York NY ","CLEAN AND DRY","40.7682311","-73.9868768","Trinity Presbyterian Church",false,"Sunday","6:00 PM","7:00 PM","OD","null",4
+"211 W 30TH ST New York NY ","COMMUTERS SPECIAL","40.7486793956479","-73.9927286472649","St. John''s Hall",false,"Wednesday","6:00 PM","7:00 PM","C","null",4
+"211 W 30TH ST New York NY ","COMMUTERS SPECIAL","40.7486793956479","-73.9927286472649","St. John''s Hall",false,"Monday","6:00 PM","7:00 PM","S","null",4
+"252 W 46TH ST New York NY ","D.I.V.A.(Divinely Inspired Vivacious Alcoholics)","40.7593831","-73.9872329","46th Street Club House",false,"Saturday","12:00 PM","1:00 PM","C","Women",4
+"1 W 53RD ST New York NY ","FIFTH AVENUE STEP","40.7608523","-73.9765938","St. Thomas Church",true,"Saturday","10:00 AM","11:00 AM","S","null",4
+"422 W 57TH ST New York NY ","FIRESIDE(:I)WEEKDAY MEETINGS ONLY","40.7682311","-73.9868768","Trinity Presbyterian Church",false,"Wednesday","12:00 PM","1:00 PM","B","null",4
+"422 W 57TH ST New York NY ","FIRESIDE(:I)WEEKDAY MEETINGS ONLY","40.7682311","-73.9868768","Trinity Presbyterian Church",false,"Thursday","12:00 PM","1:00 PM","B","null",4
+"422 W 57TH ST New York NY ","FIRESIDE(:I)WEEKDAY MEETINGS ONLY","40.7682311","-73.9868768","Trinity Presbyterian Church",false,"Friday","12:00 PM","1:00 PM","B","null",4
+"422 W 57TH ST New York NY ","FIRESIDE(:I)WEEKDAY MEETINGS ONLY","40.7682311","-73.9868768","Trinity Presbyterian Church",false,"Monday","12:00 PM","1:00 PM","B","null",4
+"422 W 57TH ST New York NY ","FIRESIDE(:I)WEEKDAY MEETINGS ONLY","40.7682311","-73.9868768","Trinity Presbyterian Church",false,"Tuesday","12:00 PM","1:00 PM","B","null",4
+"422 W 57TH ST New York NY ","FIRESIDE(:I)WEEKDAY MEETINGS ONLY","40.7682311","-73.9868768","Trinity Presbyterian Church",false,"Wednesday","12:30 PM","1:30 PM","BB","null",4
+"422 W 57TH ST New York NY ","FIRESIDE(:I)WEEKDAY MEETINGS ONLY","40.7682311","-73.9868768","Trinity Presbyterian Church",false,"Thursday","12:30 PM","1:30 PM","S","null",4
+"422 W 57TH ST New York NY ","FIRESIDE(:I)WEEKDAY MEETINGS ONLY","40.7682311","-73.9868768","Trinity Presbyterian Church",false,"Friday","12:30 PM","1:30 PM","OD","null",4
+"422 W 57TH ST New York NY ","FIRESIDE(:I)WEEKDAY MEETINGS ONLY","40.7682311","-73.9868768","Trinity Presbyterian Church",false,"Monday","12:30 PM","1:30 PM","OD","null",4
+"422 W 57TH ST New York NY ","FIRESIDE(:I)WEEKDAY MEETINGS ONLY","40.7682311","-73.9868768","Trinity Presbyterian Church",false,"Tuesday","12:30 PM","1:30 PM","OD","null",4
+"7 W 55TH ST New York NY ","FOGLIFTERS FIFTH AVENUE","40.7618823","-73.9751297","Fifth Av Presbyterian Church",true,"Wednesday","12:30 PM","1:30 PM","B","null",4
+"7 W 55TH ST New York NY ","FOGLIFTERS FIFTH AVENUE","40.7618823","-73.9751297","Fifth Av Presbyterian Church",true,"Wednesday","12:30 PM","1:30 PM","S","null",4
+"7 W 55TH ST New York NY ","FOGLIFTERS FIFTH AVENUE","40.7618823","-73.9751297","Fifth Av Presbyterian Church",true,"Thursday","12:30 PM","1:30 PM","B","null",4
+"7 W 55TH ST New York NY ","FOGLIFTERS FIFTH AVENUE","40.7618823","-73.9751297","Fifth Av Presbyterian Church",true,"Thursday","12:30 PM","1:30 PM","OD","null",4
+"7 W 55TH ST New York NY ","FOGLIFTERS FIFTH AVENUE","40.7618823","-73.9751297","Fifth Av Presbyterian Church",true,"Monday","12:30 PM","1:30 PM","B","null",4
+"7 W 55TH ST New York NY ","FOGLIFTERS FIFTH AVENUE","40.7618823","-73.9751297","Fifth Av Presbyterian Church",true,"Monday","12:30 PM","1:30 PM","OD","null",4
+"7 W 55TH ST New York NY ","FOGLIFTERS FIFTH AVENUE","40.7618823","-73.9751297","Fifth Av Presbyterian Church",true,"Tuesday","12:30 PM","1:30 PM","B","null",4
+"7 W 55TH ST New York NY ","FOGLIFTERS FIFTH AVENUE","40.7618823","-73.9751297","Fifth Av Presbyterian Church",true,"Tuesday","12:30 PM","1:30 PM","OD","null",4
+"252 W 46TH ST New York NY ","FORTY FIVE SOLUTIONS","40.7593831","-73.9872329","46th Street Club House",false,"Saturday","10:30 PM","11:30 PM","C","null",4
+"252 W 46TH ST New York NY ","FORTY FIVE SOLUTIONS","40.7593831","-73.9872329","46th Street Club House",false,"Sunday","10:30 PM","11:30 PM","C","null",4
+"252 W 46TH ST New York NY ","FORTY FIVE SOLUTIONS","40.7593831","-73.9872329","46th Street Club House",false,"Monday","10:30 PM","11:30 PM","C","null",4
+"252 W 46TH ST New York NY ","FORTY FIVE SOLUTIONS","40.7593831","-73.9872329","46th Street Club House",false,"Tuesday","10:30 PM","11:30 PM","C","null",4
+"252 W 46TH ST New York NY ","FORTY FIVE SOLUTIONS","40.7593831","-73.9872329","46th Street Club House",false,"Wednesday","10:30 PM","11:30 PM","C","null",4
+"252 W 46TH ST New York NY ","FORTY FIVE SOLUTIONS","40.7593831","-73.9872329","46th Street Club House",false,"Thursday","10:30 PM","11:30 PM","C","null",4
+"252 W 46TH ST New York NY ","FORTY FIVE SOLUTIONS","40.7593831","-73.9872329","46th Street Club House",false,"Friday","10:30 PM","11:30 PM","C","null",4
+"729 7TH AVE New York NY ","GREEN ROOM","40.7601119","-73.9837538","The Actors Fund of America",true,"Thursday","5:30 PM","6:30 PM","C","Special Purpose Groups",4
+"538 W 47TH ST New York NY ","GRUPO BUENA VOLUNTAD","40.7634021","-73.9948352","Apartment Building",false,"Monday","8:00 PM","9:00 PM","Sp","null",4
+"538 W 47TH ST New York NY ","GRUPO BUENA VOLUNTAD","40.7634021","-73.9948352","Apartment Building",false,"Wednesday","8:00 PM","9:00 PM","Sp","null",4
+"538 W 47TH ST New York NY ","GRUPO BUENA VOLUNTAD","40.7634021","-73.9948352","Apartment Building",false,"Friday","8:00 PM","9:00 PM","Sp","null",4
+"1000 TENTH AVE New York NY ","HELL''S KITCHEN","40.7700536177104","-73.9877635987168","Mount Sinai - Roosevelt Hospital",true,"Monday","7:30 PM","8:30 PM","OD","null",4
+"1000 TENTH AVE New York NY ","HELL''S KITCHEN","40.7700536177104","-73.9877635987168","Mount Sinai - Roosevelt Hospital",true,"Thursday","7:30 PM","8:30 PM","C","null",4
+"303 W 42ND ST New York NY ","HENRY HUDSON","40.7575385","-73.9901368",,false,"Tuesday","7:30 PM","8:30 PM","BB","null",4
+"252 W 46TH ST New York NY ","JOE AND CHARLIE CD MEETING","40.7593831","-73.9872329","46th Street Club House",false,"Monday","9:15 PM","10:15 PM","B","null",4
+"307 W 26TH ST New York NY ","LEARNING TO LIVE (:I)","40.7474685","-73.9974137","Upright Citizens Brigade Theatre",false,"Wednesday","12:00 PM","1:00 PM","S","null",4
+"307 W 26TH ST New York NY ","LEARNING TO LIVE (:I)","40.7474685","-73.9974137","Upright Citizens Brigade Theatre",false,"Thursday","12:00 PM","1:00 PM","C","Promises",4
+"307 W 26TH ST New York NY ","LEARNING TO LIVE (:I)","40.7474685","-73.9974137","Upright Citizens Brigade Theatre",false,"Friday","12:00 PM","1:00 PM","OD","null",4
+"307 W 26TH ST New York NY ","LEARNING TO LIVE (:I)","40.7474685","-73.9974137","Upright Citizens Brigade Theatre",false,"Monday","12:00 PM","1:00 PM","B","null",4
+"307 W 26TH ST New York NY ","LEARNING TO LIVE (:I)","40.7474685","-73.9974137","Upright Citizens Brigade Theatre",false,"Tuesday","12:00 PM","1:00 PM","BB","null",4
+"405 W 59TH ST New York NY ","LUCKY ONES","40.7697538","-73.9857965","St. Paul''s Episcopal Parish House",true,"Wednesday","1:00 PM","2:00 PM","BB","null",4
+"303 W 42ND ST New York NY ","MIDNIGHT IN MIDTOWN","40.7575385","-73.9901368",,false,"Sunday","12:00 AM","1:00 AM","S","null",4
+"303 W 42ND ST New York NY ","MIDNIGHT IN MIDTOWN","40.7575385","-73.9901368",,false,"Monday","12:00 AM","1:00 AM","C","null",4
+"303 W 42ND ST New York NY ","MIDNIGHT IN MIDTOWN","40.7575385","-73.9901368",,false,"Tuesday","12:00 AM","1:00 AM","BB","null",4
+"303 W 42ND ST New York NY ","MIDNIGHT IN MIDTOWN","40.7575385","-73.9901368",,false,"Wednesday","12:00 AM","1:00 AM","C","Living Sober",4
+"303 W 42ND ST New York NY ","MIDNIGHT IN MIDTOWN","40.7575385","-73.9901368",,false,"Thursday","12:00 AM","1:00 AM","C","null",4
+"303 W 42ND ST New York NY ","MIDNIGHT IN MIDTOWN","40.7575385","-73.9901368",,false,"Friday","12:00 AM","1:00 AM","B","null",4
+"303 W 42ND ST New York NY ","MIDNIGHT IN MIDTOWN","40.7575385","-73.9901368",,false,"Saturday","12:00 AM","1:00 AM","O","Eleventh Step",4
+"422 W 57TH ST New York NY ","MIRACLE","40.7682311","-73.9868768","Trinity Presbyterian Church",true,"Monday","7:00 PM","8:00 PM","B","null",4
+"133 W 46TH ST New York NY ","MORNING CALL","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Thursday","6:00 AM","7:00 AM","B","null",4
+"133 W 46TH ST New York NY ","MORNING CALL","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Tuesday","6:00 AM","7:00 AM","S","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Saturday","10:00 AM","11:00 AM","C","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Monday","12:30 PM","1:30 PM","B","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Monday","12:30 PM","1:30 PM","OD","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Thursday","12:30 PM","1:30 PM","S","Steps 1-2-3",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Monday","12:30 PM","1:30 PM","C","Men",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Thursday","12:30 PM","1:30 PM","S","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Tuesday","12:30 PM","1:30 PM","B","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Thursday","12:30 PM","1:30 PM","S","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Tuesday","12:30 PM","1:30 PM","C","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Tuesday","12:30 PM","1:30 PM","S","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Friday","12:30 PM","1:30 PM","B","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Friday","12:30 PM","1:30 PM","BB","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Friday","12:30 PM","1:30 PM","S","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Wednesday","12:30 PM","1:30 PM","B","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Wednesday","12:30 PM","1:30 PM","OD","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Wednesday","12:30 PM","1:30 PM","C","Women",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Sunday","5:00 PM","6:00 PM","C","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Wednesday","5:30 PM","6:30 PM","C","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Monday","5:30 PM","6:30 PM","B","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Thursday","5:30 PM","6:30 PM","S","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Tuesday","5:30 PM","6:30 PM","BB","null",4
+"133 W 46TH ST New York NY ","NEW BUT WEST","40.6589343","-73.9348705","St. Mary the Virgin Church",false,"Friday","5:30 PM","6:30 PM","OD","null",4
+"303 W 42ND ST New York NY ","NEW PHOENIX","40.7575385","-73.9901368",,false,"Sunday","10:30 AM","11:30 AM","C","null",4
+"303 W 42ND ST New York NY ","NEW PHOENIX","40.7575385","-73.9901368",,false,"Monday","10:30 AM","11:30 AM","C","null",4
+"303 W 42ND ST New York NY ","NEW PHOENIX","40.7575385","-73.9901368",,false,"Tuesday","10:30 AM","11:30 AM","C","null",4
+"303 W 42ND ST New York NY ","NEW PHOENIX","40.7575385","-73.9901368",,false,"Wednesday","10:30 AM","11:30 AM","C","null",4
+"303 W 42ND ST New York NY ","NEW PHOENIX","40.7575385","-73.9901368",,false,"Thursday","10:30 AM","11:30 AM","C","null",4
+"303 W 42ND ST New York NY ","NEW PHOENIX","40.7575385","-73.9901368",,false,"Friday","10:30 AM","11:30 AM","C","null",4
+"303 W 42ND ST New York NY ","NEW PHOENIX","40.7575385","-73.9901368",,false,"Saturday","10:30 AM","11:30 AM","C","null",4
+"296 9TH AVE New York NY ","NINTH AVENUE (:I)","40.7493539","-73.998973","Holy Apostles Church Rectory",false,"Wednesday","6:15 PM","7:15 PM","C","null",4
+"296 9TH AVE New York NY ","NINTH AVENUE (:I)","40.7493539","-73.998973","Holy Apostles Church Rectory",false,"Monday","6:15 PM","7:15 PM","B","null",4
+"296 9TH AVE New York NY ","NINTH AVENUE (:I)","40.7493539","-73.998973","Holy Apostles Church Rectory",false,"Wednesday","7:30 PM","8:45 PM","S","null",4
+"296 9TH AVE New York NY ","NINTH AVENUE (:I)","40.7493539","-73.998973","Holy Apostles Church Rectory",false,"Monday","7:45 PM","8:45 PM","C","null",4
+"296 9TH AVE New York NY ","NINTH AVENUE (:I)","40.7493539","-73.998973","Holy Apostles Church Rectory",false,"Wednesday","9:00 PM","10:00 PM","B","First Step Workshop",4
+"296 9TH AVE New York NY ","NINTH AVENUE (:I)","40.7493539","-73.998973","Holy Apostles Church Rectory",false,"Monday","9:00 PM","10:00 PM","O","null",4
+"139 W 31ST ST New York NY ","NU GARDEN","40.647412","-73.9480599","St. Francis of Assisi Center",false,"Sunday","6:00 PM","7:30 PM","S","null",4
+"139 W 31ST ST New York NY ","NU GARDEN","40.647412","-73.9480599","St. Francis of Assisi Center",false,"Thursday","6:00 PM","7:30 PM","OD","null",4
+"139 W 31ST ST New York NY ","NU GARDEN","40.647412","-73.9480599","St. Francis of Assisi Center",false,"Saturday","6:00 PM","7:30 PM","OD","null",4
+"1 W 53RD ST New York NY ","PARK BENCH (:I)","40.7608523","-73.9765938","St. Thomas Church",true,"Tuesday","12:30 PM","1:30 PM","OD","null",4
+"484 W 43RD ST New York NY ","POWERLESS","40.7599913","-73.9948326","Manhattan Plaza Health Club",true,"Saturday","7:00 PM","8:00 PM","C","Promises",4
+"484 W 43RD ST New York NY ","POWERLESS","40.7599913","-73.9948326","Manhattan Plaza Health Club",true,"Monday","7:00 PM","8:00 PM","BB","null",4
+"484 W 43RD ST New York NY ","POWERLESS","40.7599913","-73.9948326","Manhattan Plaza Health Club",true,"Tuesday","7:00 PM","8:00 PM","S","null",4
+"484 W 43RD ST New York NY ","POWERLESS","40.7599913","-73.9948326","Manhattan Plaza Health Club",true,"Thursday","7:00 PM","8:00 PM","B","null",4
+"484 W 43RD ST New York NY ","POWERLESS","40.7599913","-73.9948326","Manhattan Plaza Health Club",true,"Friday","7:00 PM","8:00 PM","C","Living Sober",4
+"7 W 55TH ST New York NY ","PROMISES","40.7618823","-73.9751297","Fifth Av Presbyterian Church",true,"Friday","12:30 PM","1:30 PM","OD","null",4
+"252 W 46TH ST New York NY ","PROMISES","40.7593831","-73.9872329","46th Street Club House",false,"Thursday","9:15 PM","10:15 PM","S","null",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Saturday","5:30 PM","6:30 PM","C","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Wednesday","5:30 PM","6:30 PM","C","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Sunday","5:30 PM","6:30 PM","S","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Thursday","5:30 PM","6:30 PM","C","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Monday","5:30 PM","6:30 PM","C","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Friday","5:30 PM","6:30 PM","C","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Tuesday","5:30 PM","6:30 PM","C","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Saturday","6:45 PM","7:45 PM","B","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Wednesday","6:45 PM","7:45 PM","OD","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Sunday","6:45 PM","7:45 PM","C","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Monday","6:45 PM","7:45 PM","OD","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Friday","6:45 PM","7:45 PM","OD","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Tuesday","6:45 PM","7:45 PM","OD","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Thursday","6:45 PM","7:45 PM","OD","H.I.V Positive",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Tuesday","8:00 PM","9:00 PM","BB","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Saturday","8:00 PM","9:00 PM","O","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Sunday","8:00 PM","9:00 PM","BB","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Thursday","8:00 PM","9:00 PM","O","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Monday","8:00 PM","9:00 PM","O","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Friday","8:00 PM","9:00 PM","S","Gay, Lesbian and Bisexual",4
+"252 W 46TH ST New York NY ","RAINBOW ROOM","40.7593831","-73.9872329","46th Street Club House",false,"Wednesday","8:00 PM","9:00 PM","C","Gay, Lesbian and Bisexual",4
+"4 W 43RD ST New York NY ","RENAISSANCE","40.7543885","-73.9812083","The Learning Center",true,"Monday","12:30 AM","1:30 PM","C","null",4
+"4 W 43RD ST New York NY ","RENAISSANCE","40.7543885","-73.9812083","The Learning Center",true,"Tuesday","12:30 PM","1:30 PM","C","null",4
+"4 W 43RD ST New York NY ","RENAISSANCE","40.7543885","-73.9812083","The Learning Center",true,"Wednesday","12:30 PM","1:30 PM","S","null",4
+"4 W 43RD ST New York NY ","RENAISSANCE","40.7543885","-73.9812083","The Learning Center",true,"Thursday","12:30 PM","1:30 PM","B","null",4
+"4 W 43RD ST New York NY ","RENAISSANCE","40.7543885","-73.9812083","The Learning Center",true,"Friday","12:30 PM","1:30 PM","C","null",4
+"252 W 46TH ST New York NY ","SATURDAY ROTATING 12 STEP","40.7593831","-73.9872329","46th Street Club House",false,"Saturday","9:15 PM","10:15 PM","S","null",4
+"296 NINTH AVE New York NY ","SPIRITUAL FRIDAYS","40.7493539","-73.998973","Church of The Holy Apostles",false,"Friday","6:30 PM","7:30 PM","OD","Spiritual Workshop",4
+"1 W 53RD ST New York NY ","ST. THOMAS A.M.","40.7608523","-73.9765938","St. Thomas Church Parish House",false,"Tuesday","7:45 AM","8:45 AM","C","null",4
+"210 W 31ST ST New York NY ","STATLER AT NOON","40.6560325","-73.9999704","St. John the Baptist Church",false,"Tuesday","12:00 PM","1:00 PM","C","null",4
+"210 W 31ST ST New York NY ","STATLER AT NOON","40.6560325","-73.9999704","St. John the Baptist Church",false,"Thursday","12:00 PM","1:00 PM","C","null",4
+"422 W 57TH ST New York NY ","STEPS AND TRADITIONS ON WEDNESDAY","40.7682311","-73.9868768","Trinity Presbyterian Church",false,"Wednesday","7:00 PM","8:15 PM","S","null",4
+"252 W 46TH ST New York NY ","SUNDAY NIGHT BEGINNERS","40.7593831","-73.9872329","46th Street Club House",false,"Sunday","9:15 PM","10:15 PM","B","null",4
+"134 W 29TH ST New York NY ","TUESDAY SOBER AGNOSTICS","40.7472463","-73.9917061",,true,"Tuesday","6:00 PM","7:00 PM","OD","Agnostic",4
+"1000 TENTH AVE New York NY ","WEST 58th STREET STEP","40.7700536177104","-73.9877635987168","Mount Sinai - Roosevelt Hospital",true,"Friday","7:30 PM","8:30 PM","S","null",4
+"446 W 33RD ST New York NY ","WOMEN OVER FORTY","40.753496","-73.9989428","GMHC",true,"Friday","6:30 PM","7:45 PM","C","Women",4
+"423 W 46TH ST New York NY ","YOUNG IN 164","40.7614721","-73.9916406","St. Clements Church",true,"Sunday","7:30 PM","8:30 PM","BB","null",4
+"252 W 46TH ST New York NY ","YOUNG PEOPLE''S MEETING","40.7593831","-73.9872329","46th Street Club House",false,"Friday","9:15 PM","10:15 PM","BB","Young People",4
+"207 W 96TH ST New York NY ","A NEW DAY",40.7945161,-73.9710419,"Holy Name Church",false,"Monday","3:00 PM","4:00 PM","C","As Bill Sees It",6
+"207 W 96TH ST New York NY ","A NEW DAY",40.7945161,-73.9710419,"Holy Name Church",false,"Wednesday","3:00 PM","4:00 PM","C","Living Sober",6
+"120 W 69TH ST New York NY ","A VISION FOR YOU",40.7756982,-73.9810333,"Christ & St. Stephen''s Church",false,"Friday","7:45 PM","8:45 PM","OD","null",6
+"120 W 69TH ST New York NY ","A VISION FOR YOU",40.7756982,-73.9810333,"Christ & St. Stephen''s Church",false,"Friday","9:00 PM","10:00 PM","BB","null",6
+"422 W 57TH ST New York NY ","AFTER EIGHT (:i)",40.7682311,-73.9868768,"Trinity Presbyterian Church",false,"Tuesday","6:30 PM","7:45 PM","C","null",6
+"164 W 74TH ST New York NY ","AFTER EIGHT (:ii)",40.7796117,-73.9801807,"Phoenix House",true,"Thursday","6:30 PM","7:30 PM","C","AA Literature",6
+"207 W 96TH ST New York NY ","ALTERED ATTITUDES",40.7945161,-73.9710419,"Holy Name Church",false,"Friday","9:30 PM","10:30 PM","OD","null",6
+"144 W 90TH ST New York NY ","AMSTERDAM",40.7898068,-73.9723737,"St. Gregory''s Church",false,"Saturday","1:00 PM","2:30 PM","B","null",6
+"144 W 90TH ST New York NY ","AMSTERDAM",40.7898068,-73.9723737,"St. Gregory''s Church",false,"Saturday","2:30 PM","4:00 PM","O","null",6
+"144 W 90TH ST New York NY ","AMSTERDAM",40.7898068,-73.9723737,"St. Gregory''s Church",false,"Monday","4:00 PM","5:30 PM","BB","null",6
+"144 W 90TH ST New York NY ","AMSTERDAM",40.7898068,-73.9723737,"St. Gregory''s Church",false,"Tuesday","4:00 PM","5:30 PM","OD","null",6
+"144 W 90TH ST New York NY ","AMSTERDAM",40.7898068,-73.9723737,"St. Gregory''s Church",false,"Wednesday","4:00 PM","5:30 PM","O","Living Sober",6
+"144 W 90TH ST New York NY ","AMSTERDAM",40.7898068,-73.9723737,"St. Gregory''s Church",false,"Friday","4:00 PM","5:30 PM","S","null",6
+"141 W 73RD ST New York NY ","ANSONIA",40.7789036,-73.9799533,"Hamilton House",true,"Monday","7:00 PM","8:00 PM","C","null",6
+"4 W 76TH ST New York NY ","ATLANTIC WEST STEP & TRADITION",40.7787605,-73.9745951,"Fourth Universalist Church",false,"Friday","7:00 PM","8:00 PM","S","null",6
+"221 W 107TH ST New York NY ","BLOOMINGDALE",40.8017795,-73.9665393,"Church of the Ascension",false,"Tuesday","6:15 PM","7:15 PM","S","null",6
+"221 W 107TH ST New York NY ","BLOOMINGDALE",40.8017795,-73.9665393,"Church of the Ascension",false,"Tuesday","7:30 PM","8:30 PM","B","null",6
+"207 W 96TH ST New York NY ","BROADWAY AT 96TH",40.7945161,-73.9710419,"Holy Name Church",false,"Monday","7:30 PM","8:30 PM","BB","null",6
+"207 W 96TH ST New York NY ","BROADWAY AT 96TH",40.7945161,-73.9710419,"Holy Name Church",false,"Friday","7:30 PM","8:30 PM","O","null",6
+"215 W 82ND ST New York NY ","CADILLACS FOR EVERYONE",40.7852818734432,-73.9771060064311,"Holy Trinity Rectory",true,"Thursday","7:00 PM","8:00 PM","OD","Men",6
+"601 W 114TH ST New York NY ","CAMPUS CHEER",40.8069051,-73.965058,"Broadway Presbyterian Church",false,"Tuesday","12:30 PM","1:30 PM","C","null",6
+"601 W 114TH ST New York NY ","CAMPUS CHEER",40.8069051,-73.965058,"Broadway Presbyterian Church",false,"Thursday","12:30 PM","1:30 PM","C","null",6
+"344 AMSTERDAM AVE New York NY ","CENTRAL PARK WEST",40.7815169,-73.9797508,"Universalist Church",false,"Tuesday","8:15 PM","9:30 PM","C","null",6
+"5 W 63RD ST New York NY ","CHELSEA RIVERSIDE",40.7708644,-73.9806413,"West Side YMCA at 63rd Street",true,"Monday","7:30 PM","8:45 PM","O","null",6
+"5 W 63RD ST New York NY ","CHELSEA RIVERSIDE",40.7708644,-73.9806413,"West Side YMCA at 63rd Street",true,"Monday","9:00 PM","10:00 PM","B","null",6
+"5 W 63RD ST New York NY ","CHELSEA RIVERSIDE",40.7708644,-73.9806413,"West Side YMCA at 63rd Street",true,"Monday","10:15 PM","11:15 PM","C","Topic",6
+"4 W 76TH ST New York NY ","CHOCK FULL OF SOBRIETY",40.7787605,-73.9745951,"Universalist Church",false,"Friday","6:30 PM","7:30 PM","C","null",6
+"160 CENTRAL PARK W New York NY ","CLASSEN HALL (:II)",40.7787712,-73.9743066,"Fourth Universalist Society",false,"Sunday","6:00 PM","7:00 PM","B","null",6
+"152 W 66TH ST New York NY ","CLASSEN HALL STEP MEETING( :I )",40.7744405,-73.9838262,"Good Shepherd Faith Church",false,"Sunday","6:15 PM","7:45 PM","S","Twelve Steps",6
+"3 W 95TH ST New York NY ","COLUMBUS AT FIVE",40.7912379,-73.9655109,"Second Presbyterian Church",false,"Saturday","5:00 PM","6:00 PM","C","Children Welcome",6
+"3 W 95TH ST New York NY ","COLUMBUS AT FIVE",40.7912379,-73.9655109,"Second Presbyterian Church",false,"Sunday","5:00 PM","6:00 PM","C","Children Welcome",6
+"3 W 95TH ST New York NY ","COLUMBUS AT FIVE",40.7912379,-73.9655109,"Second Presbyterian Church",false,"Friday","7:00 PM","8:00 PM","C","Topic",6
+"251 W 80TH ST New York NY ","EIGHTIETH STREET BEGINNERS",40.7848713,-73.9800524,"All Angels Church",true,"Friday","7:30 PM","8:45 PM","C","null",6
+"111 W 71ST ST New York NY ","FAST BREAK",40.7769516,-73.9795507,"Hargrave House",false,"Friday","7:00 AM","8:00 AM","C","null",6
+"111 W 71ST ST New York NY ","FAST BREAK",40.7769516,-73.9795507,"Hargrave House",false,"Monday","7:00 AM","8:00 AM","C","null",6
+"111 W 71ST ST New York NY ","FAST BREAK",40.7769516,-73.9795507,"Hargrave House",false,"Tuesday","7:00 AM","8:00 AM","C","null",6
+"111 W 71ST ST New York NY ","FAST BREAK",40.7769516,-73.9795507,"Hargrave House",false,"Wednesday","7:00 AM","8:00 AM","C","null",6
+"111 W 71ST ST New York NY ","FAST BREAK",40.7769516,-73.9795507,"Hargrave House",false,"Thursday","7:00 AM","8:00 AM","S","null",6
+"111 W 71ST ST New York NY ","FAST BREAK",40.7769516,-73.9795507,"Hargrave House",false,"Friday","8:15 AM","9:15 AM","C","null",6
+"111 W 71ST ST New York NY ","FAST BREAK",40.7769516,-73.9795507,"Hargrave House",false,"Monday","8:15 AM","9:15 AM","C","null",6
+"111 W 71ST ST New York NY ","FAST BREAK",40.7769516,-73.9795507,"Hargrave House",false,"Tuesday","8:15 AM","9:15 AM","C","null",6
+"111 W 71ST ST New York NY ","FAST BREAK",40.7769516,-73.9795507,"Hargrave House",false,"Wednesday","8:15 AM","9:15 AM","C","null",6
+"111 W 71ST ST New York NY ","FAST BREAK",40.7769516,-73.9795507,"Hargrave House",false,"Thursday","8:15 AM","9:15 AM","C","null",6
+"5 W 63RD ST New York NY ","FAST BREAK WEEKEND",40.7708644,-73.9806413,"West Side YMCA",true,"Sunday","8:00 AM","9:00 AM","C","null",6
+"5 W 63RD ST New York NY ","FAST BREAK WEEKEND",40.7708644,-73.9806413,"West Side YMCA",true,"Saturday","8:00 AM","9:00 AM","C","null",6
+"5 W 63RD ST New York NY ","FIRESIDE(:II)WEEKEND MEETINGS ONLY",40.7708644,-73.9806413,"West Side YMCA",false,"Saturday","10:30 AM","11:30 AM","S","First Step Workshop",6
+"5 W 63RD ST New York NY ","FIRESIDE(:II)WEEKEND MEETINGS ONLY",40.7708644,-73.9806413,"West Side YMCA",false,"Sunday","12:30 PM","1:30 PM","B","null",6
+"5 W 63RD ST New York NY ","FIRESIDE(:II)WEEKEND MEETINGS ONLY",40.7708644,-73.9806413,"West Side YMCA",false,"Saturday","12:30 PM","1:30 PM","S","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Monday","6:00 AM","7:00 AM","OD","As Bill Sees It",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Wednesday","6:00 AM","7:00 AM","OD","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Saturday","6:00 AM","7:00 AM","OD","As Bill Sees It",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Thursday","6:00 AM","7:00 AM","S","As Bill Sees It",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Sunday","6:00 AM","7:00 AM","OD","As Bill Sees It",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Tuesday","6:00 AM","7:00 AM","OD","As Bill Sees It",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Friday","6:00 AM","7:00 AM","BB","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Friday","7:15 AM","8:15 AM","C","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Wednesday","7:15 AM","8:15 AM","C","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Saturday","7:15 AM","8:15 AM","S","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Monday","7:15 AM","8:15 AM","C","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Thursday","7:15 AM","8:15 AM","C","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Sunday","7:15 AM","8:15 AM","C","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Tuesday","7:15 AM","8:15 AM","C","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Friday","8:45 AM","9:45 AM","B","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Wednesday","8:45 AM","9:45 AM","B","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Saturday","8:45 AM","9:45 AM","B","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Monday","8:45 AM","9:45 AM","B","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Thursday","8:45 AM","9:45 AM","B","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Sunday","8:45 AM","9:45 AM","B","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Tuesday","8:45 AM","9:45 AM","B","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Tuesday","10:15 AM","11:15 AM","C","Living Sober",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Friday","10:15 AM","11:15 AM","BB","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Wednesday","10:15 AM","11:15 AM","S","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Saturday","10:15 AM","11:15 AM","S","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Monday","10:15 AM","11:15 AM","C","Promises",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Thursday","10:15 AM","11:15 AM","OD","null",6
+"207 W 96TH ST New York NY ","FIRST THINGS FIRST",40.7945161,-73.9710419,"Holy Name Church",false,"Sunday","10:15 AM","11:15 AM","T","null",6
+"26 W 84TH ST New York NY ","FRIDAY NIGHT STEP",40.7844228,-73.9716168,"Church of St. Matthew and St. Timothy",false,"Friday","6:30 PM","7:45 PM","S","null",6
+"200 W 97TH ST New York NY ","GRUPO CAMINO REAL",40.7946604892952,-73.9699229082063,"Holy Name School",false,"Sunday","4:30 PM","5:30 PM","OD","null",6
+"200 W 97TH ST New York NY ","GRUPO CAMINO REAL",40.7946604892952,-73.9699229082063,"Holy Name School",false,"Thursday","7:00 PM","8:00 PM","C","null",6
+"218 W 108TH ST New York NY ","GRUPO DULCES 24",40.8021037,-73.9658778,"Grace House",true,"Monday","7:30 PM","8:30 PM","OD","null",6
+"218 W 108TH ST New York NY ","GRUPO DULCES 24",40.8021037,-73.9658778,"Grace House",true,"Wednesday","7:30 PM","8:30 PM","C","null",6
+"218 W 108TH ST New York NY ","GRUPO DULCES 24",40.8021037,-73.9658778,"Grace House",true,"Friday","7:30 PM","8:30 PM","OD","null",6
+"218 W 108TH ST New York NY ","GRUPO DULCES 24",40.8021037,-73.9658778,"Grace House",true,"Sunday","7:30 PM","8:30 PM","O","null",6
+"125 W 104TH ST New York NY ","GRUPO LUZ DIVINA",40.7986785,-73.9648897,"Iglesia Metodista Grace",true,"Tuesday","7:30 PM","8:30 PM","O","null",6
+"141 W 73RD ST New York NY ","HARGRAVE",40.7789036,-73.9799533,"Hamilton House",true,"Thursday","7:00 PM","8:00 PM","B","null",6
+"141 W 73RD ST New York NY ","HARGRAVE",40.7789036,-73.9799533,"Hamilton House",true,"Friday","7:00 PM","8:00 PM","B","null",6
+"141 W 73RD ST New York NY ","HARGRAVE",40.7789036,-73.9799533,"Hamilton House",true,"Thursday","8:15 PM","9:15 PM","C","null",6
+"236 W 73RD ST New York NY ","LAMBDA WEST",40.7796494,-73.982239,"Rutgers Church",true,"Saturday","6:00 PM","7:00 PM","S","Gay, Lesbian and Bisexual",6
+"236 W 73RD ST New York NY ","LAMBDA WEST",40.7796494,-73.982239,"Rutgers Church",true,"Wednesday","6:00 PM","7:00 PM","OD","Interpreted for the Deaf",6
+"236 W 73RD ST New York NY ","LAMBDA WEST",40.7796494,-73.982239,"Rutgers Church",true,"Wednesday","7:15 PM","8:15 PM","B","Gay, Lesbian and Bisexual",6
+"236 W 73RD ST New York NY ","LAMBDA WEST",40.7796494,-73.982239,"Rutgers Church",true,"Wednesday","8:30 PM","9:30 PM","C","Gay, Lesbian and Bisexual",6
+"165 W 105TH ST New York NY ","MANHATTAN VALLEY",40.7996866,-73.9657282,"West End Presbyterian Church",false,"Wednesday","7:00 PM","8:00 PM","B","null",6
+"207 W 96TH ST New York NY ","METROPOLIS MEN''S MEETING",40.7945161,-73.9710419,"Holy Name Church",false,"Sunday","5:45 PM","7:00 PM","C","null",6
+"207 W 96TH ST New York NY ","MID DAY CHEER",40.7945161,-73.9710419,"Holy Name Church Rectory",false,"Friday","1:00 PM","2:00 PM","S","null",6
+"207 W 96TH ST New York NY ","MID DAY CHEER",40.7945161,-73.9710419,"Holy Name Church Rectory",false,"Monday","1:00 PM","2:15 PM","S","Meditation",6
+"207 W 96TH ST New York NY ","MID DAY CHEER",40.7945161,-73.9710419,"Holy Name Church Rectory",false,"Tuesday","1:00 PM","2:15 PM","BB","null",6
+"207 W 96TH ST New York NY ","MID DAY CHEER",40.7945161,-73.9710419,"Holy Name Church Rectory",false,"Wednesday","1:00 PM","2:15 PM","OD","null",6
+"207 W 96TH ST New York NY ","MID DAY CHEER",40.7945161,-73.9710419,"Holy Name Church Rectory",false,"Thursday","1:00 PM","2:15 PM","C","Women",6
+"2504 BROADWAY New York NY ","MORNINGSIDE",40.7927534,-73.972842,"Advent Lutheran Church",true,"Saturday","6:30 PM","7:30 PM","B","null",6
+"2504 BROADWAY New York NY ","MORNINGSIDE",40.7927534,-73.972842,"Advent Lutheran Church",true,"Saturday","8:00 PM","9:00 PM","OD","null",6
+"2504 BROADWAY New York NY ","MORNINGSIDE",40.7927534,-73.972842,"Advent Lutheran Church",true,"Saturday","8:00 PM","9:00 PM","S","null",6
+"2504 BROADWAY New York NY ","MORNINGSIDE",40.7927534,-73.972842,"Advent Lutheran Church",true,"Saturday","9:15 PM","10:15 PM","OD","null",6
+"405 W 114TH ST New York NY ","MORNINGSIDE HEIGHTS BEGINNERS",40.8051126,-73.9607974,"Church of Notre Dame",true,"Wednesday","6:30 PM","7:30 PM","B","null",6
+"405 W 114TH ST New York NY ","MORNINGSIDE HEIGHTS BEGINNERS",40.8051126,-73.9607974,"Church of Notre Dame",true,"Friday","6:30 PM","7:30 PM","B","null",6
+"368 W END AVE New York NY ","NEVER TOO LATE",40.783225,-73.9817572,"West End Collegiate Church",false,"Tuesday","7:30 PM","8:30 PM","C","null",6
+"225 W 99TH ST New York NY ","NIGHT LIGHT",40.7964452,-73.9694226,"St. Michael''s Parish House",false,"Monday","6:30 PM","7:30 PM","S","null",6
+"251 W 100TH ST New York NY ","NIGHT LIGHT BEGINNERS",40.7977791,-73.9709911,"Anshe Chesed Synagogue",true,"Thursday","6:00 PM","7:00 PM","B","null",6
+"207 W 96TH ST New York NY ","NINETY SIXTH STREET WORKSHOP",40.7945161,-73.9710419,"Holy Name Church",false,"Sunday","10:00 PM","11:00 PM","T","null",6
+"207 W 96TH ST New York NY ","NINETY SIXTH STREET WORKSHOP",40.7945161,-73.9710419,"Holy Name Church",false,"Monday","10:00 PM","11:00 PM","BB","null",6
+"207 W 96TH ST New York NY ","NINETY SIXTH STREET WORKSHOP",40.7945161,-73.9710419,"Holy Name Church",false,"Tuesday","10:00 PM","11:00 PM","S","null",6
+"207 W 96TH ST New York NY ","NINETY SIXTH STREET WORKSHOP",40.7945161,-73.9710419,"Holy Name Church",false,"Wednesday","10:00 PM","11:00 PM","BB","null",6
+"207 W 96TH ST New York NY ","NINETY SIXTH STREET WORKSHOP",40.7945161,-73.9710419,"Holy Name Church",false,"Thursday","10:00 PM","11:00 PM","B","null",6
+"207 W 96TH ST New York NY ","NINETY SIXTH STREET WORKSHOP",40.7945161,-73.9710419,"Holy Name Church",false,"Saturday","10:00 PM","11:00 PM","C","As Bill Sees It",6
+"207 W 96TH ST New York NY ","NINETY SIXTH STREET WORKSHOP",40.7945161,-73.9710419,"Holy Name Church",false,"Friday","11:00 PM","12:00 AM","C","Promises",6
+"26 W 84TH ST New York NY ","OXFORD(:I)",40.7844228,-73.9716168,"Church of St. Matthew & St. Timothy",true,"Monday","7:30 PM","8:30 PM","C","Interpreted for the Deaf",6
+"26 W 84TH ST New York NY ","OXFORD(:I)",40.7844228,-73.9716168,"Church of St. Matthew & St. Timothy",true,"Wednesday","7:30 PM","8:30 PM","O","Interpreted for the Deaf",6
+"26 W 84TH ST New York NY ","OXFORD(:I)",40.7844228,-73.9716168,"Church of St. Matthew & St. Timothy",true,"Thursday","7:30 PM","8:30 PM","BB","null",6
+"5 W 63RD ST New York NY ","PROMISES PROMISES",40.7708644,-73.9806413,"West Side YMCA",false,"Saturday","6:30 PM","7:30 PM","C","null",6
+"552 W END AVE New York NY ","RENEWAL WEST",40.78931,-73.9773114,"St. Ignatius Church",false,"Sunday","7:00 PM","8:00 PM","B","null",6
+"164 W 74 ST New York NY ","ROUTES",40.7796117,-73.9801807,"Phoenix House",false,"Saturday","6:00 PM","7:00 PM","B","null",6
+"164 W 74 ST New York NY ","ROUTES",40.7796117,-73.9801807,"Phoenix House",false,"Tuesday","7:00 PM","8:00 PM","B","null",6
+"340 W 85TH ST New York NY ","RUDE AWAKENING",40.7887343,-73.9798639,"Volunteers of America",false,"Wednesday","8:30 PM","9:30 PM","C","Living Sober",6
+"368 W END AVE New York NY ","SMITHEREENS",40.783225,-73.9817572,"West End Collegiate Church",false,"Wednesday","7:00 PM","8:00 PM","B","null",6
+"368 W END AVE New York NY ","SMITHEREENS",40.783225,-73.9817572,"West End Collegiate Church",false,"Wednesday","8:15 PM","9:15 PM","S","null",6
+"152 W 71ST ST New York NY ","SOBER STEPPING",40.7774259,-73.9812051,"Blessed Sacrament Church Rectory",false,"Saturday","6:30 PM","7:30 PM","S","Promises",6
+"5 W 63RD ST New York NY ","SUNDAY MEN''S TOPIC",40.7708644,-73.9806413,"West Side YMCA",false,"Sunday","10:30 AM","11:30 AM","C","Men",6
+"131 W 72ND ST New York NY ","SUNDAY WEST",40.7780247,-73.9798344,,false,"Sunday","12:00 PM","1:00 PM","C","null",6
+"207 W 96TH ST New York NY ","TURN IT OVER",40.7945161,-73.9710419,"Holy Name Church",false,"Thursday","3:30 PM","4:30 PM","B","null",6
+"207 W 96TH ST New York NY ","TURN IT OVER",40.7945161,-73.9710419,"Holy Name Church",false,"Tuesday","3:30 PM","4:30 PM","B","null",6
+"207 W 96TH ST New York NY ","TURN IT OVER",40.7945161,-73.9710419,"Holy Name Church",false,"Tuesday","4:30 PM","5:30 PM","C","null",6
+"207 W 96TH ST New York NY ","TURN IT OVER",40.7945161,-73.9710419,"Holy Name Church",false,"Thursday","4:30 PM","5:30 PM","C","null",6
+"207 W 96TH ST New York NY ","TURN IT OVER",40.7945161,-73.9710419,"Holy Name Church",false,"Friday","4:30 PM","5:30 PM","S","null",6
+"152 W 71ST ST New York NY ","WAY OF LIFE",40.7774259,-73.9812051,"Blessed Sacrament Church Rectory",false,"Saturday","10:00 AM","11:00 AM","C","As Bill Sees It",6
+"152 W 71ST ST New York NY ","WAY OF LIFE",40.7774259,-73.9812051,"Blessed Sacrament Church Rectory",false,"Saturday","11:15 AM","12:15 PM","C","null",6
+"30 W 68TH ST New York NY ","WE AGNOSTICS OF NYC",40.7740859,-73.979107,"Stephen Wise Free Synagogue",true,"Thursday","6:15 PM","7:15 PM","C","Agnostic",6
+"207 W 96TH ST New York NY ","WE ARE NOT DOCTORS (WESTSIDE)",40.7945161,-73.9710419,"Holy Name Church",false,"Wednesday","4:45 PM","5:45 PM","OD","Medication",6
+"263 W 86TH ST New York NY ","WEST END",40.7887918,-73.9772649,"Church of St. Paul & St. Andrew",true,"Thursday","7:00 PM","8:00 PM","B","null",6
+"263 W 86TH ST New York NY ","WEST END",40.7887918,-73.9772649,"Church of St. Paul & St. Andrew",true,"Thursday","7:00 PM","8:00 PM","S","null",6
+"263 W 86TH ST New York NY ","WEST END",40.7887918,-73.9772649,"Church of St. Paul & St. Andrew",true,"Tuesday","7:00 PM","8:00 PM","B","null",6
+"263 W 86TH ST New York NY ","WEST END",40.7887918,-73.9772649,"Church of St. Paul & St. Andrew",true,"Tuesday","7:00 PM","8:00 PM","BB","null",6
+"306 W 102ND ST New York NY ","WESTSIDE 11th STEP MEDITATION WORKSHOP",40.7992334,-73.9710638,"Addiction Institute",false,"Wednesday","7:00 PM","8:00 PM","C","null",6
+"152 W 71ST ST New York NY ","WESTSIDE STEP",40.7774259,-73.9812051,"Blessed Sacrament Church Rectory",false,"Friday","7:00 PM","8:00 PM","S","null",6
+"26 W 84TH ST New York NY ","WESTSIDE YOUNG PEOPLE",40.7844228,-73.9716168,"Church of St.Matthew & St. Timothy",false,"Saturday","7:00 PM","8:00 PM","B","Young People",6
+"595 COLUMBUS AVE New York NY ","WITHOUT A PRAYER",40.7879892,-73.9707609,"Goddard Riverside Community Center",true,"Saturday","5:00 PM","6:00 PM","OD","Agnostic",6
+"306 W 102ND ST New York NY ","WOMEN LIVING SOBER",40.7992334,-73.9710638,"Trinity Halfway House",false,"Wednesday","9:00 AM","10:00 AM","C","Women",6
+"306 W 102ND ST New York NY ","WOMEN LIVING SOBER",40.7992334,-73.9710638,"Trinity Halfway House",false,"Saturday","9:00 AM","10:00 AM","C","Women",6
+"213 W 82ND ST New York NY ","WOMEN WEST AA",40.7855603,-73.9776992,"Holy Trinity Church",true,"Friday","7:00 PM","8:00 PM","C","Women",6
+"152 W 71ST ST New York NY ","WOMEN''S BEGINNING LITERATURE",40.7774259,-73.9812051,"Blessed Sacrament (Rectory)",false,"Thursday","12:00 PM","1:00 PM","C","Women",6
+"152 W 71ST ST New York NY ","WOMEN''S BEGINNING LITERATURE",40.7774259,-73.9812051,"Blessed Sacrament (Rectory)",false,"Monday","12:00 PM","1:15 PM","C","Women",6
+"152 W 71ST ST New York NY ","WOMEN''S BEGINNING LITERATURE",40.7774259,-73.9812051,"Blessed Sacrament (Rectory)",false,"Wednesday","12:30 PM","1:30 PM","B","Women",6
+"152 W 71ST ST New York NY ","WOMEN''S ELEVENTH STEP MEETING",40.7774259,-73.9812051,,true,"Monday","12:00 PM","1:00 PM","OD","Women",6
+"152 W 71ST ST New York NY ","WOMEN''S TELL IT LIKE IT IS",40.7774259,-73.9812051,"Blessed Sacrament (Rectory)",true,"Monday","12:00 PM","1:15 PM","C","Women",6
+"160 CENTRAL PARK W New York NY ","WOMEN''S WESTSIDE TOPIC",40.7787712,-73.9743066,"Universalist Church",false,"Tuesday","6:30 PM","7:30 PM","C","Women",6
+"207 W 96TH ST New York NY ","WRITING SOBER",40.7945161,-73.9710419,"Holy Name Church",false,"Wednesday","6:00 PM","7:00 PM","C","Special Purpose Groups",6
+"351 E 74TH STATE ROAD NY ST New York NY ","A BAFFLED LOT","40.7694194","-73.9555151","Jan Hus Church",false,"Saturday","7:30 AM","8:30 AM","OD","null",7
+"48 E 80TH STATE ROAD NY ST New York NY ","A.A. TRADITIONS AND HISTORY","40.7767263","-73.9612366","Manhattan Church of Christ",true,"Tuesday","7:00 PM","8:00 PM","T","null",7
+"184 E 76TH STATE ROAD NY ST New York NY ","ACTIVE","40.7725462","-73.9594994","St. Jean Baptiste Church",true,"Wednesday","6:00 PM","7:00 PM","S","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","AFTERNOON AWAKENING","40.7694194","-73.9555151","Jan Hus Church",false,"Monday","2:30 PM","3:30 PM","B","Living Sober",7
+"351 E 74TH STATE ROAD NY ST New York NY ","AFTERNOON AWAKENING","40.7694194","-73.9555151","Jan Hus Church",false,"Tuesday","2:30 PM","3:30 PM","S","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","AFTERNOON AWAKENING","40.7694194","-73.9555151","Jan Hus Church",false,"Wednesday","2:30 PM","3:30 PM","BB","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","AFTERNOON AWAKENING","40.7694194","-73.9555151","Jan Hus Church",false,"Thursday","2:30 PM","3:30 PM","S","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","AFTERNOON AWAKENING","40.7694194","-73.9555151","Jan Hus Church",false,"Friday","2:30 PM","3:30 PM","S","null",7
+"1393 YORK STATE ROAD NY AVE New York NY ","ATLANTIC ELEVENTH STEP MEDITATION","40.6639307188879","-73.9382749875207","Church of the Epiphany",false,"Monday","7:15 PM","8:15 PM","S","null",7
+"520 PARK STATE ROAD NY AVE New York NY ","ATLANTIC GROUP (:I)","40.6639307188879","-73.9382749875207","Christ United Methodist Church",true,"Tuesday","7:00 PM","8:00 PM","O","null",7
+"337 E 74TH STATE ROAD NY ST New York NY ","ATLANTIC GROUP (:II)","40.7696836","-73.9561119","Archdiocian Cathedral of the Holy Trinity",true,"Thursday","7:00 PM","8:00 PM","B","null",7
+"1157 LEXINGTON STATE ROAD NY AVE New York NY ","ATLANTIC GROUP (:III)","40.6639307188879","-73.9382749875207","All Souls Church",true,"Saturday","6:00 PM","7:00 PM","O","null",7
+"420 E 76TH STATE ROAD NY ST New York NY ","BREAKING THROUGH","40.7697705","-73.9529077","Gracie Square Hospital",true,"Friday","6:30 PM","7:30 PM","B","null",7
+"230 E 90TH STATE ROAD NY ST New York NY ","CAME TO BELIEVE","40.780841","-73.9510956","Our Lady of Good Counsel Church",false,"Sunday","3:30 PM","4:30 PM","B","null",7
+"65 E 89TH STATE ROAD NY ST New York NY ","CARNEGIE HILL","40.78259","-73.9566571","St. Thomas More Church",false,"Tuesday","6:15 PM","7:15 PM","C","null",7
+"865 MADISON STATE ROAD NY AVE New York NY ","CENTRAL","40.6639307188879","-73.9382749875207","St. James Episcopal Church",false,"Sunday","5:00 PM","5:45 PM","O","Meditation",7
+"865 MADISON STATE ROAD NY AVE New York NY ","CENTRAL","40.6639307188879","-73.9382749875207","St. James Episcopal Church",false,"Sunday","6:00 PM","7:00 PM","S","null",7
+"865 MADISON STATE ROAD NY AVE New York NY ","CENTRAL","40.6639307188879","-73.9382749875207","St. James Episcopal Church",false,"Sunday","6:00 PM","7:00 PM","OD","null",7
+"865 MADISON STATE ROAD NY AVE New York NY ","CENTRAL","40.6639307188879","-73.9382749875207","St. James Episcopal Church",false,"Sunday","7:15 PM","8:15 PM","B","null",7
+"1296 LEXINGTON STATE ROAD NY AVE New York NY ","CHAPTER FIVE","40.6639307188879","-73.9382749875207","Immanuel Lutheran Church",false,"Monday","7:15 AM","8:15 AM","BB","null",7
+"1296 LEXINGTON STATE ROAD NY AVE New York NY ","CHAPTER FIVE","40.6639307188879","-73.9382749875207","Immanuel Lutheran Church",false,"Tuesday","7:15 AM","8:15 AM","OD","null",7
+"1296 LEXINGTON STATE ROAD NY AVE New York NY ","CHAPTER FIVE","40.6639307188879","-73.9382749875207","Immanuel Lutheran Church",false,"Wednesday","7:15 AM","8:15 AM","S","null",7
+"1296 LEXINGTON STATE ROAD NY AVE New York NY ","CHAPTER FIVE","40.6639307188879","-73.9382749875207","Immanuel Lutheran Church",false,"Thursday","7:15 AM","8:15 AM","OD","null",7
+"1296 LEXINGTON STATE ROAD NY AVE New York NY ","CHAPTER FIVE","40.6639307188879","-73.9382749875207","Immanuel Lutheran Church",false,"Friday","7:15 AM","8:15 AM","OD","null",7
+"1296 LEXINGTON STATE ROAD NY AVE New York NY ","CHAPTER FIVE","40.6639307188879","-73.9382749875207","Immanuel Lutheran Church",false,"Sunday","8:00 AM","9:00 AM","OD","null",7
+"1296 LEXINGTON STATE ROAD NY AVE New York NY ","CHAPTER FIVE","40.6639307188879","-73.9382749875207","Immanuel Lutheran Church",false,"Saturday","8:00 AM","9:00 AM","OD","null",7
+"1296 LEXINGTON STATE ROAD NY AVE New York NY ","CHAPTER FIVE","40.6639307188879","-73.9382749875207","Immanuel Lutheran Church",false,"Friday","6:15 PM","7:30 PM","S","Women",7
+"1296 LEXINGTON STATE ROAD NY AVE New York NY ","CHAPTER FIVE","40.6639307188879","-73.9382749875207","Immanuel Lutheran Church",false,"Sunday","7:00 PM","8:00 PM","C","null",7
+"1296 LEXINGTON STATE ROAD NY AVE New York NY ","CHAPTER FIVE","40.6639307188879","-73.9382749875207","Immanuel Lutheran Church",false,"Wednesday","7:30 PM","9:00 PM","B","null",7
+"1296 LEXINGTON STATE ROAD NY AVE New York NY ","CHAPTER FIVE","40.6639307188879","-73.9382749875207","Immanuel Lutheran Church",false,"Thursday","8:00 PM","9:15 PM","BB","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","ELEVENTH STEP AT JAN HUS","40.7694194","-73.9555151","Jan Hus Church",false,"Sunday","9:00 AM","10:00 AM","S","null",7
+"1157 LEXINGTON STATE ROAD NY AVE New York NY ","FEARLESS","40.6639307188879","-73.9382749875207","All Souls Uniterian Church",false,"Friday","7:30 PM","8:30 PM","C","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","FRIDAY CENTRAL","40.7694194","-73.9555151","Jan Hus Church",false,"Friday","6:30 PM","7:30 PM","C","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","FRIDAY NIGHT GAY MEN & WOMEN","40.7694194","-73.9555151","Jan Hus Church",false,"Friday","8:00 PM","9:00 PM","S","Gay, Lesbian and Bisexual",7
+"65 E 89TH STATE ROAD NY ST New York NY ","FRIDAY NIGHT MEN''S STEP","40.78259","-73.9566571","St. Thomas More Church Rectory",false,"Friday","6:15 PM","7:15 PM","S","Men",7
+"65 E 89TH STATE ROAD NY ST New York NY ","HUMANISTS TOO","40.78259","-73.9566571","Church of Saint Thomas Moore",false,"Monday","6:15 PM","7:15 PM","null","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","I''M ALL IN","40.7694194","-73.9555151","Jan Hus Church",false,"Tuesday","12:30 PM","1:30 PM","B","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","I''M ALL IN","40.7694194","-73.9555151","Jan Hus Church",false,"Wednesday","12:30 PM","1:30 PM","B","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","I''M ALL IN","40.7694194","-73.9555151","Jan Hus Church",false,"Thursday","12:30 PM","1:30 PM","B","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","I''M ALL IN","40.7694194","-73.9555151","Jan Hus Church",false,"Friday","12:30 PM","1:30 PM","B","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","I''M ALL IN","40.7694194","-73.9555151","Jan Hus Church",false,"Saturday","12:30 PM","1:30 PM","B","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","I''M ALL IN","40.7694194","-73.9555151","Jan Hus Church",false,"Monday","12:30 PM","1:30 PM","B","null",7
+"135 E 96TH STATE ROAD NY ST New York NY ","INTO ACTION MANHATTAN","40.7862757","-73.951491","St. Francis de Sales Church",false,"Wednesday","6:30 PM","7:30 PM","S","Big Book Workshop",7
+"351 E 74TH STATE ROAD NY ST New York NY ","KITCHEN TABLE MEETING","40.7694194","-73.9555151","Jan Hus Presbyterian Church",false,"Saturday","11:00 AM","12:00 PM","C","null",7
+"2 E 90TH STATE ROAD NY ST New York NY ","LENOX HILL","40.7836928","-73.9578694","Church of the Heavenly Rest",false,"Monday","7:00 PM","8:00 PM","B","null",7
+"2 E 90TH STATE ROAD NY ST New York NY ","LENOX HILL","40.7836928","-73.9578694","Church of the Heavenly Rest",false,"Monday","7:00 PM","8:00 PM","S","null",7
+"2 E 90TH STATE ROAD NY ST New York NY ","LENOX HILL","40.7836928","-73.9578694","Church of the Heavenly Rest",false,"Thursday","7:00 PM","8:00 PM","O","null",7
+"2 E 90TH STATE ROAD NY ST New York NY ","LENOX HILL","40.7836928","-73.9578694","Church of the Heavenly Rest",false,"Thursday","8:15 PM","9:00 PM","B","null",7
+"2 E 90TH STATE ROAD NY ST New York NY ","LENOX HILL","40.7836928","-73.9578694","Church of the Heavenly Rest",false,"Monday","8:15 PM","9:00 PM","C","null",7
+"1157 LEXINGTON STATE ROAD NY AVE New York NY ","LEX 80 STEP","40.6639307188879","-73.9382749875207","All Souls Uniterian Church",true,"Wednesday","6:30 PM","7:30 PM","S","Twelve Steps",7
+"420 E 76TH STATE ROAD NY ST New York NY ","LIVE AND LET LIVE","40.7697705","-73.9529077","Gracie Square Hospital",true,"Tuesday","7:00 PM","8:00 PM","B","Gay, Lesbian and Bisexual",7
+"420 E 76TH STATE ROAD NY ST New York NY ","LIVE AND LET LIVE","40.7697705","-73.9529077","Gracie Square Hospital",true,"Thursday","7:00 PM","8:00 PM","OD","Gay, Lesbian and Bisexual",7
+"420 E 76TH STATE ROAD NY ST New York NY ","LIVE AND LET LIVE","40.7697705","-73.9529077","Gracie Square Hospital",true,"Tuesday","8:30 PM","9:30 PM","C","Gay, Lesbian and Bisexual",7
+"351 E 74TH STATE ROAD NY ST New York NY ","MADISON 73","40.7694194","-73.9555151","Jan Hus Presbyterian Church",false,"Saturday","7:00 PM","8:00 PM","B","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","MADISON 73","40.7694194","-73.9555151","Jan Hus Presbyterian Church",false,"Saturday","7:00 PM","8:00 PM","S","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","MEDITATION (EXPECT MIRACLES)","40.7694194","-73.9555151","Jan Hus Church",false,"Thursday","11:00 AM","12:00 PM","OD","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","MEDITATION (EXPECT MIRACLES)","40.7694194","-73.9555151","Jan Hus Church",false,"Friday","11:00 AM","12:00 PM","OD","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","MEDITATION (EXPECT MIRACLES)","40.7694194","-73.9555151","Jan Hus Church",false,"Monday","11:00 AM","12:00 PM","OD","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","MEDITATION (EXPECT MIRACLES)","40.7694194","-73.9555151","Jan Hus Church",false,"Tuesday","11:00 AM","12:00 PM","OD","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","MEDITATION (EXPECT MIRACLES)","40.7694194","-73.9555151","Jan Hus Church",false,"Wednesday","11:00 AM","12:00 PM","OD","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","MEDITATION (EXPECT MIRACLES)","40.7694194","-73.9555151","Jan Hus Church",false,"Wednesday","8:00 PM","9:00 PM","OD","null",7
+"1285 MADISON STATE ROAD NY AVE New York NY ","MEN''S NYC BIG BOOK STEP STUDY","40.6639307188879","-73.9382749875207","Philomathist Center",false,"Wednesday","7:00 PM","8:30 PM","BB","null",7
+"48 E 84TH STATE ROAD NY ST New York NY ","METROPOLITAN","40.7790604","-73.9588788","St. Ignatius Loyola School",true,"Saturday","3:15 PM","4:15 PM","S","First Step Workshop",7
+"48 E 84TH STATE ROAD NY ST New York NY ","METROPOLITAN","40.7790604","-73.9588788","St. Ignatius Loyola School",true,"Sunday","6:15 PM","7:15 PM","B","null",7
+"48 E 84TH STATE ROAD NY ST New York NY ","METROPOLITAN","40.7790604","-73.9588788","St. Ignatius Loyola School",true,"Tuesday","6:30 PM","7:30 PM","null","null",7
+"48 E 84TH STATE ROAD NY ST New York NY ","METROPOLITAN","40.7790604","-73.9588788","St. Ignatius Loyola School",true,"Sunday","7:30 PM","8:30 PM","S","null",7
+"48 E 84TH STATE ROAD NY ST New York NY ","METROPOLITAN","40.7790604","-73.9588788","St. Ignatius Loyola School",true,"Tuesday","7:45 PM","8:45 PM","B","null",7
+"408 E 82ND STATE ROAD NY ST New York NY ","MONDAY EAST TOPIC","40.7738528","-73.9504699","St. Stephen of Hungary Church",false,"Monday","7:00 PM","8:00 PM","C","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","MONDAY WOMEN","40.7694194","-73.9555151","Jan Hus Church",false,"Monday","7:15 PM","8:15 PM","C","Women",7
+"351 E 74TH STATE ROAD NY ST New York NY ","MORNING REFLECTIONS","40.7694194","-73.9555151","Jan Hus Church",false,"Wednesday","9:30 AM","10:30 AM","OD","Daily Reflections",7
+"351 E 74TH STATE ROAD NY ST New York NY ","MORNING REFLECTIONS","40.7694194","-73.9555151","Jan Hus Church",false,"Thursday","9:30 AM","10:30 AM","OD","Daily Reflections",7
+"351 E 74TH STATE ROAD NY ST New York NY ","MORNING REFLECTIONS","40.7694194","-73.9555151","Jan Hus Church",false,"Friday","9:30 AM","10:30 AM","OD","Daily Reflections",7
+"351 E 74TH STATE ROAD NY ST New York NY ","MORNING REFLECTIONS","40.7694194","-73.9555151","Jan Hus Church",false,"Monday","9:30 AM","10:30 AM","OD","Daily Reflections",7
+"351 E 74TH STATE ROAD NY ST New York NY ","MORNING REFLECTIONS","40.7694194","-73.9555151","Jan Hus Church",false,"Tuesday","9:30 AM","10:30 AM","OD","Daily Reflections",7
+"125 E 85TH STATE ROAD NY ST New York NY ","NEW CHOICES","40.7790514","-73.956386","Congregational Kehilath Jeshurun",true,"Monday","6:30 PM","7:30 PM","C","null",7
+"125 E 85TH STATE ROAD NY ST New York NY ","NEW CHOICES","40.7790514","-73.956386","Congregational Kehilath Jeshurun",true,"Wednesday","6:30 PM","7:30 PM","S","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","OPEN BOOK","40.7694194","-73.9555151","Jan Hus Church",false,"Monday","7:15 PM","8:15 PM","BB","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","OUR PRIMARY PURPOSE","40.7694194","-73.9555151","Jan Hus Church",false,"Saturday","9:30 AM","10:30 AM","S","Women",7
+"865 MADISON STATE ROAD NY AVE New York NY ","PARK BENCH (:II)","40.6639307188879","-73.9382749875207","St. James Church",true,"Wednesday","12:30 PM","1:30 PM","C","null",7
+"865 MADISON STATE ROAD NY AVE New York NY ","PARK BENCH (:II)","40.6639307188879","-73.9382749875207","St. James Church",true,"Thursday","12:30 PM","1:30 PM","C","null",7
+"62 E 92ND STATE ROAD NY ST New York NY ","PARK MADISON","40.6627546","-73.928788","Brick Church Parish House",true,"Friday","6:45 PM","7:45 PM","C","null",7
+"62 E 92ND STATE ROAD NY ST New York NY ","PARK MADISON","40.6627546","-73.928788","Brick Church Parish House",true,"Tuesday","6:45 PM","7:45 PM","B","null",7
+"62 E 92ND STATE ROAD NY ST New York NY ","PARK MADISON","40.6627546","-73.928788","Brick Church Parish House",true,"Tuesday","8:00 PM","9:00 PM","C","null",7
+"62 E 92ND STATE ROAD NY ST New York NY ","PARK MADISON","40.6627546","-73.928788","Brick Church Parish House",true,"Friday","8:00 PM","9:00 PM","S","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","PERSEVERANCE","40.7694194","-73.9555151","Jan Hus Church",false,"Saturday","11:00 AM","12:00 PM","OD","null",7
+"420 E 87TH STATE ROAD NY ST New York NY ","RECOVERY ROOM","40.7770465","-73.9479432","St. Joseph''s School",false,"Wednesday","7:00 PM","8:00 PM","B","null",7
+"593 PARK STATE ROAD NY AVE New York NY ","RENEWAL EAST","40.6639307188879","-73.9382749875207","Central Presbyterian Church",true,"Wednesday","6:30 PM","7:30 PM","C","null",7
+"65 E 89TH STATE ROAD NY ST New York NY ","RENEWAL NORTH","40.78259","-73.9566571","St. Thomas More Church",true,"Thursday","6:30 PM","7:30 PM","OD","null",7
+"865 MADISON STATE ROAD NY AVE New York NY ","RHINELANDER","40.6639307188879","-73.9382749875207","St. James Episcopal Church",false,"Monday","6:00 PM","7:00 PM","OD","null",7
+"865 MADISON STATE ROAD NY AVE New York NY ","RHINELANDER","40.6639307188879","-73.9382749875207","St. James Episcopal Church",false,"Thursday","6:00 PM","7:00 PM","S","null",7
+"865 MADISON STATE ROAD NY AVE New York NY ","RHINELANDER","40.6639307188879","-73.9382749875207","St. James Episcopal Church",false,"Thursday","7:00 PM","8:00 PM","B","null",7
+"865 MADISON STATE ROAD NY AVE New York NY ","RHINELANDER","40.6639307188879","-73.9382749875207","St. James Episcopal Church",false,"Monday","7:00 PM","8:00 PM","B","null",7
+"CHURCH OF THE GOOD SHEPARD STATE ROAD YORK NY New York NY ","ROOSEVELT ISLAND SERENITY","40.6639307188879","-73.9382749875207",,true,"Saturday","6:30 PM","7:30 PM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Tuesday","6:00 AM","7:00 AM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Monday","6:00 AM","7:00 AM","C","Daily Reflections",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Friday","6:00 AM","7:00 AM","BB","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Thursday","6:00 AM","7:00 AM","S","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Wednesday","6:00 AM","7:00 AM","C","As Bill Sees It",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Tuesday","7:15 AM","8:15 AM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Monday","7:15 AM","8:15 AM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Friday","7:15 AM","8:15 AM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Thursday","7:15 AM","8:15 AM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Wednesday","7:15 AM","8:15 AM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Saturday","8:00 AM","9:00 AM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Sunday","8:00 AM","9:00 AM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Wednesday","8:30 AM","9:30 AM","T","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Tuesday","8:30 AM","9:30 AM","C","Promises",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Monday","8:30 AM","9:30 AM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Friday","8:30 AM","9:30 AM","S","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Thursday","8:30 AM","9:30 AM","BB","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Thursday","10:00 AM","11:00 AM","T","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Wednesday","10:00 AM","11:00 AM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Tuesday","10:00 AM","11:00 AM","S","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Monday","10:00 AM","11:00 AM","B","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Saturday","10:00 AM","11:00 AM","C","Children Welcome",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Sunday","10:00 AM","11:00 AM","S","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Friday","10:00 AM","11:00 AM","BB","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Thursday","12:30 PM","1:30 PM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Wednesday","12:30 PM","1:30 PM","S","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Tuesday","12:30 PM","1:30 PM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Monday","12:30 PM","1:30 PM","B","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Saturday","12:30 PM","1:30 PM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Sunday","12:30 PM","1:30 PM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Friday","12:30 PM","1:30 PM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Saturday","2:00 PM","3:00 PM","C","Women",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Sunday","2:00 PM","3:00 PM","C","Men",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Friday","4:00 PM","5:00 PM","S","First Step Workshop",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Thursday","4:00 PM","5:00 PM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Wednesday","4:00 PM","5:00 PM","B","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Tuesday","4:00 PM","5:00 PM","BB","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Monday","4:00 PM","5:00 PM","B","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Saturday","4:00 PM","5:00 PM","S","Steps 1-2-3",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Sunday","4:00 PM","5:00 PM","C","As Bill Sees It",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Friday","6:15 PM","7:15 PM","C","Children Welcome",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Thursday","6:15 PM","7:15 PM","O","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Wednesday","6:15 PM","7:15 PM","B","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Tuesday","6:15 PM","7:15 PM","S","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Monday","6:15 PM","7:15 PM","T","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Saturday","6:15 PM","7:15 PM","B","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Sunday","6:15 PM","7:15 PM","OD","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Sunday","8:00 PM","9:00 PM","C","Promises",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Friday","8:00 PM","9:00 PM","B","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Wednesday","8:00 PM","9:00 PM","BB","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Tuesday","8:00 PM","9:00 PM","C","Sponsorship Workshop",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Saturday","8:00 PM","9:00 PM","O","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Saturday","10:00 PM","11:00 PM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Sunday","10:00 PM","11:00 PM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Friday","10:00 PM","11:00 PM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Thursday","10:00 PM","11:00 PM","S","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Tuesday","10:00 PM","11:00 PM","C","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Monday","10:00 PM","11:00 PM","B","null",7
+"413 E 79TH STATE ROAD NY ST New York NY ","SEVENTY NINTH STREET WORKSHOP","40.7721222","-73.9517608","St. Monica''s Church",false,"Wednesday","10:00 PM","11:00 PM","C","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","SOBER WOMEN","40.7694194","-73.9555151","Jan Hus Church",false,"Saturday","9:15 AM","10:15 AM","C","Women",7
+"310 E 67TH STATE ROAD NY ST New York NY ","STEP BY STEP","40.7651821","-73.9599207","New York Blood Center",true,"Saturday","10:00 AM","11:00 AM","S","null",7
+"331 E 70TH STATE ROAD NY ST New York NY ","SUNDAY ON 70TH","40.766948","-73.9577722","Lenox Hill Neighborhood House",false,"Sunday","10:00 AM","11:00 AM","B","null",7
+"411 E 68TH STATE ROAD NY ST New York NY ","SUTTON","40.7651081","-73.957215","Church of St. Catherine of Siena",true,"Saturday","6:30 PM","7:30 PM","OD","null",7
+"2 E 90TH STATE ROAD NY ST New York NY ","THREE TWELVES","40.7836928","-73.9578694","Church of the Heavenly Rest",false,"Tuesday","12:00 PM","1:00 PM","C","null",7
+"2 E 90TH STATE ROAD NY ST New York NY ","THREE TWELVES","40.7836928","-73.9578694","Church of the Heavenly Rest",false,"Thursday","12:00 PM","1:00 PM","C","null",7
+"341 E 87TH STATE ROAD NY ST New York NY ","TRINITY","40.7780211","-73.9497263","Holy Trinity Church",false,"Friday","7:00 PM","8:00 PM","S","null",7
+"341 E 87TH STATE ROAD NY ST New York NY ","TRINITY","40.7780211","-73.9497263","Holy Trinity Church",false,"Tuesday","7:15 PM","8:15 PM","B","null",7
+"341 E 87TH STATE ROAD NY ST New York NY ","TRINITY","40.7780211","-73.9497263","Holy Trinity Church",false,"Friday","8:30 PM","9:30 PM","B","null",7
+"341 E 87TH STATE ROAD NY ST New York NY ","TRINITY","40.7780211","-73.9497263","Holy Trinity Church",false,"Tuesday","8:30 PM","9:30 PM","C","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","WE HUMANISTS","40.7694194","-73.9555151","Jan Hus Church",false,"Wednesday","6:15 PM","7:15 PM","C","Agnostic",7
+"351 E 74TH STATE ROAD NY ST New York NY ","WEDNESDAY EAST ON THURSDAY","40.7694194","-73.9555151","Jan Hus Church",false,"Thursday","8:00 PM","9:00 PM","C","null",7
+"351 E 74TH STATE ROAD NY ST New York NY ","YORKVILLE BUTTERFIELD","40.7694194","-73.9555151","Jan Hus Church",false,"Thursday","8:00 PM","9:00 PM","C","null",7
+"109 W 129TH ST New York NY ","A CHANCE TO LIVE AGAIN","40.8106798","-73.944244","SRO Building",true,"Wednesday","6:00 PM","7:00 PM","BB","null",8
+"109 W 129TH ST New York NY ","A CHANCE TO LIVE AGAIN","40.8106798","-73.944244","SRO Building",true,"Monday","7:00 PM","8:00 PM","B","null",8
+"240 W 145TH ST New York NY ","AA IT WORKSII","40.8222189","-73.9408621","Union Baptist Church",true,"Wednesday","10:00 AM","11:00 AM","B","null",8
+"240 W 145TH ST New York NY ","AA IT WORKSII","40.8222189","-73.9408621","Union Baptist Church",true,"Thursday","10:00 AM","11:00 AM","BB","null",8
+"240 W 145TH ST New York NY ","AA IT WORKSII","40.8222189","-73.9408621","Union Baptist Church",true,"Friday","10:00 AM","11:00 AM","S","null",8
+"240 W 145TH ST New York NY ","AA IT WORKSII","40.8222189","-73.9408621","Union Baptist Church",true,"Tuesday","10:00 AM","11:00 AM","OD","null",8
+"469 W 142ND ST New York NY ","ATTITUDE ADJUSTMENT","40.8232166","-73.9484769","Our Lady of Lourdes Church",false,"Saturday","7:30 AM","8:30 AM","OD","null",8
+"204 W 134TH ST New York NY ","CONVENT","40.8147959","-73.9448542","St. Phillip Church",false,"Saturday","11:30 AM","1:00 PM","OD","null",8
+"2044 ADAM CLAYTON POWELL BLVD New York NY ","FELLOWSHIP AT NOON","40.8072583","-73.9499047","Spiritual Renewal Church",false,"Monday","12:15 PM","1:15 PM","B","null",8
+"2044 ADAM CLAYTON POWELL BLVD New York NY ","FELLOWSHIP AT NOON","40.8072583","-73.9499047","Spiritual Renewal Church",false,"Wednesday","12:15 PM","1:15 PM","S","null",8
+"2044 ADAM CLAYTON POWELL BLVD New York NY ","FELLOWSHIP AT NOON","40.8072583","-73.9499047","Spiritual Renewal Church",false,"Friday","12:15 PM","1:15 PM","OD","null",8
+"469 W 142ND ST New York NY ","GRUPO TRASMITELO","40.8232166","-73.9484769",,false,"Thursday","8:00 PM","9:00 PM","B","null",8
+"521 W 126TH ST New York NY ","HARLEM HUMANISTS","40.8148408","-73.9561515","St. Mary''s Episcopal",true,"Monday","12:00 PM","1:00 PM","O","Agnostic",8
+"109 W 129TH ST New York NY ","K.I.S.S.","40.8106798","-73.944244","SRO Building Community Room",true,"Sunday","5:30 PM","6:30 PM","S","null",8
+"109 W 129TH ST New York NY ","K.I.S.S.","40.8106798","-73.944244","SRO Building Community Room",true,"Sunday","7:00 PM","8:00 PM","B","null",8
+"469 W 142ND ST New York NY ","LEARNING TO LIVE SOBER","40.8232166","-73.9484769","Our Lady of Lourdes",false,"Thursday","6:00 PM","7:00 PM","BB","null",8
+"2044 SEVENTH AVE New York NY ","LIVING CLEAN AND SOBER ON 121st STREET","40.8071759186691","-73.9497519327616",,true,"Sunday","6:00 PM","7:30 PM","B","null",8
+"127 W 127TH ST New York NY ","MEDITATION COMES TO HARLEM","40.8095378","-73.9453852","S.A.G.E.",true,"Monday","4:30 PM","5:30 PM","C","null",8
+"310 W 139TH ST New York NY ","MID HARLEM","40.8192096","-73.9453784","Grace Congregational Baptist Church",false,"Monday","7:00 PM","8:00 PM","S","null",8
+"310 W 139TH ST New York NY ","MID HARLEM","40.8192096","-73.9453784","Grace Congregational Baptist Church",false,"Friday","7:00 PM","8:00 PM","B","null",8
+"310 W 139TH ST New York NY ","MID HARLEM","40.8192096","-73.9453784","Grace Congregational Baptist Church",false,"Friday","8:00 PM","9:00 PM","O","null",8
+"409 W 141ST ST New York NY ","MONDAY NIGHT CHALLENGE","40.8215113","-73.9463991","St. James Church",false,"Monday","7:00 PM","8:00 PM","B","null",8
+"91 CLAREMONT AVE New York NY ","PRIMARY PURPOSE","40.8119559","-73.9625116","Riverside Church",true,"Sunday","3:00 PM","4:00 PM","OD","null",8
+"1727 AMSTERDAM AVE New York NY ","PROMISES TWO FOR ONE","40.8255289","-73.9471616","Upper Manhattan Mental Health Center",true,"Sunday","9:30 AM","10:30 AM","B","null",8
+"1727 AMSTERDAM AVE New York NY ","PROMISES TWO FOR ONE","40.8255289","-73.9471616","Upper Manhattan Mental Health Center",true,"Sunday","11:00 AM","12:00 PM","C","null",8
+"469 W 142ND ST New York NY ","REALITY CHECK","40.8232166","-73.9484769","Our Lady of Lourdes Church",false,"Saturday","5:00 PM","6:00 PM","OD","Men",8
+"91 CLAREMONT AVE New York NY ","RIVERSIDE","40.8119559","-73.9625116","Riverside Church",true,"Monday","7:00 PM","8:00 PM","C","null",8
+"219 W 132ND ST New York NY ","RIVERTON","40.8138548","-73.9459315","St. Aloysius School",false,"Saturday","3:00 PM","4:00 PM","B","null",8
+"219 W 132ND ST New York NY ","RIVERTON","40.8138548","-73.9459315","St. Aloysius School",false,"Saturday","6:00 PM","7:00 PM","O","null",8
+"219 W 132ND ST New York NY ","RIVERTON","40.8138548","-73.9459315","St. Aloysius School",false,"Tuesday","8:00 PM","9:00 PM","null","null",8
+"211 W 129TH ST New York NY ","SALEM","40.8119105","-73.9471217","Salem United Methodist Church Community Center",true,"Wednesday","7:30 PM","8:30 PM","C","null",8
+"425 W 144TH ST New York NY ","SOBER ADULT MEN","40.8238524","-73.9461167","Convent Baptist Church Education Building",true,"Wednesday","7:00 PM","8:00 PM","C","Men",8
+"204 W 134TH ST New York NY ","ST. NICHOLAS","40.8147959","-73.9448542","St. Phillip''s Church",true,"Sunday","4:00 PM","5:00 PM","O","null",8
+"204 W 134TH ST New York NY ","ST. NICHOLAS","40.8147959","-73.9448542","St. Phillip''s Church",true,"Thursday","7:00 PM","8:00 PM","B","null",8
+"506 LENOX AVE New York NY ","STEPS 3 and 11","40.8143457","-73.9403066","Harlem Hospital King Pavilion",true,"Sunday","2:00 PM","3:00 PM","B","null",8
+"1727 AMSTERDAM AVE New York NY ","SUGAR HILL","40.8255289","-73.9471616","Council Center for Problems of Living",true,"Friday","5:30 PM","6:30 PM","B","null",8
+"1854 AMSTERDAM AVE New York NY ","TUESDAY BIG BOOK STUDY","40.8295902","-73.9446541",,false,"Tuesday","6:00 PM","7:00 PM","BB","null",8
+"469 W 142ND ST New York NY ","UPTOWN BIG BOOK WORKSHOP","40.8232166","-73.9484769","Our Lady of Lourdes Church",false,"Saturday","9:30 AM","11:00 AM","BB","Big Book Workshop",8
+"5866 W 135TH ST New York NY ","YOU MAY CARE AFTER","40.6639307188879","-73.9382749875207","Metropolitan AME Church",true,"Tuesday","6:30 PM","7:30 PM","S","null",8
+"701 W 168TH ST New York NY ","A NEW WAY OF LIVING",40.8424566,-73.9424508,"Columbia Presbyterian Hospital",true,"Thursday","12:00 PM","1:00 PM","S","null",10
+"701 W 168TH ST New York NY ","A NEW WAY OF LIVING",40.8424566,-73.9424508,"Columbia Presbyterian Hospital",true,"Friday","12:00 PM","1:00 PM","C","Living Sober",10
+"701 W 168TH ST New York NY ","A NEW WAY OF LIVING",40.8424566,-73.9424508,"Columbia Presbyterian Hospital",true,"Monday","12:00 PM","1:00 PM","BB","null",10
+"701 W 168TH ST New York NY ","A NEW WAY OF LIVING",40.8424566,-73.9424508,"Columbia Presbyterian Hospital",true,"Tuesday","12:00 PM","1:00 PM","B","null",10
+"701 W 168TH ST New York NY ","A NEW WAY OF LIVING",40.8424566,-73.9424508,"Columbia Presbyterian Hospital",true,"Wednesday","12:00 PM","1:00 PM","C","null",10
+"715 W 179TH ST New York NY ","BRIDGE TO SOBRIETY (:I)",40.8492702,-73.9382266,"Holy Rood Church",false,"Monday","10:00 AM","11:00 AM","OD","null",10
+"715 W 179TH ST New York NY ","BRIDGE TO SOBRIETY (:I)",40.8492702,-73.9382266,"Holy Rood Church",false,"Tuesday","10:00 AM","11:00 AM","B","Living Sober",10
+"715 W 179TH ST New York NY ","BRIDGE TO SOBRIETY (:I)",40.8492702,-73.9382266,"Holy Rood Church",false,"Wednesday","10:00 AM","11:00 AM","BB","null",10
+"715 W 179TH ST New York NY ","BRIDGE TO SOBRIETY (:I)",40.8492702,-73.9382266,"Holy Rood Church",false,"Thursday","10:00 AM","11:00 AM","S","null",10
+"715 W 179TH ST New York NY ","BRIDGE TO SOBRIETY (:I)",40.8492702,-73.9382266,"Holy Rood Church",false,"Friday","10:00 AM","11:00 AM","OD","null",10
+"715 W 179TH ST New York NY ","BRIDGE TO SOBRIETY (:II)",40.8492702,-73.9382266,"Holy Rood Church",true,"Sunday","10:00 AM","11:00 AM","S","null",10
+"431 W 204TH ST New York NY ","DYCKMAN",40.8620966104922,-73.9190004613749,"St. Jude''s School",false,"Sunday","12:00 PM","1:00 PM","O","null",10
+"431 W 204TH ST New York NY ","DYCKMAN",40.8620966104922,-73.9190004613749,"St. Jude''s School",false,"Wednesday","7:00 PM","8:00 PM","S","null",10
+"550 W 155TH ST New York NY ","FOUND A WAY",40.8321452,-73.9448547,"Church of the Intercession",false,"Saturday","12:30 PM","2:00 PM","C","Gay Men",10
+"557 W 156TH ST New York NY ","GRUPO DESPERTAR",40.8333254,-73.9446563,"Casita Esperanza",true,"Wednesday","8:00 PM","10:00 PM","C","null",10
+"557 W 156TH ST New York NY ","GRUPO DESPERTAR",40.8333254,-73.9446563,"Casita Esperanza",true,"Friday","8:00 PM","10:00 PM","OD","null",10
+"35 THAYER ST New York NY ","GRUPO LA FLAMA PANAMERICANA",40.8626147,-73.9263819,,true,"Sunday","5:00 PM","7:00 PM","O","null",10
+"35 THAYER ST New York NY ","GRUPO LA FLAMA PANAMERICANA",40.8626147,-73.9263819,,true,"Tuesday","8:00 PM","10:00 PM","O","null",10
+"35 THAYER ST New York NY ","GRUPO LA FLAMA PANAMERICANA",40.8626147,-73.9263819,,true,"Thursday","8:00 PM","10:00 PM","O","null",10
+"35 THAYER ST New York NY ","GRUPO LA FLAMA PANAMERICANA",40.8626147,-73.9263819,,true,"Saturday","8:00 PM","10:00 PM","O","null",10
+"715 W 179TH ST New York NY ","GRUPO LIBERTAD",40.8492702,-73.9382266,"Episcopal Holy Rood Church",true,"Tuesday","7:30 PM","8:30 PM","BB","null",10
+"715 W 179TH ST New York NY ","GRUPO LIBERTAD",40.8492702,-73.9382266,"Episcopal Holy Rood Church",true,"Thursday","7:30 PM","8:30 PM","BB","null",10
+"715 W 179TH ST New York NY ","GRUPO LIBERTAD",40.8492702,-73.9382266,"Episcopal Holy Rood Church",true,"Thursday","9:30 PM","10:30 AM","C","null",10
+"715 W 179TH ST New York NY ","GRUPO LIBERTAD",40.8492702,-73.9382266,"Episcopal Holy Rood Church",true,"Tuesday","9:30 PM","10:30 PM","C","null",10
+"502 W 165TH ST New York NY ","GRUPO RECUPERACION",40.8378476619065,-73.9384773058967,"Church Santa Rosa de Lima",false,"Sunday","2:30 PM","3:30 PM","O","null",10
+"502 W 165TH ST New York NY ","GRUPO RECUPERACION",40.8378476619065,-73.9384773058967,"Church Santa Rosa de Lima",false,"Tuesday","8:00 PM","9:00 PM","C","null",10
+"502 W 165TH ST New York NY ","GRUPO RECUPERACION",40.8378476619065,-73.9384773058967,"Church Santa Rosa de Lima",false,"Thursday","8:00 PM","9:00 PM","O","null",10
+"91 ARDEN ST New York NY ","GRUPO UN NUEVO AMANECER",40.8639073,-73.9282532,"Our Lady Queen of Martyrs",false,"Monday","8:00 PM","9:00 PM","C","null",10
+"91 ARDEN ST New York NY ","GRUPO UN NUEVO AMANECER",40.8639073,-73.9282532,"Our Lady Queen of Martyrs",false,"Friday","8:00 PM","9:00 PM","OD","null",10
+"20 CUMMING ST New York NY ","HAPPY DESTINY",40.8664723,-73.9264521,"Holy Trinity Episcopal Church",false,"Sunday","7:30 PM","8:30 PM","C","Gay, Lesbian and Bisexual",10
+"20 CUMMING ST New York NY ","HAPPY DESTINY",40.8664723,-73.9264521,"Holy Trinity Episcopal Church",false,"Wednesday","7:30 PM","8:30 PM","B","Gay, Lesbian and Bisexual",10
+"84 VERMILYEA AVE New York NY ","INWOOD FORT TRYON",40.86596,-73.9231447,"Mount Washington Presbyterian Church",false,"Saturday","11:00 AM","12:00 PM","B","null",10
+"84 VERMILYEA AVE New York NY ","INWOOD FORT TRYON",40.86596,-73.9231447,"Mount Washington Presbyterian Church",false,"Saturday","11:00 AM","12:00 PM","C","null",10
+"84 VERMILYEA AVE New York NY ","INWOOD FORT TRYON",40.86596,-73.9231447,"Mount Washington Presbyterian Church",false,"Tuesday","12:30 PM","1:30 PM","C","null",10
+"620 ISHAM ST New York NY ","ISHAM PARK",40.8692449,-73.9206611,"Church of the Good Shepherd",false,"Monday","8:00 PM","9:00 PM","C","null",10
+"2005 AMSTERDAM AVE New York NY ","PROGRESS NOT PERFECTION",40.8342553,-73.9407968,"COATHA Church on the Hill Senior Center",true,"Friday","7:30 PM","8:30 PM","OD","null",10
+"178 BENNETT AVE New York NY ","THE MEN UPSTAIRS",40.8560069,-73.9342762,"Our Saviour''s Atonement Lutheran Church",false,"Monday","8:00 PM","9:00 PM","C","Men",10
+"178 BENNETT AVE New York NY ","THE MISSING LINK",40.8560069,-73.9342762,"Our Saviour''s Atonement Church",false,"Friday","7:00 PM","8:00 PM","BB","null",10
+"91 ARDEN ST New York NY ","UPPER MANHATTAN",40.8639073,-73.9282532,"Our Lady Queen of Martyrs",false,"Thursday","7:30 PM","8:30 PM","OD","null",10
+"20 CUMMINGS ST New York NY ","UPTOWN SATURDAY NIGHT",40.8664723,-73.9264521,"Holy Trinity Church",false,"Saturday","7:00 PM","8:00 PM","C","null",10
+"715 W 179TH ST New York NY ","WASHINGTON HEIGHTS(:I)",40.8492702,-73.9382266,"Holy Rood Church",true,"Tuesday","7:30 PM","8:30 PM","O","null",10
+"178 BENNETT AVE New York NY ","WASHINGTON HEIGHTS (:II)",40.8560069,-73.9342762,"Cornerstone Center",false,"Thursday","7:30 PM","8:30 PM","C","null",10
+"178 BENNETT AVE New York NY ","WHAT WE ARE LIKE NOW",40.8560069,-73.9342762,"The Corner Stone Center",false,"Sunday","6:00 PM","7:00 PM","C","null",10
+"178 BENNETT AVE New York NY ","WOMEN''S NITE",40.8560069,-73.9342762,"Cornerstone Center",false,"Monday","7:30 PM","8:30 PM","BB","null",10
+"7 E 10TH ST New York, NY","12 CONCEPTS WORKSHOP","40.6482599","-73.9704806","N.Y.U Bronfman Center",false,"Wednesday","8:15 PM","9:15 PM","C","null",3
+"155 E 22ND ST New York, NY","22 BELOW","40.7384244","-73.9840055","Gustavus Adolphus Church",false,"Thursday","12:15 PM","1:15 PM","OD","null",3
+"155 E 22ND ST New York, NY","22 BELOW","40.7384244","-73.9840055","Gustavus Adolphus Church",false,"Friday","12:15 PM","1:15 PM","C","null",3
+"155 E 22ND ST New York, NY","22 BELOW","40.7384244","-73.9840055","Gustavus Adolphus Church",false,"Monday","12:15 PM","1:15 PM","BB","null",3
+"155 E 22ND ST New York, NY","22 BELOW","40.7384244","-73.9840055","Gustavus Adolphus Church",false,"Tuesday","12:15 PM","1:15 PM","B","Living Sober",3
+"155 E 22ND ST New York, NY","22 BELOW","40.7384244","-73.9840055","Gustavus Adolphus Church",false,"Wednesday","12:15 PM","1:15 PM","S","null",3
+"61 FOURTH AVE New York, NY","AA AT THE THREE JEWELS","40.7307719","-73.9903164","Three Jewels Community Center",false,"Thursday","6:00 PM","7:15 PM","null","Meditation",3
+"61 FOURTH AVE New York, NY","AA AT THE THREE JEWELS","40.7307719","-73.9903164","Three Jewels Community Center",false,"Sunday","7:00 PM","8:30 PM","null","Meditation",3
+"208 W 13TH ST New York, NY","AGNOSTICS AT NOON","40.7381228","-74.0010304","Lesbian, Gay, Bi-Sexual &amp; Transgender Community Center",false,"Thursday","12:00 PM","1:00 PM","C","Agnostic",3
+"123 E 15TH ST New York, NY","ALIVE AGAIN","40.7346341","-73.9879773","Seafarers &amp; Intl House",true,"Saturday","1:00 PM","2:00 PM","S","null",3
+"61 GRAMERCY PARK N New York, NY","AT BILL''S PLACE","40.7387068","-73.986572","Calvary Church Parish House",false,"Wednesday","6:30 PM","7:30 PM","C","null",3
+"155 E 22ND ST New York, NY","ATLANTIC BY THE BOOK","40.7384244","-73.9840055","Gustavus Adolphus Lutheran Church",true,"Wednesday","7:00 PM","8:00 PM","BB","null",3
+"127 E 22ND ST New York, NY","ATLANTIC DOWNTOWN","40.7390247","-73.9854161","Mabel Bacon High School of the Future",true,"Sunday","7:00 PM","8:00 PM","O","null",3
+"602 E 9TH ST New York, NY","AVENUE B CLEAN AND DRY","40.7260409","-73.9800393","Trinity Lower East Side Lutheran Parish",true,"Thursday","7:00 PM","8:15 PM","C","null",3
+"125 W 14TH ST New York, NY","BIG BOOK MAGIC","40.7379244","-73.9976813","McBurney YMCA",true,"Thursday","7:45 PM","8:45 PM","BB","Big Book Topic",3
+"346 W 20TH ST New York, NY","CHELSEA MORNINGS","40.7441452","-74.0019191","St. Peters Episcopal Church- Rectory",false,"Tuesday","8:00 AM","9:00 AM","B","null",3
+"346 W 20TH ST New York, NY","CHELSEA MORNINGS","40.7441452","-74.0019191","St. Peters Episcopal Church- Rectory",false,"Monday","8:00 AM","9:00 AM","OD","null",3
+"346 W 20TH ST New York, NY","CHELSEA MORNINGS","40.7441452","-74.0019191","St. Peters Episcopal Church- Rectory",false,"Wednesday","8:00 AM","9:00 AM","S","null",3
+"346 W 20TH ST New York, NY","CHELSEA MORNINGS","40.7441452","-74.0019191","St. Peters Episcopal Church- Rectory",false,"Thursday","8:00 AM","9:00 AM","BB","null",3
+"346 W 20TH ST New York, NY","CHELSEA MORNINGS","40.7441452","-74.0019191","St. Peters Episcopal Church- Rectory",false,"Friday","8:00 AM","9:00 AM","C","Meditation",3
+"346 W 20TH ST New York, NY","CHELSEA MORNINGS","40.7441452","-74.0019191","St. Peters Episcopal Church- Rectory",false,"Saturday","8:00 AM","9:00 AM","OD","null",3
+"125 W 14TH ST New York, NY","CHELSEA NOONERS","40.7379244","-73.9976813","McBurney YMCA",true,"Tuesday","12:00 PM","1:00 PM","C","null",3
+"125 W 14TH ST New York, NY","CHELSEA NOONERS","40.7379244","-73.9976813","McBurney YMCA",true,"Thursday","12:00 PM","1:00 PM","C","null",3
+"414 E 14TH ST New York, NY","COMPLETE ABANDON","40.7309298","-73.9819876","Our Lady of Immaculate Conception",true,"Wednesday","8:30 PM","9:30 PM","S","null",3
+"119 NINTH AVE New York, NY","COMPLETELY SOBER","40.7432442","-74.0039393","Fulton Senior Center",true,"Monday","6:45 PM","8:00 PM","OD","null",3
+"28 GRAMERCY PARK S New York, NY","CROSSROADS","40.7371499","-73.9853123","Christopher House",true,"Saturday","4:00 PM","5:00 PM","O","null",3
+"28 GRAMERCY PARK S New York, NY","CROSSROADS","40.7371499","-73.9853123","Christopher House",true,"Sunday","4:00 PM","5:00 PM","O","null",3
+"202 W 24 ST New York, NY","EAST MEETS WEST IN SOBRIETY","40.7449478","-73.995862","Brotherhood Synagogue",true,"Wednesday","7:00 PM","8:00 PM","C","null",3
+"50 E 7TH ST New York, NY","EAST VILLAGE GROUP","40.6519369","-73.9750389","Middle Collegiate Church",false,"Tuesday","7:00 PM","8:00 PM","O","null",3
+"50 E 7TH ST New York, NY","EAST VILLAGE GROUP","40.6519369","-73.9750389","Middle Collegiate Church",false,"Saturday","7:00 PM","8:00 PM","B","null",3
+"50 E 7TH ST New York, NY","EAST VILLAGE GROUP","40.6519369","-73.9750389","Middle Collegiate Church",false,"Saturday","7:00 PM","8:00 PM","OD","null",3
+"50 E 7TH ST New York, NY","EAST VILLAGE GROUP","40.6519369","-73.9750389","Middle Collegiate Church",false,"Sunday","7:00 PM","8:00 PM","BB","null",3
+"50 E 7TH ST New York, NY","EAST VILLAGE GROUP","40.6519369","-73.9750389","Middle Collegiate Church",false,"Tuesday","7:00 PM","8:15 PM","S","null",3
+"50 E 7TH ST New York, NY","EAST VILLAGE GROUP","40.6519369","-73.9750389","Middle Collegiate Church",false,"Tuesday","8:30 PM","9:30 PM","C","null",3
+"50 E 7TH ST New York, NY","EAST VILLAGE GROUP","40.6519369","-73.9750389","Middle Collegiate Church",false,"Saturday","8:30 PM","9:30 PM","C","null",3
+"273 BOWERY New York, NY","EXPERIENCE STRENGTH AND HOPE","40.7236736","-73.9924832","University Settlement House",true,"Wednesday","7:00 PM","8:00 PM","C","null",3
+"802 BROADWAY New York, NY","GRACE ON BROADWAY","40.7320395","-73.991189","Grace Church Office Building",true,"Monday","8:15 AM","9:15 AM","O","null",3
+"802 BROADWAY New York, NY","GRACE ON BROADWAY","40.7320395","-73.991189","Grace Church Office Building",true,"Tuesday","8:15 AM","9:15 AM","C","null",3
+"802 BROADWAY New York, NY","GRACE ON BROADWAY","40.7320395","-73.991189","Grace Church Office Building",true,"Thursday","8:15 AM","9:15 AM","C","null",3
+"28 GRAMMERCY PARK S New York, NY","GRAMERCY","40.7371499","-73.9853123","Brothhood Synagogue",true,"Monday","6:30 PM","7:30 PM","C","null",3
+"28 GRAMMERCY PARK S New York, NY","GRAMERCY","40.7371499","-73.9853123","Brothhood Synagogue",true,"Thursday","6:30 PM","7:30 PM","S","null",3
+"209 E 16TH ST New York, NY","GRATEFUL GROUP OF A.A.","40.7345135","-73.9854432","Saint George Episcopal Church",false,"Monday","5:00 PM","6:00 PM","B","null",3
+"209 E 16TH ST New York, NY","GRATEFUL GROUP OF A.A.","40.7345135","-73.9854432","Saint George Episcopal Church",false,"Friday","5:00 PM","6:00 PM","BB","null",3
+"209 E 16TH ST New York, NY","GRATEFUL GROUP OF A.A.","40.7345135","-73.9854432","Saint George Episcopal Church",false,"Tuesday","5:00 PM","6:00 PM","O","null",3
+"209 E 16TH ST New York, NY","GRATEFUL GROUP OF A.A.","40.7345135","-73.9854432","Saint George Episcopal Church",false,"Thursday","5:00 PM","6:00 PM","null","Meditation",3
+"209 E 16TH ST New York, NY","GRATEFUL GROUP OF A.A.","40.7345135","-73.9854432","Saint George Episcopal Church",false,"Sunday","5:00 PM","6:00 PM","O","Men",3
+"209 E 16TH ST New York, NY","GRATEFUL GROUP OF A.A.","40.7345135","-73.9854432","Saint George Episcopal Church",false,"Wednesday","5:00 PM","6:00 PM","S","null",3
+"209 E 16TH ST New York, NY","GRATEFUL GROUP OF A.A.","40.7345135","-73.9854432","Saint George Episcopal Church",false,"Monday","6:15 PM","7:00 PM","S","Fourth Step Workshop",3
+"44 2ND AVE New York, NY","GRUPO EL MILAGRO","40.7251086","-73.9899858","Church of the Nativity",false,"Sunday","8:00 PM","9:00 PM","O","null",3
+"229 W 14TH ST New York, NY","GRUPO GRATITUD","40.7392489","-74.0008788","Our Lady of Guadalupe Church",false,"Monday","8:00 PM","9:00 PM","C","null",3
+"229 W 14TH ST New York, NY","GRUPO GRATITUD","40.7392489","-74.0008788","Our Lady of Guadalupe Church",false,"Tuesday","8:00 PM","9:00 PM","O","null",3
+"229 W 14TH ST New York, NY","GRUPO SOBRIEDAD","40.7392489","-74.0008788","Our Lady of Guadalupe Church",false,"Tuesday","1:00 PM","2:00 PM","C","null",3
+"208 W 13TH ST New York, NY","HIGH NOON","40.7381228","-74.0010304","Lesbian, Gay, Bi-Sexual &amp; Transgender Community Center",true,"Sunday","12:00 PM","1:00 PM","O","Interpreted for the Deaf",3
+"28 GRAMERCY PARK S New York, NY","JUST FOR TODAY","40.7371499","-73.9853123","Brotherhood Synagogue",true,"Tuesday","7:00 PM","8:00 PM","S","null",3
+"208 W 13TH ST New York, NY","LAeX","40.7381228","-74.0010304","Lesbian, Gay, Bisexual, &amp; Transgender Community Center",true,"Saturday","8:00 PM","9:00 PM","O","null",3
+"307 W 26TH ST New York, NY","LEARNING TO LIVE ( :1)","40.7474685","-73.9974137","The Upright Citizens Brigade Theatre",true,"Thursday","12:00 PM","1:00 AM","C","Promises",3
+"307 W 26TH ST New York, NY","LEARNING TO LIVE ( :1)","40.7474685","-73.9974137","The Upright Citizens Brigade Theatre",true,"Monday","12:00 PM","1:00 PM","B","null",3
+"307 W 26TH ST New York, NY","LEARNING TO LIVE ( :1)","40.7474685","-73.9974137","The Upright Citizens Brigade Theatre",true,"Tuesday","12:00 PM","1:00 PM","BB","null",3
+"307 W 26TH ST New York, NY","LEARNING TO LIVE ( :1)","40.7474685","-73.9974137","The Upright Citizens Brigade Theatre",true,"Wednesday","12:00 PM","1:00 PM","S","null",3
+"307 W 26TH ST New York, NY","LEARNING TO LIVE ( :1)","40.7474685","-73.9974137","The Upright Citizens Brigade Theatre",true,"Friday","12:00 PM","1:00 PM","OD","null",3
+"343 W 25TH ST New York, NY","LEARNING TO LIVE ( :II)","40.747411","-73.9992698","St. Columba Church",false,"Monday","7:00 PM","8:00 PM","O","null",3
+"80 SAINT MARK New York, NY","LIVING NOW","40.7276820090652","-73.9857361176058","Theatre 80",false,"Saturday","10:00 AM","11:00 AM","O","null",3
+"80 SAINT MARK New York, NY","LIVING NOW","40.7276820090652","-73.9857361176058","Theatre 80",false,"Sunday","10:00 AM","11:00 AM","OD","null",3
+"80 SAINT MARK New York, NY","LIVING NOW","40.7276820090652","-73.9857361176058","Theatre 80",false,"Sunday","10:15 AM","11:15 AM","C","null",3
+"80 SAINT MARK New York, NY","LIVING NOW","40.7276820090652","-73.9857361176058","Theatre 80",false,"Thursday","1:00 PM","2:00 PM","S","null",3
+"80 SAINT MARK New York, NY","LIVING NOW","40.7276820090652","-73.9857361176058","Theatre 80",false,"Saturday","1:00 PM","2:00 PM","OD","Women",3
+"80 SAINT MARK New York, NY","LIVING NOW","40.7276820090652","-73.9857361176058","Theatre 80",false,"Monday","1:00 PM","2:00 PM","OD","null",3
+"80 SAINT MARK New York, NY","LIVING NOW","40.7276820090652","-73.9857361176058","Theatre 80",false,"Tuesday","1:00 PM","2:00 PM","O","null",3
+"80 SAINT MARK New York, NY","LIVING NOW","40.7276820090652","-73.9857361176058","Theatre 80",false,"Wednesday","1:00 PM","2:00 PM","OD","null",3
+"80 SAINT MARK New York, NY","LIVING NOW","40.7276820090652","-73.9857361176058","Theatre 80",false,"Friday","1:00 PM","2:00 PM","BB","null",3
+"80 SAINT MARK New York, NY","LIVING NOW","40.7276820090652","-73.9857361176058","Theatre 80",false,"Sunday","2:00 PM","3:00 PM","BB","null",3
+"80 SAINT MARK New York, NY","LIVING NOW","40.7276820090652","-73.9857361176058","Theatre 80",false,"Saturday","5:30 PM","6:30 PM","B","null",3
+"80 SAINT MARK New York, NY","LIVING NOW","40.7276820090652","-73.9857361176058","Theatre 80",false,"Wednesday","6:00 PM","7:00 PM","B","Beginners Workshop",3
+"80 SAINT MARK New York, NY","LIVING NOW","40.7276820090652","-73.9857361176058","Theatre 80",false,"Thursday","7:00 PM","8:00 PM","S","null",3
+"80 SAINT MARK New York, NY","LIVING NOW","40.7276820090652","-73.9857361176058","Theatre 80",false,"Tuesday","7:00 PM","8:00 PM","S","Fourth Step Workshop",3
+"208 W 13TH ST New York, NY","LIVING TODAY","40.7381228","-74.0010304","Lesbian, Gay, Bi-Sexual &amp; Transgender Community Center",true,"Sunday","6:45 PM","7:45 PM","S","Gay, Lesbian and Bisexual",3
+"208 W 13TH ST New York, NY","LIVING TODAY","40.7381228","-74.0010304","Lesbian, Gay, Bi-Sexual &amp; Transgender Community Center",true,"Sunday","8:00 PM","9:00 PM","O","Gay, Lesbian and Bisexual",3
+"51 E 25TH ST New York, NY","MADISON PARK BEGINNERS","40.7419488","-73.9861549","Intercare",true,"Wednesday","10:00 AM","11:00 AM","B","null",3
+"51 E 25TH ST New York, NY","MADISON PARK BEGINNERS","40.7419488","-73.9861549","Intercare",true,"Thursday","5:30 PM","6:30 PM","B","null",3
+"155 E 22ND ST New York, NY","MANHATTAN","40.7384244","-73.9840055","Gustavus Adolphus Church",false,"Tuesday","7:00 PM","8:00 PM","B","null",3
+"155 E 22ND ST New York, NY","MANHATTAN","40.7384244","-73.9840055","Gustavus Adolphus Church",false,"Friday","7:00 PM","8:15 PM","S","null",3
+"7 E 10TH ST New York, NY","N.Y.U. (NOW YOU UNDERSTAND)","40.7332068","-73.9946888","Bronfman Center",false,"Friday","12:30 PM","1:30 PM","S","null",3
+"7 E 10TH ST New York, NY","N.Y.U. (NOW YOU UNDERSTAND)","40.7332068","-73.9946888","Bronfman Center",false,"Monday","12:30 PM","1:30 PM","C","null",3
+"7 E 10TH ST New York, NY","N.Y.U. (NOW YOU UNDERSTAND)","40.7332068","-73.9946888","Bronfman Center",false,"Tuesday","12:30 PM","1:30 PM","BB","null",3
+"7 E 10TH ST New York, NY","N.Y.U. (NOW YOU UNDERSTAND)","40.7332068","-73.9946888","Bronfman Center",false,"Wednesday","12:30 PM","1:30 PM","B","null",3
+"7 E 10TH ST New York, NY","N.Y.U. (NOW YOU UNDERSTAND)","40.7332068","-73.9946888","Bronfman Center",false,"Thursday","12:30 PM","1:30 PM","C","null",3
+"7 E 10TH ST New York, NY","N.Y.U. (NOW YOU UNDERSTAND)","40.7332068","-73.9946888","Bronfman Center",false,"Friday","2:00 PM","3:00 PM","B","null",3
+"7 E 10TH ST New York, NY","N.Y.U. (NOW YOU UNDERSTAND)","40.7332068","-73.9946888","Bronfman Center",false,"Monday","2:00 PM","3:00 PM","C","Promises",3
+"7 E 10TH ST New York, NY","N.Y.U. (NOW YOU UNDERSTAND)","40.7332068","-73.9946888","Bronfman Center",false,"Tuesday","2:00 PM","3:00 PM","S","null",3
+"7 E 10TH ST New York, NY","N.Y.U. (NOW YOU UNDERSTAND)","40.7332068","-73.9946888","Bronfman Center",false,"Wednesday","2:00 PM","3:00 PM","BB","null",3
+"7 E 10TH ST New York, NY","N.Y.U. (NOW YOU UNDERSTAND)","40.7332068","-73.9946888","Bronfman Center",false,"Thursday","2:00 PM","3:00 PM","C","null",3
+"315 W 22ND ST New York, NY","NEVER HAD A LEGAL DRINK","40.7450587","-73.9997029","German Evangelist Lutheran Church of St. Paul",false,"Thursday","8:00 PM","9:00 PM","OD","Young People",3
+"15 RUTHERFORD PL New York, NY","NEW LIFE IN SOBRIETY","40.7337834","-73.985098","Friends Meeting House",false,"Friday","7:00 PM","8:00 PM","B","null",3
+"15 RUTHERFORD PL New York, NY","NEW LIFE IN SOBRIETY","40.7337834","-73.985098","Friends Meeting House",false,"Monday","7:00 PM","8:30 PM","S","null",3
+"15 RUTHERFORD PL New York, NY","NEW LIFE IN SOBRIETY","40.7337834","-73.985098","Friends Meeting House",false,"Friday","8:30 PM","9:30 PM","C","null",3
+"25 E 15TH CONFERENCE New York, NY","NINJAS IN RECOVERY","40.7361047","-73.9914936","The Realization Center",false,"Wednesday","8:00 PM","9:00 PM","S","null",3
+"175 9TH AVE New York, NY","NINTH AVENUE (:II)","40.6717748","-73.9913909","General Theological Seminary",false,"Friday","6:00 PM","7:00 PM","B","null",3
+"175 9TH AVE New York, NY","NINTH AVENUE (:II)","40.6717748","-73.9913909","General Theological Seminary",false,"Friday","6:00 PM","7:00 PM","C","null",3
+"175 9TH AVE New York, NY","NINTH AVENUE (:II)","40.6717748","-73.9913909","General Theological Seminary",false,"Friday","6:00 PM","7:00 PM","OD","Eleventh Step Meditation",3
+"175 9TH AVE New York, NY","NINTH AVENUE (:II)","40.6717748","-73.9913909","General Theological Seminary",false,"Friday","7:15 PM","8:15 PM","BB","null",3
+"175 9TH AVE New York, NY","NINTH AVENUE (:II)","40.6717748","-73.9913909","General Theological Seminary",false,"Friday","7:15 PM","8:15 PM","C","H.I.V Positive",3
+"175 9TH AVE New York, NY","NINTH AVENUE (:II)","40.6717748","-73.9913909","General Theological Seminary",false,"Friday","7:15 PM","8:15 PM","C","null",3
+"175 9TH AVE New York, NY","NINTH AVENUE (:II)","40.6717748","-73.9913909","General Theological Seminary",false,"Friday","7:15 PM","8:15 PM","O","null",3
+"175 9TH AVE New York, NY","NINTH AVENUE (:II)","40.6717748","-73.9913909","General Theological Seminary",false,"Friday","8:30 PM","9:30 PM","C","null",3
+"19 UNION SQ W New York, NY","OADW (ONCE A DRUNK WOMAN)","40.7360864","-73.9912277","The Realization Center",true,"Tuesday","8:00 PM","9:00 PM","C","Women",3
+"155 E 22ND ST New York, NY","P.A.X","40.7384244","-73.9840055","Gustavus Adolphus Church",false,"Monday","6:45 PM","7:45 PM","B","Men",3
+"155 E 22ND ST New York, NY","P.A.X","40.7384244","-73.9840055","Gustavus Adolphus Church",false,"Monday","6:45 PM","7:45 PM","BB","Men",3
+"155 E 22ND ST New York, NY","P.A.X","40.7384244","-73.9840055","Gustavus Adolphus Church",false,"Tuesday","6:45 PM","7:45 PM","S","Men",3
+"155 E 22ND ST New York, NY","P.A.X","40.7384244","-73.9840055","Gustavus Adolphus Church",false,"Thursday","6:45 PM","7:45 PM","C","Men",3
+"155 E 22ND ST New York, NY","P.A.X","40.7384244","-73.9840055","Gustavus Adolphus Church",false,"Tuesday","6:45 PM","7:45 PM","C","Men",3
+"423 E 23RD ST New York, NY","POT LUCK","40.7368113","-73.9772015","Veterans Administration Hospital",true,"Saturday","9:00 PM","10:00 PM","OD","null",3
+"209 E 16TH ST New York, NY","POTPOURRI","40.7345135","-73.9854432","St. George''s Church",false,"Monday","6:00 PM","6:00 PM","O","null",3
+"209 E 16TH ST New York, NY","POTPOURRI","40.7345135","-73.9854432","St. George''s Church",false,"Tuesday","6:00 PM","7:00 PM","S","null",3
+"209 E 16TH ST New York, NY","POTPOURRI","40.7345135","-73.9854432","St. George''s Church",false,"Wednesday","6:00 PM","7:00 PM","BB","null",3
+"209 E 16TH ST New York, NY","POTPOURRI","40.7345135","-73.9854432","St. George''s Church",false,"Thursday","6:00 PM","7:00 PM","C","null",3
+"209 E 16TH ST New York, NY","POTPOURRI","40.7345135","-73.9854432","St. George''s Church",false,"Friday","6:00 PM","7:00 PM","B","null",3
+"411 E 12TH ST New York, NY","PRIMETIME NYC (II)","40.729824","-73.982816","",false,"Sunday","1:30 PM","2:30 PM","OD","null",3
+"209 E 16TH ST New York, NY","SATURDAY BEGINNERS","40.7345135","-73.9854432","St. George''s Church",false,"Saturday","10:30 AM","11:30 AM","B","null",3
+"209 E 16TH ST New York, NY","SATURDAY BEGINNERS","40.7345135","-73.9854432","St. George''s Church",false,"Saturday","10:30 AM","11:30 AM","BB","null",3
+"239 E 21ST ST New York, NY","SATURDAY WEEKENDERS","40.7369141","-73.9823276","Epiphany Roman Catholic Church",false,"Saturday","10:00 AM","11:00 AM","C","null",3
+"12 W 12TH ST New York, NY","SAVE HER A SEAT","40.7348062","-73.9951634","First Presbyterian Church",true,"Friday","6:30 PM","7:45 PM","B","Women",3
+"12 W 12TH ST New York, NY","SAVE HER A SEAT","40.7348062","-73.9951634","First Presbyterian Church",true,"Tuesday","7:15 PM","8:30 PM","C","Women",3
+"44 2ND AVE New York, NY","SECOND AVENUE CLEAN AND DRY","40.7251086","-73.9899858","Church of the Nativity",false,"Sunday","5:00 PM","6:00 PM","C","null",3
+"208 W 13TH ST New York, NY","SOBER MIRACLES","40.7381228","-74.0010304","Lesbian, Gay, Bi-Sexual &amp; Transgender Community Center",false,"Saturday","9:30 PM","10:30 PM","OD","Special Purpose Groups",3
+"12 W 11TH ST New York, NY","SOBRIETY ON THE SQUARE","40.7341868","-73.9957178","Church of the Ascension Parish House",false,"Monday","7:30 AM","8:30 AM","B","null",3
+"12 W 11TH ST New York, NY","SOBRIETY ON THE SQUARE","40.7341868","-73.9957178","Church of the Ascension Parish House",false,"Tuesday","7:30 AM","8:30 AM","S","null",3
+"12 W 11TH ST New York, NY","SOBRIETY ON THE SQUARE","40.7341868","-73.9957178","Church of the Ascension Parish House",false,"Wednesday","7:30 AM","8:30 AM","C","null",3
+"12 W 11TH ST New York, NY","SOBRIETY ON THE SQUARE","40.7341868","-73.9957178","Church of the Ascension Parish House",false,"Thursday","7:30 AM","8:30 AM","BB","null",3
+"12 W 11TH ST New York, NY","SOBRIETY ON THE SQUARE","40.7341868","-73.9957178","Church of the Ascension Parish House",false,"Friday","7:30 AM","8:30 AM","OD","null",3
+"12 W 11TH ST New York, NY","SOBRIETY ON THE SQUARE","40.7341868","-73.9957178","Church of the Ascension Parish House",false,"Saturday","7:30 AM","8:30 AM","S","null",3
+"116 W 11TH ST New York, NY","SPEAKER MAGIC","40.7357033","-73.9992718","PS 41 Elementary School",false,"Friday","7:00 PM","8:00 PM","O","null",3
+"80 5TH AVE New York, NY","STRAIGHT 12 (:II)DOWNTOWN SATURDAY NIGHT","40.7358709","-73.9939317","",true,"Saturday","6:15 PM","7:15 PM","C","null",3
+"116 W 11TH ST New York, NY","SUNDAY AT SIX","40.7357033","-73.9992718","P.S. 41 (see footnote re: temp location)",true,"Sunday","6:00 PM","7:00 PM","BB","null",3
+"155 E 22ND ST New York, NY","SUNDAY MORNING MEDITATION","40.7384244","-73.9840055","Gustavus Adolphus Church",false,"Sunday","9:00 AM","10:00 AM","C","Meditation",3
+"319 EAST 24TH ST New York, NY","SUNDAY NOONERS","40.7380755","-73.9789197","East Midtown Plaza (Community Room H)",true,"Sunday","12:30 PM","1:30 PM","OD","null",3
+"10 E UNION SQ New York, NY","SURVIVORS IN SOBRIETY","40.7348335","-73.9897815","Beth Israel Hospital @ Karpas Cancer Center Library",true,"Tuesday","7:00 PM","8:00 PM","OD","Special Purpose Groups",3
+"206-208 E 11TH ST New York, NY","SVOBODA","40.7309636","-73.9880637","All Saints Ukrainian Orthodox Church",false,"Sunday","7:00 PM","8:00 PM","C","As Bill Sees It",3
+"206-208 E 11TH ST New York, NY","SVOBODA","40.7309636","-73.9880637","All Saints Ukrainian Orthodox Church",false,"Monday","7:00 PM","8:15 PM","B","null",3
+"206-208 E 11TH ST New York, NY","SVOBODA","40.7309636","-73.9880637","All Saints Ukrainian Orthodox Church",false,"Tuesday","9:00 PM","10:00 PM","OD","null",3
+"123 E 15TH ST New York, NY","T.G.I.F. & S.","40.7346341","-73.9879773","Seafarers &amp; International House",true,"Friday","7:30 PM","8:30 PM","B","null",3
+"123 E 15TH ST New York, NY","T.G.I.F. & S.","40.7346341","-73.9879773","Seafarers &amp; International House",true,"Friday","7:30 PM","8:30 PM","OD","null",3
+"123 E 15TH ST New York, NY","T.G.I.F. & S.","40.7346341","-73.9879773","Seafarers &amp; International House",true,"Sunday","8:30 PM","9:30 PM","O","null",3
+"123 E 15TH ST New York, NY","T.G.I.F. & S.","40.7346341","-73.9879773","Seafarers &amp; International House",true,"Friday","8:45 PM","9:45 PM","S","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Wednesday","6:15 AM","7:15 AM","C","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Thursday","7:30 AM","8:30 AM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Wednesday","7:30 AM","8:30 AM","S","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Tuesday","7:30 AM","8:30 AM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Monday","7:30 AM","8:30 AM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Saturday","7:30 AM","8:30 AM","C","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Friday","7:30 AM","8:30 AM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Sunday","7:30 AM","8:30 AM","S","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Saturday","9:00 AM","10:00 AM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Sunday","9:30 AM","10:30 AM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Friday","10:00 AM","11:00 AM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Thursday","10:00 AM","11:00 AM","BB","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Wednesday","10:00 AM","11:00 AM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Tuesday","10:00 AM","11:00 AM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Monday","10:00 AM","11:00 AM","S","Steps 1-2-3",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Saturday","10:30 AM","11:30 AM","S","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Sunday","11:00 AM","12:00 PM","BB","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Monday","11:15 AM","12:15 PM","BB","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Friday","12:30 PM","1:30 PM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Thursday","12:30 PM","1:30 PM","B","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Wednesday","12:30 PM","1:30 PM","B","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Tuesday","12:30 PM","1:30 PM","BB","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Monday","12:30 PM","1:30 PM","S","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Saturday","1:15 PM","2:15 PM","C","Sponsorship Workshop",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Sunday","1:30 PM","2:30 PM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Monday","2:00 PM","3:00 PM","S","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Friday","2:00 PM","3:00 PM","S","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Thursday","2:00 PM","3:00 PM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Wednesday","2:00 PM","3:00 PM","O","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Tuesday","2:00 PM","3:00 PM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Saturday","2:30 PM","3:30 PM","B","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Sunday","3:00 PM","4:00 PM","S","Fourth Step Workshop",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Monday","4:00 PM","5:00 PM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Friday","4:00 PM","5:00 PM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Thursday","4:00 PM","5:00 PM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Wednesday","4:00 PM","5:00 PM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Tuesday","4:00 PM","5:00 PM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Saturday","4:30 PM","5:30 PM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Sunday","4:30 PM","5:30 PM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Monday","5:30 PM","6:30 PM","C","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Friday","5:30 PM","6:30 PM","S","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Thursday","5:30 PM","6:30 PM","O","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Wednesday","5:30 PM","6:30 PM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Tuesday","5:30 PM","6:30 PM","S","First Step Workshop",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Saturday","6:00 PM","7:00 PM","B","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Sunday","6:00 PM","7:00 PM","OD","Gay Men",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Tuesday","7:00 PM","8:00 AM","S","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Monday","7:00 PM","8:00 PM","T","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Friday","7:00 PM","8:00 PM","S","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Thursday","7:00 PM","8:00 PM","BB","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Wednesday","7:00 PM","8:00 PM","C","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Sunday","7:30 PM","8:30 PM","S","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Saturday","8:00 PM","9:00 PM","C","Promises",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Monday","8:15 PM","9:15 PM","OD","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Thursday","8:15 PM","9:15 PM","C","Women",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Wednesday","8:30 PM","9:30 PM","S","null",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Tuesday","8:30 PM","9:30 PM","C","Living Sober",3
+"411 E 12TH ST New York, NY","THE 12th STREET WORKSHOP","40.729824","-73.982816","",false,"Friday","8:30 PM","9:30 PM","B","First Step Workshop",3
+"125 W 14TH ST New York, NY","THE FELLOWSHIP CLUB","40.7379244","-73.9976813","McBurney YMCA",true,"Friday","7:00 PM","8:00 PM","B","null",3
+"208 W 13TH ST New York, NY","TRANSGENDER FOCUS","40.7381228","-74.0010304","LGBT Community Center",true,"Sunday","4:00 PM","5:00 PM","C","null",3
+"10 UNION SQ E New York, NY","TWELVE AT SIX","40.7348335","-73.9897815","Beth Israel Phillips Ambulatory Center",true,"Friday","6:00 PM","7:00 PM","S","null",3
+"155 W 22ND ST New York, NY","UPON AWAKENING","40.7431787","-73.9952777","St. Francis Residence",true,"Sunday","12:45 PM","1:45 PM","S","Eleventh Step",3
+"208 W 13TH ST New York, NY","VILLAGE AGNOSTICS","40.7381228","-74.0010304","Lesbian, Gay, Bi-Sexual &amp; Transgender Community Center",false,"Sunday","4:00 PM","5:00 PM","C","Agnostic",3
+"208 W 13TH ST New York, NY","VILLAGE AGNOSTICS","40.7381228","-74.0010304","Lesbian, Gay, Bi-Sexual &amp; Transgender Community Center",false,"Sunday","5:30 PM","6:30 PM","S","Agnostic",3
+"12 W 12TH ST New York, NY","VILLAGE OPEN DISCUSSION(V.O.D.)","40.7348062","-73.9951634","First Presbyterian Church",true,"Tuesday","6:30 PM","7:30 PM","OD","null",3
+"20 WASHINGTON SQ N New York, NY","VILLAGE SOBER","40.7319436","-73.9977667","The Caring Community",true,"Thursday","3:30 PM","4:30 PM","C","null",3
+"344 E 14TH ST New York, NY","WEEKENDERS","40.7314102","-73.9832013","14th Street Y",true,"Sunday","10:00 AM","11:00 AM","S","null",3
+"155 W 22ND ST New York, NY","WEST 22nd STREET SOBRIETY","40.7431787","-73.9952777","St. Francis Residence",false,"Tuesday","6:00 PM","7:00 PM","C","null",3
+"208 W 13TH ST New York, NY","WESTWINGERS","40.7381228","-74.0010304","Lesbian, Gay, Bi-Sexual &amp; Transgender Community Center",true,"Tuesday","7:30 PM","8:30 PM","OD","Gay, Lesbian and Bisexual",3
+"208 W 13TH ST New York, NY","WESTWINGERS","40.7381228","-74.0010304","Lesbian, Gay, Bi-Sexual &amp; Transgender Community Center",true,"Thursday","9:00 PM","10:00 PM","OD","Gay, Lesbian and Bisexual",3
+"602 E 9TH ST New York, NY","WHOLESALE MIRACLES","40.7260409","-73.9800393","Trinity Lutheran Church",true,"Tuesday","7:30 PM","8:30 PM","BB","null",3
+"208 W 13TH ST New York, NY","WOMEN NOW","40.7381228","-74.0010304","Gay, Lesbian, Bi-Sexual &amp; Transgender Community Center",false,"Tuesday","6:00 PM","7:00 PM","C","null",3
+"208 W 13TH ST New York, NY","WOMEN TOGETHER(:I)","40.7381228","-74.0010304","Lesbian, Gay, Bi-Sexual &amp; Transgender Community Center",true,"Saturday","6:00 PM","7:00 PM","C","Lesbian",3
+"19 UNION SQ W New York, NY","WOMEN''S SATURDAY ELEVENTH STEP MEDITATION","40.7360864","-73.9912277","Realization Center",true,"Saturday","11:00 AM","12:00 PM","C","null",3
+"173 E 3RD ST New York, NY","WORKS IN PROGRESS","40.7233431","-73.9843062","Most Holy Redeemer Church",false,"Monday","7:00 PM","8:00 PM","OD","AA Literature",3
+"50 E 7TH ST New York, NY","YOUNG AND WISE","40.7276522","-73.9875923","Middle Collegiate Church",false,"Friday","8:00 PM","9:30 PM","C","Young People",3
+"122 E 37TH ST New York, NY","AA LITERATURE","40.7483929","-73.9787906","",false,"Sunday","6:15 PM","7:15 PM","C","null",5
+"30 E 35TH ST New York, NY","BREAKFAST CLUB","40.7479892","-73.9817564","",false,"Tuesday","7:30 AM","8:30 AM","S","null",5
+"30 E 35TH ST New York, NY","BREAKFAST CLUB","40.7479892","-73.9817564","",false,"Wednesday","7:30 AM","8:30 AM","OD","null",5
+"30 E 35TH ST New York, NY","BREAKFAST CLUB","40.7479892","-73.9817564","",false,"Thursday","7:30 AM","8:30 AM","O","null",5
+"30 E 35TH ST New York, NY","BREAKFAST CLUB","40.7479892","-73.9817564","",false,"Friday","7:30 AM","8:30 AM","OD","null",5
+"30 E 35TH ST New York, NY","BREAKFAST CLUB","40.7479892","-73.9817564","",false,"Monday","7:30 AM","8:30 AM","OD","null",5
+"350 E 56TH ST New York, NY","CARLYLE","40.757654","-73.963834","Cathedral High School",false,"Monday","5:45 PM","6:45 PM","B","null",5
+"350 E 56TH ST New York, NY","CARLYLE","40.757654","-73.963834","Cathedral High School",false,"Wednesday","5:45 PM","6:45 PM","B","null",5
+"619 LEXINGTON AVE New York, NY","CITY GROUP","40.7588016","-73.9704542","St. Peter''s Lutheran Church @ Citicorp Center",false,"Thursday","7:30 AM","8:30 AM","OD","null",5
+"619 LEXINGTON AVE New York, NY","CITY GROUP","40.7588016","-73.9704542","St. Peter''s Lutheran Church @ Citicorp Center",false,"Monday","7:30 AM","8:30 AM","S","null",5
+"619 LEXINGTON AVE New York, NY","CITY GROUP","40.7588016","-73.9704542","St. Peter''s Lutheran Church @ Citicorp Center",false,"Wednesday","7:30 AM","8:30 AM","OD","null",5
+"619 LEXINGTON AVE New York, NY","CITY GROUP","40.7588016","-73.9704542","St. Peter''s Lutheran Church @ Citicorp Center",false,"Friday","7:45 AM","8:45 AM","B","null",5
+"619 LEXINGTON AVE New York, NY","CITY GROUP","40.7588016","-73.9704542","St. Peter''s Lutheran Church @ Citicorp Center",false,"Monday","12:30 PM","1:30 PM","B","null",5
+"619 LEXINGTON AVE New York, NY","CITY GROUP","40.7588016","-73.9704542","St. Peter''s Lutheran Church @ Citicorp Center",false,"Monday","12:30 PM","1:30 PM","S","null",5
+"619 LEXINGTON AVE New York, NY","CITY GROUP","40.7588016","-73.9704542","St. Peter''s Lutheran Church @ Citicorp Center",false,"Tuesday","12:30 PM","1:30 PM","B","null",5
+"619 LEXINGTON AVE New York, NY","CITY GROUP","40.7588016","-73.9704542","St. Peter''s Lutheran Church @ Citicorp Center",false,"Thursday","12:30 PM","1:30 PM","O","null",5
+"619 LEXINGTON AVE New York, NY","CITY GROUP","40.7588016","-73.9704542","St. Peter''s Lutheran Church @ Citicorp Center",false,"Wednesday","12:30 PM","1:30 PM","B","null",5
+"619 LEXINGTON AVE New York, NY","CITY GROUP","40.7588016","-73.9704542","St. Peter''s Lutheran Church @ Citicorp Center",false,"Wednesday","12:30 PM","1:30 PM","S","null",5
+"619 LEXINGTON AVE New York, NY","CITY GROUP","40.7588016","-73.9704542","St. Peter''s Lutheran Church @ Citicorp Center",false,"Thursday","12:30 PM","1:30 PM","B","null",5
+"619 LEXINGTON AVE New York, NY","CITY GROUP","40.7588016","-73.9704542","St. Peter''s Lutheran Church @ Citicorp Center",false,"Friday","12:30 PM","1:30 PM","B","null",5
+"619 LEXINGTON AVE New York, NY","CITY GROUP","40.7588016","-73.9704542","St. Peter''s Lutheran Church @ Citicorp Center",false,"Friday","12:30 PM","1:30 PM","BB","null",5
+"619 LEXINGTON AVE New York, NY","CITY GROUP","40.7588016","-73.9704542","St. Peter''s Lutheran Church @ Citicorp Center",false,"Tuesday","12:30 PM","1:30 PM","S","null",5
+"122 E 37TH ST New York, NY","COURAGE TO CHANGE","40.7483929","-73.9787906","",false,"Sunday","12:45 PM","1:45 PM","S","First Step Workshop",5
+"122 E 37TH ST New York, NY","COURAGE TO CHANGE","40.7483929","-73.9787906","",false,"Sunday","6:15 PM","7:15 PM","B","null",5
+"122 E 37TH ST New York, NY","COURAGE TO CHANGE","40.7483929","-73.9787906","",false,"Sunday","6:15 PM","7:15 PM","C","Promises",5
+"122 E 37TH ST New York, NY","COURAGE TO CHANGE","40.7483929","-73.9787906","",false,"Monday","6:15 PM","7:15 PM","B","null",5
+"122 E 37TH ST New York, NY","COURAGE TO CHANGE","40.7483929","-73.9787906","",false,"Tuesday","6:15 PM","7:15 PM","B","null",5
+"122 E 37TH ST New York, NY","COURAGE TO CHANGE","40.7483929","-73.9787906","",false,"Tuesday","6:15 PM","7:15 PM","S","null",5
+"122 E 37TH ST New York, NY","COURAGE TO CHANGE","40.7483929","-73.9787906","",false,"Wednesday","6:15 PM","7:15 PM","BB","null",5
+"122 E 37TH ST New York, NY","COURAGE TO CHANGE","40.7483929","-73.9787906","",false,"Wednesday","6:15 PM","7:15 PM","C","null",5
+"122 E 37TH ST New York, NY","COURAGE TO CHANGE","40.7483929","-73.9787906","",false,"Thursday","6:15 PM","7:15 PM","C","null",5
+"122 E 37TH ST New York, NY","COURAGE TO CHANGE","40.7483929","-73.9787906","",false,"Friday","6:15 PM","7:15 PM","B","null",5
+"122 E 37TH ST New York, NY","COURAGE TO CHANGE","40.7483929","-73.9787906","",false,"Friday","7:30 PM","8:30 PM","OD","null",5
+"28 E 35TH ST New York, NY","EMPIRE STATE","40.748023","-73.9818371","J.H. Holmes Community House",false,"Monday","12:15 PM","1:15 PM","C","null",5
+"28 E 35TH ST New York, NY","EMPIRE STATE","40.748023","-73.9818371","J.H. Holmes Community House",false,"Wednesday","12:15 PM","1:15 PM","S","null",5
+"28 E 35TH ST New York, NY","EMPIRE STATE","40.748023","-73.9818371","J.H. Holmes Community House",false,"Friday","12:15 PM","1:15 PM","B","null",5
+"350 E 56TH ST New York, NY","GOTHAM","40.757654","-73.963834","Cathedral High School",false,"Sunday","5:30 PM","6:30 PM","B","null",5
+"350 E 56TH ST New York, NY","GOTHAM","40.757654","-73.963834","Cathedral High School",false,"Sunday","5:30 PM","6:30 PM","S","null",5
+"350 E 56TH ST New York, NY","GOTHAM","40.757654","-73.963834","Cathedral High School",false,"Tuesday","5:45 PM","6:45 PM","OD","null",5
+"283 LEXINGTON AVE New York, NY","GRAND CENTRAL","40.7479969","-73.9783809","Soldiers, Sailors, Marines &amp; Airmen''s Club",false,"Monday","5:30 PM","6:30 PM","B","null",5
+"283 LEXINGTON AVE New York, NY","GRAND CENTRAL","40.7479969","-73.9783809","Soldiers, Sailors, Marines &amp; Airmen''s Club",false,"Tuesday","5:30 PM","6:30 PM","S","null",5
+"283 LEXINGTON AVE New York, NY","GRAND CENTRAL","40.7479969","-73.9783809","Soldiers, Sailors, Marines &amp; Airmen''s Club",false,"Friday","5:30 PM","6:30 PM","C","First Step Workshop",5
+"283 LEXINGTON AVE New York, NY","GRAND CENTRAL","40.7479969","-73.9783809","Soldiers, Sailors, Marines &amp; Airmen''s Club",false,"Wednesday","5:30 PM","6:30 PM","BB","null",5
+"283 LEXINGTON AVE New York, NY","GRAND CENTRAL","40.7479969","-73.9783809","Soldiers, Sailors, Marines &amp; Airmen''s Club",false,"Thursday","5:30 PM","6:30 PM","OD","null",5
+"122 E 37TH ST New York, NY","GRUPO BRASIL","40.7483929","-73.9787906","",false,"Wednesday","8:00 PM","9:00 PM","S","null",5
+"122 E 37TH ST New York, NY","GRUPO BRASIL","40.7483929","-73.9787906","",false,"Friday","8:00 PM","9:00 PM","OD","null",5
+"619 LEXINGTON AVE New York, NY","LIFE LINE","40.7588016","-73.9704542","St. Peter''s Lutheran Church @ CitiCorp Center",true,"Monday","5:30 PM","6:30 PM","B","null",5
+"619 LEXINGTON AVE New York, NY","LIFE LINE","40.7588016","-73.9704542","St. Peter''s Lutheran Church @ CitiCorp Center",true,"Friday","5:30 PM","6:30 PM","OD","null",5
+"141 E 43RD ST New York, NY","LUNCH BUNCH","40.7518754","-73.9747248","Saint Agnes Church",true,"Monday","12:30 PM","1:30 PM","B","null",5
+"141 E 43RD ST New York, NY","LUNCH BUNCH","40.7518754","-73.9747248","Saint Agnes Church",true,"Tuesday","12:30 PM","1:30 PM","C","null",5
+"141 E 43RD ST New York, NY","LUNCH BUNCH","40.7518754","-73.9747248","Saint Agnes Church",true,"Wednesday","12:30 PM","1:30 PM","S","null",5
+"141 E 43RD ST New York, NY","LUNCH BUNCH","40.7518754","-73.9747248","Saint Agnes Church",true,"Thursday","12:30 PM","1:30 PM","C","null",5
+"141 E 43RD ST New York, NY","LUNCH BUNCH","40.7518754","-73.9747248","Saint Agnes Church",true,"Friday","12:30 PM","1:30 PM","B","null",5
+"122 E 37TH ST New York, NY","LUNCHTIME EXPRESS AT THE MUSTARD SEED","40.7483929","-73.9787906","MUSTARD SEED",false,"Wednesday","12:30 PM","1:15 PM","O","null",5
+"122 E 37TH ST New York, NY","MEDITATION SATURDAY NIGHT","40.7483929","-73.9787906","Mustard Seed",false,"Saturday","7:30 PM","8:30 PM","null","Eleventh Step Meditation",5
+"141 E 43RD ST New York, NY","MONDAY MEN","40.7518754","-73.9747248","St. Agnes Church",false,"Monday","6:15 PM","7:15 PM","B","null",5
+"141 E 43RD ST New York, NY","MONDAY MEN","40.7518754","-73.9747248","St. Agnes Church",false,"Thursday","6:15 PM","7:15 PM","S","null",5
+"141 E 43RD ST New York, NY","MONDAY MEN","40.7518754","-73.9747248","St. Agnes Church",false,"Monday","7:15 PM","8:15 PM","C","null",5
+"209 MADISON AVE New York, NY","MURRAY HILL","40.7486487","-73.9821254","Church of the Incarnation",false,"Monday","6:15 PM","7:15 PM","B","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Tuesday","6:15 AM","7:15 AM","BB","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Thursday","7:30 AM","8:30 AM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Wednesday","7:30 AM","8:30 AM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Thursday","7:30 AM","8:30 AM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Wednesday","7:30 AM","8:30 AM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Tuesday","7:30 AM","8:30 AM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Monday","7:30 AM","8:30 AM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Tuesday","7:30 AM","8:30 AM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Sunday","7:30 AM","8:30 AM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Monday","7:30 AM","8:30 AM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Friday","7:30 AM","8:30 AM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Thursday","7:30 AM","8:30 AM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Saturday","8:00 AM","9:00 AM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Saturday","8:00 AM","9:00 AM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Thursday","8:00 AM","9:00 AM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Sunday","8:15 AM","9:15 AM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Thursday","9:30 AM","10:30 AM","C","Daily Reflections",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Wednesday","9:30 AM","10:30 AM","C","Daily Reflections",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Tuesday","9:30 AM","10:30 AM","C","Daily Reflections",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Monday","9:30 AM","10:30 AM","C","Daily Reflections",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Sunday","9:30 AM","10:30 AM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Sunday","9:30 AM","10:30 AM","S","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Saturday","9:30 AM","10:30 AM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Friday","9:30 AM","10:30 AM","C","Daily Reflections",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Saturday","10:00 AM","11:00 AM","BB","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Sunday","11:00 AM","12:00 PM","BB","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Friday","11:30 AM","12:30 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Thursday","11:30 AM","12:30 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Wednesday","11:30 AM","12:30 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Tuesday","11:30 AM","12:30 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Monday","11:30 AM","12:30 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Saturday","12:45 PM","1:45 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Friday","12:45 PM","1:45 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Thursday","12:45 PM","1:45 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Wednesday","12:45 PM","1:45 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Tuesday","12:45 PM","1:45 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Monday","12:45 PM","1:45 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Sunday","12:45 PM","1:45 PM","S","First Step Workshop",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Sunday","3:00 PM","4:00 PM","C","Women",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Friday","3:15 PM","4:15 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Thursday","3:15 PM","4:15 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Wednesday","3:15 PM","4:15 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Tuesday","3:15 PM","4:15 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Monday","3:15 PM","4:15 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Saturday","5:30 PM","6:30 PM","B","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Sunday","6:15 PM","7:00 PM","B","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Friday","6:15 PM","7:15 PM","B","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Thursday","6:15 PM","7:15 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Wednesday","6:15 PM","7:15 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Tuesday","6:15 PM","7:15 PM","B","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Wednesday","6:15 PM","7:15 PM","BB","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Monday","6:15 PM","7:15 PM","B","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Tuesday","6:15 PM","7:15 PM","S","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Friday","7:30 PM","8:30 PM","OD","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Saturday","7:30 PM","8:30 PM","null","Meditation",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Tuesday","8:00 PM","9:00 PM","C","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Sunday","8:00 PM","9:00 PM","B","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Thursday","8:00 PM","9:00 PM","C","Men",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Wednesday","8:00 PM","9:00 PM","S","null",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Monday","8:00 PM","9:00 PM","B","Women",5
+"122 E 37TH ST New York, NY","MUSTARD SEED","40.7483929","-73.9787906","",false,"Friday","10:00 PM","11:00 PM","OD","null",5
+"619 LEXINGTON AVE New York, NY","REBELLION DOGS","40.6894374","-73.9367705","St. Peter''s Lutheran Church @ CitiCorp Center",true,"Tuesday","7:30 AM","8:30 AM","C","Living Sober",5
+"240 E 31ST ST New York, NY","SATURDAY EAST","40.6447249","-73.948097","Church of the Good Shepherd",true,"Saturday","4:00 PM","5:00 PM","C","null",5
+"114 E 35TH ST New York, NY","SATURDAY STEP","40.7473169","-73.9800724","The New York New Church",true,"Saturday","10:00 AM","11:00 AM","S","null",5
+"230 E 60TH ST New York, NY","SERENITY EAST","40.7615607","-73.9649474","ALL SAINTS CHURCH",false,"Tuesday","7:30 AM","8:30 AM","BB","null",5
+"230 E 60TH ST New York, NY","SERENITY EAST","40.7615607","-73.9649474","ALL SAINTS CHURCH",false,"Friday","6:30 PM","7:30 PM","S","null",5
+"230 E 60TH ST New York, NY","SERENITY EAST","40.7615607","-73.9649474","ALL SAINTS CHURCH",false,"Friday","8:00 PM","9:00 PM","B","null",5
+"244 E 58TH ST New York, NY","SERENITY EAST (:I)","40.7600925","-73.9653811","Caron Foundation",true,"Tuesday","5:30 PM","6:30 PM","BB","null",5
+"619 LEXINGTON AVE New York, NY","SILKWORTH WOMEN''S","40.7588016","-73.9704542","St. Peter''s Lutheran Church @ CitiCorp Center",true,"Thursday","12:30 PM","1:30 PM","C","Women",5
+"325 PARK AVE New York, NY","ST. BART''S TWELVE THIRTIES","40.7574552","-73.9733937","St. Bartholomew''s Church",false,"Friday","12:30 PM","1:30 PM","BB","null",5
+"325 PARK AVE New York, NY","ST. BART''S TWELVE THIRTIES","40.7574552","-73.9733937","St. Bartholomew''s Church",false,"Monday","12:30 PM","1:30 PM","C","null",5
+"325 PARK AVE New York, NY","ST. BART''S TWELVE THIRTIES","40.7574552","-73.9733937","St. Bartholomew''s Church",false,"Wednesday","12:30 PM","1:30 PM","S","null",5
+"236 E 31ST ST New York, NY","STRAIGHT 12","40.74314","-73.9781525","CHURCH OF THE GOOD SHEPARD",false,"Saturday","6:00 PM","7:00 PM","C","Promises",5
+"236 E 31ST ST New York, NY","STRAIGHT 12","40.74314","-73.9781525","CHURCH OF THE GOOD SHEPARD",false,"Saturday","7:15 PM","8:15 PM","B","null",5
+"236 E 31ST ST New York, NY","STRAIGHT 12","40.74314","-73.9781525","CHURCH OF THE GOOD SHEPARD",false,"Saturday","8:30 PM","9:30 PM","OD","null",5
+"308 E 55TH ST New York, NY","TEMPLETON","40.6501686","-73.9254937","Conservative Synagogue",false,"Wednesday","6:15 PM","7:15 PM","OD","null",5
+"244 E 58TH ST New York, NY","TRAFALGAR","40.7600925","-73.9653811","The Caron Foundation",true,"Tuesday","6:45 PM","7:45 PM","OD","null",5
+"244 E 58TH ST New York, NY","TUDOR","40.6492925","-73.9225408","Caron Foundation",true,"Thursday","6:15 PM","7:15 PM","OD","null",5
+"109 E 50TH ST New York, NY","WOMEN''S ELEVENTH STEP","40.7569178","-73.97309","",true,"Wednesday","5:45 PM","7:15 PM","S","null",5
+"35 E 125 ST New York, NY","125","40.805958","-73.940763","Harlem Children''s Zone Admin. Offices",true,"Saturday","4:15 PM","5:30 PM","B","null",9
+"223 E 117TH ST New York, NY","EAST HARLEM","40.7982106","-73.9382769","Peter Jay Sharpe Building",true,"Tuesday","6:30 PM","7:30 PM","B","Living Sober",9
+"2126 2ND AVE New York, NY","GRUPO NUEVA VIDA","40.7927121","-73.94069","",true,"Sunday","5:00 PM","6:00 PM","OD","null",9
+"2126 2ND AVE New York, NY","GRUPO NUEVA VIDA","40.7927121","-73.94069","",true,"Monday","8:00 PM","9:00 PM","B","null",9
+"2126 2ND AVE New York, NY","GRUPO NUEVA VIDA","40.7927121","-73.94069","",true,"Tuesday","8:00 PM","9:00 PM","OD","null",9
+"2126 2ND AVE New York, NY","GRUPO NUEVA VIDA","40.7927121","-73.94069","",true,"Wednesday","8:00 PM","9:00 PM","C","null",9
+"2126 2ND AVE New York, NY","GRUPO NUEVA VIDA","40.7927121","-73.94069","",true,"Thursday","8:00 PM","9:00 PM","OD","null",9
+"2126 2ND AVE New York, NY","GRUPO NUEVA VIDA","40.7927121","-73.94069","",true,"Friday","8:00 PM","9:00 PM","OD","null",9
+"2126 2ND AVE New York, NY","GRUPO NUEVA VIDA","40.7927121","-73.94069","",true,"Saturday","8:00 PM","9:00 PM","OD","null",9
+"22 E 119TH ST New York, NY","HARLEM 1 PM RECOVERY","40.8021458","-73.9442327","Veterans Residence",true,"Sunday","1:00 PM","2:00 PM","T","null",9
+"22 E 119TH ST New York, NY","HARLEM 1 PM RECOVERY","40.8021458","-73.9442327","Veterans Residence",true,"Monday","1:00 PM","2:00 PM","B","null",9
