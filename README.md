@@ -17,7 +17,9 @@
 - [x] Week 5
 - [x] Week 6
 - [x] Week 7
-- [ ] Week 8-9
-- [ ] Week 10-11
-- [ ] Week 12-14
+- [x] Week 8-9
+- [x] Week 10-11
+- [x] Week 12
+- [x] Week 13
+- [ ] Week 14
 - [ ] Week 15
