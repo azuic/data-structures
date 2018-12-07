@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Dear Diary</title>
+    <meta name="description" content="Tracking of daily food intake and work out">
+    <meta name="author" content="Zui Chen">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div id="diary">
+      <br>
+      <h1><a class="aerobic" href="deardiary.html"> Dear Diary</a></h1>
+      <h2>
+        What I eat on <a class="aerobic" href="core.html">core</a>/<a class="aerobic" href="upperbody.html">upper body</a>/<a class="aerobic" href="lowerbody.html">lower body</a> days
+      </h2>
+      <h2>Here is what I eat in no-workout</h2>
+      <div class="container" id="container">
+
+      </div>
+
+    </div>
+    <script type="text/javascript">
+      var data =[{"dt":{"S":"Fri Oct 12 2018"},"veggies":{"SS":["cabbage","carrot","lettuce","mushroom"]},"aerobic":{"S":"lower body"},"protein":{"SS":["beef","milk","shrimp"]},"cardio":{"BOOL":true}},{"carbs":{"SS":["sweet potato"]},"dt":{"S":"Mon Oct 08 2018"},"veggies":{"SS":["broccoli","tomato"]},"aerobic":{"S":"lower body"},"protein":{"SS":["beef","milk","shrimp"]},"cardio":{"BOOL":true}},{"carbs":{"SS":["corn"]},"dt":{"S":"Mon Sep 24 2018"},"veggies":{"SS":["cucumber","spinach","tomato"]},"aerobic":{"S":"lower body"},"protein":{"SS":["egg","milk","tofu"]},"cardio":{"BOOL":true}},{"carbs":{"SS":["pasta"]},"dt":{"S":"Sun Sep 30 2018"},"veggies":{"SS":["mushroom","pepper","spinach","tomato"]},"aerobic":{"S":"lower body"},"protein":{"SS":["beef","milk","shrimp"]},"cardio":{"BOOL":true}},{"carbs":{"SS":["cookie"]},"dt":{"S":"Thu Nov 15 2018"},"veggies":{"SS":["tomato"]},"aerobic":{"S":"lower body"},"protein":{"SS":["beef","chicken","milk"]},"cardio":{"BOOL":true}},{"carbs":{"SS":["sweet potato"]},"dt":{"S":"Thu Oct 04 2018"},"veggies":{"SS":["cabbage","tomato"]},"aerobic":{"S":"lower body"},"protein":{"SS":["beef","milk","shrimp"]},"cardio":{"BOOL":true}},{"carbs":{"SS":["pumpkin"]},"dt":{"S":"Thu Sep 27 2018"},"veggies":{"SS":["cabbage","carrot","lettuce","mushroom"]},"aerobic":{"S":"lower body"},"protein":{"SS":["beef","milk","shrimp"]},"cardio":{"BOOL":true}},{"carbs":{"SS":["udon"]},"dt":{"S":"Wed Oct 17 2018"},"veggies":{"SS":["cabbage","mushroom"]},"aerobic":{"S":"lower body"},"protein":{"SS":["egg","milk","shrimp"]},"cardio":{"BOOL":false}}];
+
+      var container = document.getElementById("container");
+      for (var i=0; i<data.length; i++){
+        var item = document.createElement("div");
+        item.setAttribute("class","timeline-item");
+        item.setAttribute("date-is",data[i].dt.S);
+        var cardio = data[i].cardio.BOOL;
+        if (cardio) {
+          var cardiotext = "Did cardio! \n";
+        } else {
+          var cardiotext = "No exercise at all! \n"
+        }
+        var veg=0, pro=0, carbs=0;
+        var vegtext, protext, carbtext;
+
+        if (data[i].veggies != undefined)
+          {veg = data[i].veggies.SS.length;}
+        vegtext = veg+" kinds of vegetables; \n";
+        if (data[i].protein != undefined)
+          {pro = data[i].protein.SS.length;}
+        protext = pro+" kinds of protein; \n";
+        if (data[i].carbs != undefined)
+          {carbs = data[i].carbs.SS.length;}
+        carbtext = carbs+" kinds of carbs. \n";
+
+        var entry = document.createElement("p");
+        // var entrytext = document.createTextNode(cardiotext);
+        var entrytext = document.createTextNode(cardiotext+vegtext+protext+carbtext);
+        entry.appendChild(entrytext);
+        item.appendChild(entry);
+        container.append(item);
+      }
+    </script>>
+  </body>
+</html>

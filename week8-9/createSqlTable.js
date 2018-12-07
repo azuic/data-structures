@@ -29,11 +29,11 @@ var thisQuery = `CREATE TABLE aameetings (id serial PRIMARY KEY,
                                            mtgroup VARCHAR(100),
                                            mtlocation VARCHAR(100),
                                            wheelchair BOOLEAN,
-                                           mtday VARCHAR [],
-                                           mtstart VARCHAR [],
-                                           mtend VARCHAR [],
-                                           mttype VARCHAR [],
-                                           mtspin TEXT [],
+                                           mtday VARCHAR(20),
+                                           mtstart VARCHAR(20),
+                                           mtend VARCHAR(20),
+                                           mttype VARCHAR(10),
+                                           mtspin TEXT,
                                            mtzone SMALLINT
                                            );`;
 

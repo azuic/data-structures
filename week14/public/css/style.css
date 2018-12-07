@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Barcode+128+Text|Mina|Source+Code+Pro');
+
+html {
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+    background-color: #0B346E;
+    background-image:
+    linear-gradient(0deg, transparent 9%,
+            rgba(255, 255, 255, .1) 10%, rgba(255, 255, 255, .1) 12%, transparent 13%, transparent 29%,
+            rgba(255, 255, 255, .1) 30%, rgba(255, 255, 255, .1) 31%, transparent 32%, transparent 49%,
+            rgba(255, 255, 255, .1) 50%, rgba(255, 255, 255, .1) 51%, transparent 52%, transparent 69%,
+            rgba(255, 255, 255, .1) 70%, rgba(255, 255, 255, .1) 71%, transparent 72%, transparent 89%,
+            rgba(255, 255, 255, .1) 90%, rgba(255, 255, 255, .1) 91%, transparent 92%, transparent),
+    linear-gradient(90deg, transparent 9%,
+            rgba(255, 255, 255, .1) 10%, rgba(255, 255, 255, .1) 12%, transparent 13%, transparent 29%,
+            rgba(255, 255, 255, .1) 30%, rgba(255, 255, 255, .1) 31%, transparent 32%, transparent 49%,
+            rgba(255, 255, 255, .1) 50%, rgba(255, 255, 255, .1) 51%, transparent 52%, transparent 69%,
+            rgba(255, 255, 255, .1) 70%, rgba(255, 255, 255, .1) 71%, transparent 72%, transparent 89%,
+            rgba(255, 255, 255, .1) 90%, rgba(255, 255, 255, .1) 91%, transparent 92%, transparent);
+
+    height:100%;
+  background-size:100px 100px;
+}
+
+a {
+  text-decoration: none;
+  color:#FFFFFF;
+  background: transparent;
+}
+
+a:active,
+a:hover {
+  outline: 0;
+  color:#FEFEFE;
+  opacity: 0.5;
+}
+
+.mainnav {
+  font-family: 'Libre Barcode 128 Text', cursive;
+  font-size:50px;
+  position:fixed;
+  top:200px;
+  left:50%;
+  width:700px;
+  margin-left:-200px;
+  line-height: 60px;
+}
+
+.nav {
+  font-family: 'Source Code Pro', monospace;
+  list-style-type: none;
+  margin: 150px;
+  margin-left: 290px;
+  margin-top: 165px;
+  padding: 50px;
+  width: 100px;
+  line-height: 60px;
+  opacity: 0.8
+}
+
+#mapid {
+  width: 100%;
+  height: 100%;
+  background-color: #cad2d3;
+  z-index: 0
+}
+
+#diary {
+  margin-top: 75px;
+  margin-left: 150px;
+  height: 600px;
+  width: 1000px;
+  background-color: #FCFAF2;
+  font-family: 'Mina', sans-serif;
+  color: rgb(50,49,48);
+  text-indent: 50px;
+  overflow-y: scroll;
+}
+
+a.aerobic {
+  color: rgb(50,49,48);
+  text-decoration: underline;
+}
+
+h1 {
+  text-decoration: underline;
+  text-align: left;
+  text-indent: 50px;
+}
+
+.container {
+  /* max-width: 1024px;
+  width: 90%; */
+  margin-left: 200px;
+  overflow: visible;
+  z-index: 50
+}
+
+.timeline-item {
+  padding: 3em 2em 2em;
+  position: relative;
+  color: rgba(50,49,48);
+  border-left: 2px solid rgba(0, 0, 0, 0.3);
+}
+.timeline-item p {
+  font-size: 1rem;
+}
+.timeline-item::before {
+  content: attr(date-is);
+  position: absolute;
+  left: 2em;
+  font-weight: bold;
+  top: 1em;
+  display: block;
+  font-weight: 700;
+  font-size: .785rem;
+}
+.timeline-item::after {
+  width: 10px;
+  height: 10px;
+  display: block;
+  top: 1em;
+  position: absolute;
+  left: -7px;
+  border-radius: 8px;
+  content: '';
+  color: rgb(50,49,48);
+  border: 2px solid rgba(0, 0, 0, 0.3);
+  background-color: rgb(50,49,48);
+}
+.timeline-item:last-child {
+  -o-border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 60%, rgba(0, 0, 0, 0)) 1 100%;
+     border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 60%, rgba(0, 0, 0, 0)) 1 100%;
+}
+
+
+svg {
+    font: 10px sans-serif;
+    color: #FFFFFB;
+    shape-rendering: crispEdges;
+    background-color: transparent;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 150px;
+  }
+
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: none;
+    color: #FFFFFB;
+  }
+
+  path.domain {
+    stroke: none;
+    color: #FFFFFB;
+  }
+
+  .y .tick line {
+    stroke: none;
+    color: #FFFFFB;
+  }

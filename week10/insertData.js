@@ -19,7 +19,7 @@ async.eachSeries(mdata, function(value, callback) {
     const client = new Client(db_credentials);
     client.connect();
 
-    var thisQuery = "INSERT INTO aameetings ( address,mtgroup,lat,long, mtlocation, wheelchair ,mtday, mtstart, mtend, mttype,mtspin,mtzone) VALUES (E'"+value.address+"','"+value.mtroup + "',"+value.lat+ ","+ value.long+ ",'"+ value.mtlocation+"','"+value.wheelchair+ "','{"+ value.mtday + "}','{" + value.mtstart + "}','{"+ value.mtend +"}','{"+value.mttype+"}','{"+ value.mtspin+ "}',"+ value.mtzone+");";
+    var thisQuery = "INSERT INTO aameetings ( address,mtgroup,lat,long, mtlocation, wheelchair ,mtday, mtstart, mtend, mttype,mtspin,mtzone) VALUES (E'"+value.address+"','"+value.mtroup + "',"+value.lat+ ","+ value.long+ ",'"+ value.mtlocation+"','"+value.wheelchair+ "','"+ value.mtday + "','" + value.mtstart + "','"+ value.mtend +"','"+value.mttype+"','"+ value.mtspin+ "',"+ value.mtzone+");";
     setTimeout(callback, 1000);
     client.query(thisQuery, (err, res) => {
         console.log(err, res);
@@ -30,11 +30,11 @@ async.eachSeries(mdata, function(value, callback) {
 
 
 
-
+//
 // // drop tables
 // const client = new Client(db_credentials);
 // client.connect();
-// var thisQuery = "DROP TABLE aainfo";
+// var thisQuery = "DROP TABLE aameetings";
 //     client.query(thisQuery, (err, res) => {
 //         console.log(err, res);
 //         client.end();

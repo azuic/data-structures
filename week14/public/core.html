@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Dear Diary</title>
+    <meta name="description" content="Tracking of daily food intake and work out">
+    <meta name="author" content="Zui Chen">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div id="diary">
+      <br>
+      <h1><a class="aerobic" href="deardiary.html"> Dear Diary</a></h1>
+      <h2>
+        What I eat on <a class="aerobic" href="core.html">core</a>/<a class="aerobic" href="upperbody.html">upper body</a>/<a class="aerobic" href="lowerbody.html">lower body</a> days
+      </h2>
+      <h2>Here is what I eat in no-workout</h2>
+      <div class="container" id="container">
+
+      </div>
+
+    </div>
+    <script type="text/javascript">
+      var data = [{"carbs":{"SS":["corn"]},"dt":{"S":"Fri Oct 05 2018"},"veggies":{"SS":["cucumber","spinach","tomato"]},"aerobic":{"S":"core"},"protein":{"SS":["chicken","milk"]},"cardio":{"BOOL":true}},{"dt":{"S":"Fri Sep 28 2018"},"veggies":{"SS":["cucumber","spinach","tomato"]},"aerobic":{"S":"core"},"protein":{"SS":["chicken","milk","tofu"]},"cardio":{"BOOL":true}},{"carbs":{"SS":["corn"]},"dt":{"S":"Mon Oct 01 2018"},"veggies":{"SS":["cucumber","tomato"]},"aerobic":{"S":"core"},"protein":{"SS":["chicken","milk","tofu"]},"cardio":{"BOOL":true}},{"carbs":{"SS":["corn"]},"dt":{"S":"Sat Oct 13 2018"},"veggies":{"SS":["broccoli","cucumber","tomato"]},"aerobic":{"S":"core"},"protein":{"SS":["chicken","milk","tofu"]},"cardio":{"BOOL":true}},{"dt":{"S":"Sat Sep 29 2018"},"veggies":{"SS":["avocado","edamame","lettuce","seaweed"]},"aerobic":{"S":"core"},"protein":{"SS":["milk","salmon","scallop"]},"cardio":{"BOOL":true}},{"carbs":{"SS":["potato"]},"dt":{"S":"Sun Oct 07 2018"},"veggies":{"SS":["avocado","edamame","lettuce","seaweed"]},"aerobic":{"S":"core"},"protein":{"SS":["milk","salmon","scallop"]},"cardio":{"BOOL":true}},{"dt":{"S":"Sun Oct 21 2018"},"veggies":{"SS":["avocado","edamame","lettuce","seaweed"]},"aerobic":{"S":"core"},"protein":{"SS":["milk","salmon","scallop"]},"cardio":{"BOOL":false}},{"dt":{"S":"Thu Oct 11 2018"},"veggies":{"SS":["avocado","edamame","lettuce","seaweed"]},"aerobic":{"S":"core"},"protein":{"SS":["milk","salmon","scallop"]},"cardio":{"BOOL":true}},{"dt":{"S":"Thu Oct 18 2018"},"veggies":{"SS":["broccoli"]},"aerobic":{"S":"core"},"protein":{"SS":["chicken","milk","tofu"]},"cardio":{"BOOL":false}},{"dt":{"S":"Tue Oct 09 2018"},"veggies":{"SS":["cucumber","spinach","tomato"]},"aerobic":{"S":"core"},"protein":{"SS":["chicken","milk","tofu"]},"cardio":{"BOOL":true}},{"carbs":{"SS":["pasta"]},"dt":{"S":"Tue Oct 16 2018"},"veggies":{"SS":["avocado","edamame","lettuce","seaweed"]},"aerobic":{"S":"core"},"protein":{"SS":["milk","salmon","scallop"]},"cardio":{"BOOL":true}},{"carbs":{"SS":["corn"]},"dt":{"S":"Tue Sep 25 2018"},"veggies":{"SS":["cucumber","spinach","tomato"]},"aerobic":{"S":"core"},"protein":{"SS":["chicken","egg","milk"]},"cardio":{"BOOL":true}},{"dt":{"S":"Wed Oct 03 2018"},"veggies":{"SS":["lettuce"]},"aerobic":{"S":"core"},"protein":{"SS":["milk","salmon","scallop"]},"cardio":{"BOOL":true}},{"dt":{"S":"Wed Sep 26 2018"},"veggies":{"SS":["avocado","edamame","lettuce","seaweed"]},"aerobic":{"S":"core"},"protein":{"SS":["milk","salmon","scallop"]},"cardio":{"BOOL":true}}];
+
+      var container = document.getElementById("container");
+      for (var i=0; i<data.length; i++){
+        var item = document.createElement("div");
+        item.setAttribute("class","timeline-item");
+        item.setAttribute("date-is",data[i].dt.S);
+        var cardio = data[i].cardio.BOOL;
+        if (cardio) {
+          var cardiotext = "Did cardio! \n";
+        } else {
+          var cardiotext = "No exercise at all! \n"
+        }
+        var veg=0, pro=0, carbs=0;
+        var vegtext, protext, carbtext;
+
+        if (data[i].veggies != undefined)
+          {veg = data[i].veggies.SS.length;}
+        vegtext = veg+" kinds of vegetables; \n";
+        if (data[i].protein != undefined)
+          {pro = data[i].protein.SS.length;}
+        protext = pro+" kinds of protein; \n";
+        if (data[i].carbs != undefined)
+          {carbs = data[i].carbs.SS.length;}
+        carbtext = carbs+" kinds of carbs. \n";
+
+        var entry = document.createElement("p");
+        // var entrytext = document.createTextNode(cardiotext);
+        var entrytext = document.createTextNode(cardiotext+vegtext+protext+carbtext);
+        entry.appendChild(entrytext);
+        item.appendChild(entry);
+        container.append(item);
+      }
+
+    </script>>
+  </body>
+</html>

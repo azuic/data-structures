@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Infrared Sensor at Mirror</title>
+    <meta name="author" content="Zui Chen">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  </head>
+  <body>
+    <script type="text/javascript">
+      var data = [{"sensorhour":0,"sensorvalue":false,"num_obs":"108"},{"sensorhour":0,"sensorvalue":true,"num_obs":"2"},{"sensorhour":0,"sensorvalue":null,"num_obs":"104"},{"sensorhour":1,"sensorvalue":false,"num_obs":"98"},{"sensorhour":1,"sensorvalue":true,"num_obs":"3"},{"sensorhour":1,"sensorvalue":null,"num_obs":"103"},{"sensorhour":2,"sensorvalue":false,"num_obs":"101"},{"sensorhour":2,"sensorvalue":true,"num_obs":"7"},{"sensorhour":2,"sensorvalue":null,"num_obs":"96"},{"sensorhour":3,"sensorvalue":false,"num_obs":"100"},{"sensorhour":3,"sensorvalue":true,"num_obs":"2"},{"sensorhour":3,"sensorvalue":null,"num_obs":"101"},{"sensorhour":4,"sensorvalue":false,"num_obs":"87"},{"sensorhour":4,"sensorvalue":true,"num_obs":"4"},{"sensorhour":4,"sensorvalue":null,"num_obs":"114"},{"sensorhour":5,"sensorvalue":false,"num_obs":"89"},{"sensorhour":5,"sensorvalue":true,"num_obs":"4"},{"sensorhour":5,"sensorvalue":null,"num_obs":"111"},{"sensorhour":6,"sensorvalue":false,"num_obs":"102"},{"sensorhour":6,"sensorvalue":true,"num_obs":"5"},{"sensorhour":6,"sensorvalue":null,"num_obs":"97"},{"sensorhour":7,"sensorvalue":false,"num_obs":"105"},{"sensorhour":7,"sensorvalue":true,"num_obs":"1"},{"sensorhour":7,"sensorvalue":null,"num_obs":"97"},{"sensorhour":8,"sensorvalue":false,"num_obs":"103"},{"sensorhour":8,"sensorvalue":null,"num_obs":"102"},{"sensorhour":9,"sensorvalue":false,"num_obs":"113"},{"sensorhour":9,"sensorvalue":null,"num_obs":"91"},{"sensorhour":10,"sensorvalue":false,"num_obs":"113"},{"sensorhour":10,"sensorvalue":null,"num_obs":"91"},{"sensorhour":11,"sensorvalue":false,"num_obs":"98"},{"sensorhour":11,"sensorvalue":null,"num_obs":"95"},{"sensorhour":12,"sensorvalue":false,"num_obs":"91"},{"sensorhour":12,"sensorvalue":null,"num_obs":"101"},{"sensorhour":13,"sensorvalue":false,"num_obs":"91"},{"sensorhour":13,"sensorvalue":true,"num_obs":"1"},{"sensorhour":13,"sensorvalue":null,"num_obs":"99"},{"sensorhour":14,"sensorvalue":false,"num_obs":"89"},{"sensorhour":14,"sensorvalue":true,"num_obs":"1"},{"sensorhour":14,"sensorvalue":null,"num_obs":"109"},{"sensorhour":15,"sensorvalue":false,"num_obs":"93"},{"sensorhour":15,"sensorvalue":true,"num_obs":"1"},{"sensorhour":15,"sensorvalue":null,"num_obs":"110"},{"sensorhour":16,"sensorvalue":false,"num_obs":"87"},{"sensorhour":16,"sensorvalue":true,"num_obs":"2"},{"sensorhour":16,"sensorvalue":null,"num_obs":"115"},{"sensorhour":17,"sensorvalue":false,"num_obs":"89"},{"sensorhour":17,"sensorvalue":true,"num_obs":"4"},{"sensorhour":17,"sensorvalue":null,"num_obs":"110"},{"sensorhour":18,"sensorvalue":false,"num_obs":"105"},{"sensorhour":18,"sensorvalue":true,"num_obs":"2"},{"sensorhour":18,"sensorvalue":null,"num_obs":"116"},{"sensorhour":19,"sensorvalue":false,"num_obs":"803"},{"sensorhour":19,"sensorvalue":true,"num_obs":"1"},{"sensorhour":19,"sensorvalue":null,"num_obs":"121"},{"sensorhour":20,"sensorvalue":false,"num_obs":"198"},{"sensorhour":20,"sensorvalue":true,"num_obs":"4"},{"sensorhour":20,"sensorvalue":null,"num_obs":"107"},{"sensorhour":21,"sensorvalue":false,"num_obs":"121"},{"sensorhour":21,"sensorvalue":true,"num_obs":"5"},{"sensorhour":21,"sensorvalue":null,"num_obs":"90"},{"sensorhour":22,"sensorvalue":false,"num_obs":"117"},{"sensorhour":22,"sensorvalue":true,"num_obs":"1"},{"sensorhour":22,"sensorvalue":null,"num_obs":"98"},{"sensorhour":23,"sensorvalue":false,"num_obs":"110"},{"sensorhour":23,"sensorvalue":true,"num_obs":"3"},{"sensorhour":23,"sensorvalue":null,"num_obs":"102"}];
+
+
+
+      var look = new Array(24);
+      var nolook = new Array(24);
+      var noWifi = new Array(24);
+
+      for (var i=0; i<data.length; i++){
+        var hour = data[i].sensorhour;
+        var value = data[i].sensorvalue;
+        var count = data[i].num_obs;
+        if (value==true){
+          look[hour] = parseInt(count);
+        } else if (value==false){
+          nolook[hour] = parseInt(count);
+        } else {
+          noWifi[hour] = parseInt(count);
+        }
+      }
+      console.log(look);
+      console.log(nolook);
+      console.log(noWifi);
+      var hours = [];
+      for (var i = 0; i<24; i++) {
+        if (look[i]==null){look[i]=0}
+        var total = look[i]+nolook[i]+noWifi[i];
+        p1 = look[i]/total;
+        p2 = nolook[i]/total;
+        p3 = noWifi[i]/total;
+        hours.push({
+          "hour": i,
+          "Look at Mirror": look[i]/total,
+          "No look at Mirror": nolook[i]/total,
+          "WiFi Outage": noWifi[i]/total,
+        });
+
+      }
+
+
+        var margin = {top: 20, right: 160, bottom: 35, left: 30};
+
+        var width = 960 - margin.left - margin.right,
+            height = 500 - margin.top - margin.bottom;
+
+        var svg = d3.select("body")
+          .append("svg")
+          .attr("width", width + margin.left + margin.right)
+          .attr("height", height + margin.top + margin.bottom)
+          .append("g")
+          .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+        // Transpose the data into layers
+        var dataset = d3.layout.stack()(["No look at Mirror", "WiFi Outage","Look at Mirror"].map(function(input) {
+          return hours.map(function(d) {
+            return {x: d.hour, y: +d[input]};
+          });
+        }));
+
+
+        // Set x, y and colors
+        var x = d3.scale.ordinal()
+          .domain(dataset[0].map(function(d) { return d.x; }))
+          .rangeRoundBands([10, width-10], 0.02);
+
+        var y = d3.scale.linear()
+          .domain([0, d3.max(dataset, function(d) {  return d3.max(d, function(d) { return d.y0 + d.y; });  })])
+          .range([height, 0]);
+
+        var colors = ["223", "#FFFFFB", "#F75C2F"];
+
+
+        // Define and draw axes
+        var yAxis = d3.svg.axis()
+          .scale(y)
+          .orient("left")
+          .ticks(5)
+          .tickSize(-width, 0, 0)
+          .tickFormat( function(d) { return d } );
+
+        var xAxis = d3.svg.axis()
+          .scale(x)
+          .orient("bottom");
+          // .tickFormat(d3.time.format("%Y"));
+
+        // svg.append("g")
+        //   .attr("class", "y axis")
+        //   .call(yAxis)
+        //   .style('fill', '#FFFFFB');
+
+        svg.append("g")
+          .attr("class", "x axis")
+          .attr("transform", "translate(0," + height + ")")
+          .call(xAxis)
+          .style('fill', '#FFFFFB');
+
+
+        // Create groups for each series, rects for each segment
+        var groups = svg.selectAll("g.cost")
+          .data(dataset)
+          .enter().append("g")
+          .attr("class", "cost")
+          .style("fill", function(d, i) { return colors[i]; });
+
+        var rect = groups.selectAll("rect")
+          .data(function(d) { return d; })
+          .enter()
+          .append("rect")
+          .attr("x", function(d) { return x(d.x); })
+          .attr("y", function(d) { return y(d.y0 + d.y); })
+          .attr("height", function(d) { return y(d.y0) - y(d.y0 + d.y); })
+          .attr("width", x.rangeBand())
+          .on("mouseover", function() { tooltip.style("display", null); })
+          .on("mouseout", function() { tooltip.style("display", "none"); })
+          .on("mousemove", function(d) {
+            var xPosition = d3.mouse(this)[0] - 15;
+            var yPosition = d3.mouse(this)[1] - 25;
+            tooltip.attr("transform", "translate(" + xPosition + "," + yPosition + ")");
+            tooltip.select("text").text(d.y.toFixed(2));
+          });
+
+
+        // Draw legend
+        var legend = svg.selectAll(".legend")
+          .data(colors)
+          .enter().append("g")
+          .attr("class", "legend")
+          .attr("transform", function(d, i) { return "translate(30," + i * 19 + ")"; });
+
+        legend.append("rect")
+          .attr("x", width - 18)
+          .attr("width", 18)
+          .attr("height", 18)
+          .style("fill", function(d, i) {return colors.slice().reverse()[i];});
+
+        legend.append("text")
+          .attr("x", width + 5)
+          .attr("y", 9)
+          .attr("dy", ".35em")
+          .style("text-anchor", "start")
+          .text(function(d, i) {
+            switch (i) {
+              case 0: return "Look at Mirror";
+              case 1: return "No look at Mirror";
+              case 2: return "WiFi Outage";
+            }
+          })
+          .style('fill', '#FFFFFB');
+// ["Look at Mirror", "No look at Mirror", "WiFi Outage"]
+
+        // Prep the tooltip bits, initial display is hidden
+        var tooltip = svg.append("g")
+          .attr("class", "tooltip")
+          .style("display", "none");
+
+        tooltip.append("rect")
+          .attr("width", 30)
+          .attr("height", 20)
+          .attr("fill", "white")
+          .style("opacity", 0.5);
+
+        tooltip.append("text")
+          .attr("x", 15)
+          .attr("dy", "1.2em")
+          .style("text-anchor", "middle")
+          .attr("font-size", "12px")
+          .attr("font-weight", "bold");
+
+    </script>>
+  </body>
+</html>

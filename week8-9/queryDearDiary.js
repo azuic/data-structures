@@ -18,7 +18,7 @@ var params = {
         // ":aerobicType": {S: "core"},
         // ":minDate": {S: new Date("2018-09-27").valueOf().toString()},
         // ":maxDate": {S: new Date("2018-10-04").valueOf().toString()}
-        ":aerobicType": {S: "core"}
+        ":aerobicType": {S: "none"}
     }
 };
 
