@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+
+	<!-- D3.js -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+
+	<!-- Google Font -->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
+
+
+	<style>
+		body {
+		  	font-size: 10px;
+		  	font-family: 'Open Sans', sans-serif;
+		  	font-weight: 400;
+		  	fill: #8C8C8C;
+		  	text-align: center;
+		}
+
+	  	.title {
+	    	font-size: 28px;
+	    	fill: #4F4F4F;
+	    	font-weight: 300;
+	    	text-anchor: start;
+	  	}
+
+	  	.subtitle {
+	    	font-size: 14px;
+	    	fill: #AAAAAA;
+	    	font-weight: 300;
+	    	text-anchor: start;
+	  	}
+
+	  	.credit {
+	    	font-size: 12px;
+	    	fill: #AAAAAA;
+	    	font-weight: 300;
+	    	text-anchor: start;
+	  	}
+
+	  	.axis path,
+	  	.axis tick,
+	  	.axis line {
+	      	fill: none;
+	      	stroke: none;
+	  	}
+
+	  	.axis text {
+	      	font-size: 12px;
+	      	fill: #AAAAAA;
+	      	font-weight: 400;
+	  	}
+
+	  	.legendTitle {
+	      	font-size: 14px;
+	      	fill: #4F4F4F;
+	      	font-weight: 300;
+	  	}
+
+	  	.january {
+	  		font-size: 14px;
+	  		text-anchor: start;
+	  		font-weight: 300;
+	  		fill: #AAAAAA;
+	  	}
+
+	  	.yearLine {
+	  		stroke: #AAAAAA;
+	  	}
+
+	  	.axisText {
+	  		fill: #C4C4C4;
+	  		font-size: 11px;
+	  		font-weight: 300;
+	  		text-anchor: middle;
+	  		text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+	  	}
+
+	  	.axisCircles {
+	  		fill: none;
+	  		stroke: #E8E8E8;
+	  		stroke-width: 1px;
+	  	}
+
+	</style>
+
+
+</head>
+<body>
+
+	<div id="weatherRadial"></div>
+	<script>
+  var weatherBoston=[{date:"2015-1-1",max_temp:1,mean_temp:-2,min_temp:-6},{date:"2015-1-2",max_temp:5,mean_temp:2,min_temp:-1},{date:"2015-1-3",max_temp:3,mean_temp:-1,min_temp:-6},{date:"2015-1-4",max_temp:11,mean_temp:7,min_temp:2},{date:"2015-1-5",max_temp:10,mean_temp:1,min_temp:-8},{date:"2015-1-6",max_temp:-8,mean_temp:-8,min_temp:-9},{date:"2015-1-7",max_temp:-3,mean_temp:-9,min_temp:-16},{date:"2015-1-8",max_temp:-7,mean_temp:-13,min_temp:-18},{date:"2015-1-9",max_temp:-1,mean_temp:-4,min_temp:-7},{date:"2015-1-10",max_temp:-4,mean_temp:-6,min_temp:-8},{date:"2015-1-11",max_temp:1,mean_temp:-4,min_temp:-9},{date:"2015-1-12",max_temp:3,mean_temp:2,min_temp:1},{date:"2015-1-13",max_temp:2,mean_temp:-4,min_temp:-9},{date:"2015-1-14",max_temp:-4,mean_temp:-7,min_temp:-10},{date:"2015-1-15",max_temp:-1,mean_temp:-2,min_temp:-4},{date:"2015-1-16",max_temp:3,mean_temp:-3,min_temp:-9},{date:"2015-1-17",max_temp:-6,mean_temp:-9,min_temp:-13},{date:"2015-1-18",max_temp:11,mean_temp:2,min_temp:-7},{date:"2015-1-19",max_temp:8,mean_temp:4,min_temp:0},{date:"2015-1-20",max_temp:4,mean_temp:1,min_temp:-3},{date:"2015-1-21",max_temp:1,mean_temp:-2,min_temp:-6},{date:"2015-1-22",max_temp:3,mean_temp:1,min_temp:-2},{date:"2015-1-23",max_temp:3,mean_temp:-1,min_temp:-4},{date:"2015-1-24",max_temp:1,mean_temp:1,min_temp:-1},{date:"2015-1-25",max_temp:3,mean_temp:-2,min_temp:-7},{date:"2015-1-26",max_temp:-2,mean_temp:-7,min_temp:-12},{date:"2015-1-27",max_temp:-7,mean_temp:-8,min_temp:-10},{date:"2015-1-28",max_temp:-4,mean_temp:-7,min_temp:-11},{date:"2015-1-29",max_temp:0,mean_temp:-6,min_temp:-12},{date:"2015-1-30",max_temp:1,mean_temp:-3,min_temp:-7},{date:"2015-1-31",max_temp:-6,mean_temp:-9,min_temp:-12},{date:"2015-2-1",max_temp:-1,mean_temp:-6,min_temp:-11},{date:"2015-2-2",max_temp:-1,mean_temp:-6,min_temp:-12},{date:"2015-2-3",max_temp:-6,mean_temp:-10,min_temp:-14},{date:"2015-2-4",max_temp:3,mean_temp:-3,min_temp:-10},{date:"2015-2-5",max_temp:2,mean_temp:-6,min_temp:-14},{date:"2015-2-6",max_temp:-6,mean_temp:-11,min_temp:-15},{date:"2015-2-7",max_temp:-2,mean_temp:-5,min_temp:-9},{date:"2015-2-8",max_temp:-2,mean_temp:-6,min_temp:-11},{date:"2015-2-9",max_temp:-4,mean_temp:-7,min_temp:-10},{date:"2015-2-10",max_temp:-1,mean_temp:-6,min_temp:-10},{date:"2015-2-11",max_temp:-4,mean_temp:-7,min_temp:-10},{date:"2015-2-12",max_temp:-1,mean_temp:-5,min_temp:-9},{date:"2015-2-13",max_temp:-6,mean_temp:-9,min_temp:-14},{date:"2015-2-14",max_temp:-1,mean_temp:-8,min_temp:-16},{date:"2015-2-15",max_temp:-7,mean_temp:-13,min_temp:-19},{date:"2015-2-16",max_temp:-7,mean_temp:-13,min_temp:-19},{date:"2015-2-17",max_temp:-5,mean_temp:-8,min_temp:-12},{date:"2015-2-18",max_temp:-2,mean_temp:-5,min_temp:-8},{date:"2015-2-19",max_temp:-1,mean_temp:-7,min_temp:-12},{date:"2015-2-20",max_temp:-7,mean_temp:-11,min_temp:-15},{date:"2015-2-21",max_temp:1,mean_temp:-7,min_temp:-16},{date:"2015-2-22",max_temp:4,mean_temp:1,min_temp:-2},{date:"2015-2-23",max_temp:1,mean_temp:-7,min_temp:-16},{date:"2015-2-24",max_temp:-7,mean_temp:-12,min_temp:-17},{date:"2015-2-25",max_temp:2,mean_temp:-4,min_temp:-10},{date:"2015-2-26",max_temp:-6,mean_temp:-7,min_temp:-8},{date:"2015-2-27",max_temp:-3,mean_temp:-6,min_temp:-9},{date:"2015-2-28",max_temp:-1,mean_temp:-6,min_temp:-11},{date:"2015-3-1",max_temp:-1,mean_temp:-6,min_temp:-11},{date:"2015-3-2",max_temp:3,mean_temp:0,min_temp:-3},{date:"2015-3-3",max_temp:1,mean_temp:-3,min_temp:-7},{date:"2015-3-4",max_temp:6,mean_temp:3,min_temp:1},{date:"2015-3-5",max_temp:4,mean_temp:-2,min_temp:-8},{date:"2015-3-6",max_temp:-4,mean_temp:-8,min_temp:-13},{date:"2015-3-7",max_temp:3,mean_temp:-2,min_temp:-8},{date:"2015-3-8",max_temp:6,mean_temp:1,min_temp:-4},{date:"2015-3-9",max_temp:9,mean_temp:3,min_temp:-3},{date:"2015-3-10",max_temp:9,mean_temp:4,min_temp:-1},{date:"2015-3-11",max_temp:14,mean_temp:8,min_temp:3},{date:"2015-3-12",max_temp:6,mean_temp:1,min_temp:-4},{date:"2015-3-13",max_temp:4,mean_temp:0,min_temp:-4},{date:"2015-3-14",max_temp:4,mean_temp:2,min_temp:-1},{date:"2015-3-15",max_temp:5,mean_temp:1,min_temp:-3},{date:"2015-3-16",max_temp:7,mean_temp:2,min_temp:-3},{date:"2015-3-17",max_temp:11,mean_temp:4,min_temp:-2},{date:"2015-3-18",max_temp:-1,mean_temp:-3,min_temp:-6},{date:"2015-3-19",max_temp:1,mean_temp:-3,min_temp:-7},{date:"2015-3-20",max_temp:0,mean_temp:-2,min_temp:-5},{date:"2015-3-21",max_temp:5,mean_temp:2,min_temp:-2},{date:"2015-3-22",max_temp:4,mean_temp:-1,min_temp:-6},{date:"2015-3-23",max_temp:1,mean_temp:-3,min_temp:-8},{date:"2015-3-24",max_temp:2,mean_temp:-2,min_temp:-7},{date:"2015-3-25",max_temp:9,mean_temp:4,min_temp:-2},{date:"2015-3-26",max_temp:13,mean_temp:8,min_temp:3},{date:"2015-3-27",max_temp:7,mean_temp:5,min_temp:3},{date:"2015-3-28",max_temp:4,mean_temp:2,min_temp:-1},{date:"2015-3-29",max_temp:6,mean_temp:1,min_temp:-3},{date:"2015-3-30",max_temp:7,mean_temp:3,min_temp:-1},{date:"2015-3-31",max_temp:10,mean_temp:7,min_temp:3},{date:"2015-4-1",max_temp:8,mean_temp:4,min_temp:-1},{date:"2015-4-2",max_temp:16,mean_temp:8,min_temp:-1},{date:"2015-4-3",max_temp:15,mean_temp:11,min_temp:7},{date:"2015-4-4",max_temp:11,mean_temp:7,min_temp:2},{date:"2015-4-5",max_temp:9,mean_temp:5,min_temp:0},{date:"2015-4-6",max_temp:6,mean_temp:4,min_temp:2},{date:"2015-4-7",max_temp:6,mean_temp:4,min_temp:2},{date:"2015-4-8",max_temp:6,mean_temp:3,min_temp:1},{date:"2015-4-9",max_temp:3,mean_temp:2,min_temp:1},{date:"2015-4-10",max_temp:13,mean_temp:8,min_temp:2},{date:"2015-4-11",max_temp:14,mean_temp:10,min_temp:6},{date:"2015-4-12",max_temp:20,mean_temp:12,min_temp:4},{date:"2015-4-13",max_temp:21,mean_temp:13,min_temp:5},{date:"2015-4-14",max_temp:18,mean_temp:15,min_temp:11},{date:"2015-4-15",max_temp:19,mean_temp:15,min_temp:10},{date:"2015-4-16",max_temp:16,mean_temp:11,min_temp:5},{date:"2015-4-17",max_temp:18,mean_temp:13,min_temp:8},{date:"2015-4-18",max_temp:16,mean_temp:11,min_temp:6},{date:"2015-4-19",max_temp:10,mean_temp:8,min_temp:5},{date:"2015-4-20",max_temp:11,mean_temp:8,min_temp:5},{date:"2015-4-21",max_temp:18,mean_temp:13,min_temp:8},{date:"2015-4-22",max_temp:19,mean_temp:13,min_temp:6},{date:"2015-4-23",max_temp:11,mean_temp:7,min_temp:3},{date:"2015-4-24",max_temp:10,mean_temp:7,min_temp:3},{date:"2015-4-25",max_temp:13,mean_temp:8,min_temp:2},{date:"2015-4-26",max_temp:13,mean_temp:10,min_temp:6},{date:"2015-4-27",max_temp:14,mean_temp:11,min_temp:7},{date:"2015-4-28",max_temp:18,mean_temp:12,min_temp:6},{date:"2015-4-29",max_temp:12,mean_temp:11,min_temp:9},{date:"2015-4-30",max_temp:13,mean_temp:10,min_temp:7},{date:"2015-5-1",max_temp:9,mean_temp:7,min_temp:4},{date:"2015-5-2",max_temp:10,mean_temp:7,min_temp:4},{date:"2015-5-3",max_temp:19,mean_temp:13,min_temp:7},{date:"2015-5-4",max_temp:29,mean_temp:19,min_temp:9},{date:"2015-5-5",max_temp:21,mean_temp:17,min_temp:12},{date:"2015-5-6",max_temp:23,mean_temp:17,min_temp:11},{date:"2015-5-7",max_temp:26,mean_temp:19,min_temp:12},{date:"2015-5-8",max_temp:22,mean_temp:15,min_temp:8},{date:"2015-5-9",max_temp:22,mean_temp:15,min_temp:8},{date:"2015-5-10",max_temp:32,mean_temp:23,min_temp:15},{date:"2015-5-11",max_temp:27,mean_temp:18,min_temp:10},{date:"2015-5-12",max_temp:31,mean_temp:20,min_temp:9},{date:"2015-5-13",max_temp:21,mean_temp:16,min_temp:12},{date:"2015-5-14",max_temp:21,mean_temp:15,min_temp:9},{date:"2015-5-15",max_temp:19,mean_temp:14,min_temp:9},{date:"2015-5-16",max_temp:22,mean_temp:17,min_temp:13},{date:"2015-5-17",max_temp:19,mean_temp:16,min_temp:11},{date:"2015-5-18",max_temp:14,mean_temp:12,min_temp:9},{date:"2015-5-19",max_temp:18,mean_temp:15,min_temp:11},{date:"2015-5-20",max_temp:19,mean_temp:15,min_temp:11},{date:"2015-5-21",max_temp:19,mean_temp:13,min_temp:7},{date:"2015-5-22",max_temp:24,mean_temp:18,min_temp:11},{date:"2015-5-23",max_temp:18,mean_temp:13,min_temp:7},{date:"2015-5-24",max_temp:28,mean_temp:19,min_temp:11},{date:"2015-5-25",max_temp:27,mean_temp:21,min_temp:14},{date:"2015-5-26",max_temp:31,mean_temp:24,min_temp:18},{date:"2015-5-27",max_temp:29,mean_temp:24,min_temp:18},{date:"2015-5-28",max_temp:30,mean_temp:24,min_temp:18},{date:"2015-5-29",max_temp:22,mean_temp:18,min_temp:13},{date:"2015-5-30",max_temp:31,mean_temp:23,min_temp:14},{date:"2015-5-31",max_temp:25,mean_temp:17,min_temp:9},{date:"2015-6-1",max_temp:9,mean_temp:9,min_temp:8},{date:"2015-6-2",max_temp:9,mean_temp:9,min_temp:8},{date:"2015-6-3",max_temp:13,mean_temp:11,min_temp:8},{date:"2015-6-4",max_temp:14,mean_temp:12,min_temp:9},{date:"2015-6-5",max_temp:15,mean_temp:13,min_temp:10},{date:"2015-6-6",max_temp:19,mean_temp:16,min_temp:11},{date:"2015-6-7",max_temp:19,mean_temp:16,min_temp:12},{date:"2015-6-8",max_temp:24,mean_temp:18,min_temp:12},{date:"2015-6-9",max_temp:26,mean_temp:22,min_temp:18},{date:"2015-6-10",max_temp:28,mean_temp:22,min_temp:17},{date:"2015-6-11",max_temp:31,mean_temp:24,min_temp:18},{date:"2015-6-12",max_temp:26,mean_temp:22,min_temp:18},{date:"2015-6-13",max_temp:29,mean_temp:24,min_temp:18},{date:"2015-6-14",max_temp:23,mean_temp:20,min_temp:17},{date:"2015-6-15",max_temp:17,mean_temp:15,min_temp:12},{date:"2015-6-16",max_temp:22,mean_temp:18,min_temp:13},{date:"2015-6-17",max_temp:21,mean_temp:18,min_temp:15},{date:"2015-6-18",max_temp:24,mean_temp:19,min_temp:14},{date:"2015-6-19",max_temp:30,mean_temp:24,min_temp:17},{date:"2015-6-20",max_temp:24,mean_temp:19,min_temp:14},{date:"2015-6-21",max_temp:24,mean_temp:20,min_temp:16},{date:"2015-6-22",max_temp:25,mean_temp:21,min_temp:16},{date:"2015-6-23",max_temp:31,mean_temp:23,min_temp:16},{date:"2015-6-24",max_temp:29,mean_temp:24,min_temp:19},{date:"2015-6-25",max_temp:27,mean_temp:23,min_temp:18},{date:"2015-6-26",max_temp:22,mean_temp:19,min_temp:15},{date:"2015-6-27",max_temp:20,mean_temp:17,min_temp:14},{date:"2015-6-28",max_temp:15,mean_temp:13,min_temp:11},{date:"2015-6-29",max_temp:24,mean_temp:18,min_temp:12},{date:"2015-6-30",max_temp:24,mean_temp:20,min_temp:16},{date:"2015-7-1",max_temp:28,mean_temp:22,min_temp:17},{date:"2015-7-2",max_temp:27,mean_temp:22,min_temp:18},{date:"2015-7-3",max_temp:24,mean_temp:21,min_temp:17},{date:"2015-7-4",max_temp:22,mean_temp:19,min_temp:17},{date:"2015-7-5",max_temp:28,mean_temp:22,min_temp:16},{date:"2015-7-6",max_temp:27,mean_temp:23,min_temp:20},{date:"2015-7-7",max_temp:29,mean_temp:24,min_temp:18},{date:"2015-7-8",max_temp:31,mean_temp:26,min_temp:21},{date:"2015-7-9",max_temp:21,mean_temp:19,min_temp:17},{date:"2015-7-10",max_temp:25,mean_temp:21,min_temp:16},{date:"2015-7-11",max_temp:28,mean_temp:24,min_temp:20},{date:"2015-7-12",max_temp:32,mean_temp:27,min_temp:22},{date:"2015-7-13",max_temp:25,mean_temp:22,min_temp:19},{date:"2015-7-14",max_temp:28,mean_temp:23,min_temp:18},{date:"2015-7-15",max_temp:28,mean_temp:24,min_temp:19},{date:"2015-7-16",max_temp:20,mean_temp:18,min_temp:15},{date:"2015-7-17",max_temp:24,mean_temp:20,min_temp:16},{date:"2015-7-18",max_temp:26,mean_temp:22,min_temp:18},{date:"2015-7-19",max_temp:32,mean_temp:27,min_temp:22},{date:"2015-7-20",max_temp:33,mean_temp:27,min_temp:21},{date:"2015-7-21",max_temp:27,mean_temp:24,min_temp:21},{date:"2015-7-22",max_temp:29,mean_temp:25,min_temp:21},{date:"2015-7-23",max_temp:28,mean_temp:24,min_temp:19},{date:"2015-7-24",max_temp:27,mean_temp:23,min_temp:19},{date:"2015-7-25",max_temp:21,mean_temp:19,min_temp:17},{date:"2015-7-26",max_temp:26,mean_temp:22,min_temp:17},{date:"2015-7-27",max_temp:30,mean_temp:25,min_temp:20},{date:"2015-7-28",max_temp:30,mean_temp:26,min_temp:21},{date:"2015-7-29",max_temp:33,mean_temp:28,min_temp:22},{date:"2015-7-30",max_temp:33,mean_temp:28,min_temp:23},{date:"2015-7-31",max_temp:32,mean_temp:27,min_temp:23},{date:"2015-8-1",max_temp:32,mean_temp:26,min_temp:20},{date:"2015-8-2",max_temp:31,mean_temp:26,min_temp:20},{date:"2015-8-3",max_temp:32,mean_temp:26,min_temp:20},{date:"2015-8-4",max_temp:32,mean_temp:26,min_temp:19},{date:"2015-8-5",max_temp:29,mean_temp:24,min_temp:18},{date:"2015-8-6",max_temp:28,mean_temp:23,min_temp:18},{date:"2015-8-7",max_temp:23,mean_temp:21,min_temp:18},{date:"2015-8-8",max_temp:24,mean_temp:21,min_temp:16},{date:"2015-8-9",max_temp:23,mean_temp:20,min_temp:17},{date:"2015-8-10",max_temp:28,mean_temp:23,min_temp:17},{date:"2015-8-11",max_temp:22,mean_temp:20,min_temp:18},{date:"2015-8-12",max_temp:29,mean_temp:25,min_temp:20},{date:"2015-8-13",max_temp:28,mean_temp:23,min_temp:19},{date:"2015-8-14",max_temp:30,mean_temp:24,min_temp:17},{date:"2015-8-15",max_temp:33,mean_temp:27,min_temp:20},{date:"2015-8-16",max_temp:32,mean_temp:26,min_temp:19},{date:"2015-8-17",max_temp:33,mean_temp:27,min_temp:22},{date:"2015-8-18",max_temp:31,mean_temp:26,min_temp:22},{date:"2015-8-19",max_temp:31,mean_temp:27,min_temp:22},{date:"2015-8-20",max_temp:26,mean_temp:23,min_temp:20},{date:"2015-8-21",max_temp:28,mean_temp:24,min_temp:19},{date:"2015-8-22",max_temp:23,mean_temp:21,min_temp:19},{date:"2015-8-23",max_temp:22,mean_temp:21,min_temp:19},{date:"2015-8-24",max_temp:24,mean_temp:22,min_temp:20},{date:"2015-8-25",max_temp:27,mean_temp:23,min_temp:19},{date:"2015-8-26",max_temp:29,mean_temp:25,min_temp:21},{date:"2015-8-27",max_temp:28,mean_temp:23,min_temp:18},{date:"2015-8-28",max_temp:24,mean_temp:21,min_temp:18},{date:"2015-8-29",max_temp:28,mean_temp:23,min_temp:17},{date:"2015-8-30",max_temp:31,mean_temp:26,min_temp:21},{date:"2015-8-31",max_temp:32,mean_temp:27,min_temp:22},{date:"2015-9-1",max_temp:26,mean_temp:23,min_temp:21},{date:"2015-9-2",max_temp:33,mean_temp:26,min_temp:19},{date:"2015-9-3",max_temp:28,mean_temp:24,min_temp:21},{date:"2015-9-4",max_temp:22,mean_temp:19,min_temp:17},{date:"2015-9-5",max_temp:23,mean_temp:19,min_temp:14},{date:"2015-9-6",max_temp:28,mean_temp:22,min_temp:16},{date:"2015-9-7",max_temp:34,mean_temp:27,min_temp:19},{date:"2015-9-8",max_temp:36,mean_temp:29,min_temp:22},{date:"2015-9-9",max_temp:34,mean_temp:28,min_temp:22},{date:"2015-9-10",max_temp:25,mean_temp:22,min_temp:18},{date:"2015-9-11",max_temp:23,mean_temp:20,min_temp:17},{date:"2015-9-12",max_temp:22,mean_temp:19,min_temp:16},{date:"2015-9-13",max_temp:19,mean_temp:18,min_temp:17},{date:"2015-9-14",max_temp:22,mean_temp:18,min_temp:14},{date:"2015-9-15",max_temp:29,mean_temp:23,min_temp:17},{date:"2015-9-16",max_temp:27,mean_temp:23,min_temp:18},{date:"2015-9-17",max_temp:32,mean_temp:25,min_temp:18},{date:"2015-9-18",max_temp:29,mean_temp:24,min_temp:18},{date:"2015-9-19",max_temp:26,mean_temp:22,min_temp:17},{date:"2015-9-20",max_temp:24,mean_temp:19,min_temp:14},{date:"2015-9-21",max_temp:19,mean_temp:16,min_temp:12},{date:"2015-9-22",max_temp:20,mean_temp:17,min_temp:13},{date:"2015-9-23",max_temp:20,mean_temp:16,min_temp:12},{date:"2015-9-24",max_temp:23,mean_temp:19,min_temp:14},{date:"2015-9-25",max_temp:19,mean_temp:16,min_temp:13},{date:"2015-9-26",max_temp:17,mean_temp:14,min_temp:10},{date:"2015-9-27",max_temp:18,mean_temp:13,min_temp:9},{date:"2015-9-28",max_temp:26,mean_temp:19,min_temp:13},{date:"2015-9-29",max_temp:29,mean_temp:24,min_temp:18},{date:"2015-9-30",max_temp:26,mean_temp:20,min_temp:14},{date:"2015-10-1",max_temp:15,mean_temp:14,min_temp:12},{date:"2015-10-2",max_temp:12,mean_temp:11,min_temp:10},{date:"2015-10-3",max_temp:12,mean_temp:11,min_temp:9},{date:"2015-10-4",max_temp:13,mean_temp:12,min_temp:11},{date:"2015-10-5",max_temp:16,mean_temp:13,min_temp:9},{date:"2015-10-6",max_temp:18,mean_temp:13,min_temp:9},{date:"2015-10-7",max_temp:22,mean_temp:17,min_temp:11},{date:"2015-10-8",max_temp:17,mean_temp:14,min_temp:11},{date:"2015-10-9",max_temp:22,mean_temp:17,min_temp:11},{date:"2015-10-10",max_temp:16,mean_temp:13,min_temp:9},{date:"2015-10-11",max_temp:20,mean_temp:14,min_temp:9},{date:"2015-10-12",max_temp:24,mean_temp:18,min_temp:11},{date:"2015-10-13",max_temp:22,mean_temp:18,min_temp:13},{date:"2015-10-14",max_temp:20,mean_temp:16,min_temp:11},{date:"2015-10-15",max_temp:17,mean_temp:13,min_temp:8},{date:"2015-10-16",max_temp:16,mean_temp:13,min_temp:10},{date:"2015-10-17",max_temp:13,mean_temp:9,min_temp:4},{date:"2015-10-18",max_temp:8,mean_temp:4,min_temp:1},{date:"2015-10-19",max_temp:9,mean_temp:4,min_temp:-1},{date:"2015-10-20",max_temp:19,mean_temp:13,min_temp:7},{date:"2015-10-21",max_temp:16,mean_temp:14,min_temp:12},{date:"2015-10-22",max_temp:23,mean_temp:17,min_temp:11},{date:"2015-10-23",max_temp:15,mean_temp:10,min_temp:4},{date:"2015-10-24",max_temp:9,mean_temp:7,min_temp:3},{date:"2015-10-25",max_temp:17,mean_temp:13,min_temp:9},{date:"2015-10-26",max_temp:11,mean_temp:9,min_temp:6},{date:"2015-10-27",max_temp:12,mean_temp:8,min_temp:3},{date:"2015-10-28",max_temp:18,mean_temp:12,min_temp:6},{date:"2015-10-29",max_temp:24,mean_temp:19,min_temp:14},{date:"2015-10-30",max_temp:16,mean_temp:11,min_temp:6},{date:"2015-10-31",max_temp:11,mean_temp:7,min_temp:3},{date:"2015-11-1",max_temp:17,mean_temp:13,min_temp:9},{date:"2015-11-2",max_temp:18,mean_temp:14,min_temp:11},{date:"2015-11-3",max_temp:23,mean_temp:16,min_temp:8},{date:"2015-11-4",max_temp:16,mean_temp:13,min_temp:9},{date:"2015-11-5",max_temp:24,mean_temp:17,min_temp:10},{date:"2015-11-6",max_temp:23,mean_temp:20,min_temp:17},{date:"2015-11-7",max_temp:21,mean_temp:16,min_temp:10},{date:"2015-11-8",max_temp:13,mean_temp:10,min_temp:7},{date:"2015-11-9",max_temp:16,mean_temp:11,min_temp:5},{date:"2015-11-10",max_temp:12,mean_temp:9,min_temp:7},{date:"2015-11-11",max_temp:10,mean_temp:9,min_temp:8},{date:"2015-11-12",max_temp:14,mean_temp:11,min_temp:8},{date:"2015-11-13",max_temp:15,mean_temp:12,min_temp:8},{date:"2015-11-14",max_temp:8,mean_temp:6,min_temp:3},{date:"2015-11-15",max_temp:12,mean_temp:8,min_temp:3},{date:"2015-11-16",max_temp:16,mean_temp:10,min_temp:4},{date:"2015-11-17",max_temp:7,mean_temp:4,min_temp:1},{date:"2015-11-18",max_temp:9,mean_temp:4,min_temp:-1},{date:"2015-11-19",max_temp:13,mean_temp:9,min_temp:6},{date:"2015-11-20",max_temp:16,mean_temp:12,min_temp:7},{date:"2015-11-21",max_temp:9,mean_temp:6,min_temp:3},{date:"2015-11-22",max_temp:9,mean_temp:6,min_temp:2},{date:"2015-11-23",max_temp:6,mean_temp:2,min_temp:-1},{date:"2015-11-24",max_temp:7,mean_temp:3,min_temp:-2},{date:"2015-11-25",max_temp:7,mean_temp:3,min_temp:-1},{date:"2015-11-26",max_temp:15,mean_temp:9,min_temp:3},{date:"2015-11-27",max_temp:18,mean_temp:13,min_temp:9},{date:"2015-11-28",max_temp:16,mean_temp:11,min_temp:5},{date:"2015-11-29",max_temp:7,mean_temp:3,min_temp:0},{date:"2015-11-30",max_temp:3,mean_temp:1,min_temp:-2},{date:"2015-12-1",max_temp:7,mean_temp:4,min_temp:0},{date:"2015-12-2",max_temp:11,mean_temp:7,min_temp:4},{date:"2015-12-3",max_temp:11,mean_temp:8,min_temp:5},{date:"2015-12-4",max_temp:9,mean_temp:6,min_temp:3},{date:"2015-12-5",max_temp:12,mean_temp:8,min_temp:4},{date:"2015-12-6",max_temp:15,mean_temp:9,min_temp:2},{date:"2015-12-7",max_temp:13,mean_temp:8,min_temp:3},{date:"2015-12-8",max_temp:7,mean_temp:5,min_temp:3},{date:"2015-12-9",max_temp:8,mean_temp:6,min_temp:3},{date:"2015-12-10",max_temp:14,mean_temp:11,min_temp:6},{date:"2015-12-11",max_temp:14,mean_temp:11,min_temp:6},{date:"2015-12-12",max_temp:16,mean_temp:13,min_temp:9},{date:"2015-12-13",max_temp:12,mean_temp:10,min_temp:8},{date:"2015-12-14",max_temp:14,mean_temp:11,min_temp:8},{date:"2015-12-15",max_temp:16,mean_temp:13,min_temp:9},{date:"2015-12-16",max_temp:9,mean_temp:6,min_temp:3},{date:"2015-12-17",max_temp:11,mean_temp:8,min_temp:4},{date:"2015-12-18",max_temp:11,mean_temp:8,min_temp:4},{date:"2015-12-19",max_temp:4,mean_temp:3,min_temp:1},{date:"2015-12-20",max_temp:5,mean_temp:2,min_temp:-1},{date:"2015-12-21",max_temp:12,mean_temp:6,min_temp:0},{date:"2015-12-22",max_temp:16,mean_temp:12,min_temp:9},{date:"2015-12-23",max_temp:13,mean_temp:11,min_temp:7},{date:"2015-12-24",max_temp:21,mean_temp:15,min_temp:9},{date:"2015-12-25",max_temp:17,mean_temp:13,min_temp:9},{date:"2015-12-26",max_temp:13,mean_temp:9,min_temp:5},{date:"2015-12-27",max_temp:10,mean_temp:7,min_temp:3},{date:"2015-12-28",max_temp:3,mean_temp:1,min_temp:-2},{date:"2015-12-29",max_temp:4,mean_temp:0,min_temp:-4},{date:"2015-12-30",max_temp:3,mean_temp:-1,min_temp:-4},{date:"2015-12-31",max_temp:8,mean_temp:4,min_temp:1}];
+
+
+
+  var margin = {
+top: 70,
+right: 20,
+bottom: 120,
+left: 20
+};
+var width = window.innerWidth - margin.left - margin.right - 20;
+var height = window.innerHeight - margin.top - margin.bottom - 20;
+
+//SVG container
+var svg = d3.select("#weatherRadial")
+.append("svg")
+.attr("width", width + margin.left + margin.right)
+.attr("height", height + margin.top + margin.bottom)
+.append("g")
+.attr("transform", "translate(" + (margin.left + width/2) + "," + (margin.top + height/2) + ")");
+
+///////////////////////////////////////////////////////////////////////////
+//////////////////////////// Create scales ////////////////////////////////
+///////////////////////////////////////////////////////////////////////////
+
+//Parses a string into a date
+var parseDate = d3.time.format("%Y-%m-%d").parse;
+
+//Turn strings into actual numbers/dates
+weatherBoston.forEach(function(d) {
+d.date = parseDate(d.date);
+});
+
+var data = weatherBoston;
+
+data.forEach(function(d) {
+	var y0 = 0;
+	d.temps = colorScale.domain().map(function(name) { return {name: name, y0: y0, y1: y0 += +d[name]}; });
+	d.total = d.temps[d.temps.length - 1].y1;
+});
+
+data.sort(function(a, b) { return b.total - a.total; });
+
+//Set the minimum inner radius and max outer radius of the chart
+var	outerRadius = Math.min(width, height, 500)/2,
+innerRadius = outerRadius * 0.4;
+
+//Base the color scale on average temperature extremes
+// var colorScale = d3.scale.linear()
+// .domain([-15, 7.5, 30])
+// .range(["#2c7bb6", "#ffff8c", "#d7191c"])
+// .interpolate(d3.interpolateHcl);
+var colorScale = d3.scale.ordinal()
+.range(["#2c7bb6", "#ffff8c", "#d7191c"])
+.domain(d3.keys(data[0]).filter(function(key) { return key !== "date"; }));
+//Scale for the heights of the bar, not starting at zero to give the bars an initial offset outward
+var barScale = d3.scale.linear()
+.range([innerRadius, outerRadius])
+.domain([-15,80]);
+
+//Scale to turn the date into an angle of 360 degrees in total
+//With the first datapoint (Jan 1st) on top
+var angle = d3.scale.linear()
+.range([-180, 180])
+.domain(d3.extent(data, function(d) { return d.date; }));
+
+///////////////////////////////////////////////////////////////////////////
+//////////////////////////// Create Titles ////////////////////////////////
+///////////////////////////////////////////////////////////////////////////
+
+var textWrapper = svg.append("g").attr("class", "textWrapper")
+.attr("transform", "translate(" + Math.max(-width/2, -outerRadius - 170) + "," + 0 + ")");
+
+//Append title to the top
+textWrapper.append("text")
+.attr("class", "title")
+  .attr("x", 0)
+  .attr("y", -outerRadius - 40)
+  .text("Daily Temperatures in Boston");
+textWrapper.append("text")
+.attr("class", "subtitle")
+  .attr("x", 0)
+  .attr("y", -outerRadius - 20)
+  .text("2015");
+
+//Append credit at bottom
+textWrapper.append("text")
+.attr("class", "credit")
+  .attr("x", 0)
+  .attr("y", outerRadius + 120)
+  .text("Based on weather-radials.com");
+
+///////////////////////////////////////////////////////////////////////////
+///////////////////////////// Create Axes /////////////////////////////////
+///////////////////////////////////////////////////////////////////////////
+
+//Wrapper for the bars and to position it downward
+var barWrapper = svg.append("g")
+.attr("transform", "translate(" + 0 + "," + 0 + ")");
+
+//Draw gridlines below the bars
+var axes = barWrapper.selectAll(".gridCircles")
+.data([-20,-10,0,10,20,30])
+.enter().append("g");
+//Draw the circles
+axes.append("circle")
+.attr("class", "axisCircles")
+.attr("r", function(d) { return barScale(d); });
+//Draw the axis labels
+axes.append("text")
+.attr("class", "axisText")
+.attr("y", function(d) { return barScale(d); })
+.attr("dy", "0.3em")
+.text(function(d) { return d + "°C"});
+
+//Add January for reference
+barWrapper.append("text")
+.attr("class", "january")
+.attr("x", 7)
+.attr("y", -outerRadius * 1.1)
+.attr("dy", "0.9em")
+.text("January");
+//Add a line to split the year
+barWrapper.append("line")
+.attr("class", "yearLine")
+.attr("x1", 0)
+.attr("y1", -innerRadius * 0.65)
+.attr("x2", 0)
+.attr("y2", -outerRadius * 1.1);
+
+///////////////////////////////////////////////////////////////////////////
+////////////////////////////// Draw bars //////////////////////////////////
+///////////////////////////////////////////////////////////////////////////
+
+//Draw a bar per day were the height is the difference between the minimum and maximum temperature
+//And the color is based on the mean temperature
+
+var temps = barWrapper.selectAll(".temps").data(data).enter().append("g")
+.attr("class","g").attr("transform", function(d,i) { return "rotate(" + (angle(d.date)) + ")"; })
+
+temps.selectAll(".tempBar")
+.data(function(d) { return d.temps; })
+.enter().append("rect")
+.attr("class", "tempBar")
+.attr("width", 1.5)
+.attr("height", function(d) { return barScale(d.y0) - barScale(d.y1);})
+.attr("x", -0.75)
+.attr("y", function(d) {return barScale(d.y1); })
+.style("fill", function(d) { return colorScale(d.name); });
+
+///////////////////////////////////////////////////////////////////////////
+//////////////// Create the gradient for the legend ///////////////////////
+///////////////////////////////////////////////////////////////////////////
+
+//Extra scale since the color scale is interpolated
+var tempScale = d3.scale.linear()
+.domain([-15, 30])
+.range([0, width]);
+
+//Calculate the variables for the temp gradient
+var numStops = 10;
+tempRange = tempScale.domain();
+tempRange[2] = tempRange[1] - tempRange[0];
+tempPoint = [];
+for(var i = 0; i < numStops; i++) {
+tempPoint.push(i * tempRange[2]/(numStops-1) + tempRange[0]);
+}//for i
+
+//Create the gradient
+svg.append("defs")
+.append("linearGradient")
+.attr("id", "legend-weather")
+.attr("x1", "0%").attr("y1", "0%")
+.attr("x2", "100%").attr("y2", "0%")
+.selectAll("stop")
+.data(d3.range(numStops))
+.enter().append("stop")
+.attr("offset", function(d,i) { return tempScale( tempPoint[i] )/width; })
+.attr("stop-color", function(d,i) { return colorScale( tempPoint[i] ); });
+
+///////////////////////////////////////////////////////////////////////////
+////////////////////////// Draw the legend ////////////////////////////////
+///////////////////////////////////////////////////////////////////////////
+
+var legendWidth = Math.min(outerRadius*2, 400);
+
+//Color Legend container
+var legendsvg = svg.append("g")
+.attr("class", "legendWrapper")
+.attr("transform", "translate(" + 0 + "," + (outerRadius + 70) + ")");
+
+//Draw the Rectangle
+legendsvg.append("rect")
+.attr("class", "legendRect")
+.attr("x", -legendWidth/2)
+.attr("y", 0)
+.attr("rx", 8/2)
+.attr("width", legendWidth)
+.attr("height", 8)
+.style("fill", "url(#legend-weather)");
+
+//Append title
+legendsvg.append("text")
+.attr("class", "legendTitle")
+.attr("x", 0)
+.attr("y", -10)
+.style("text-anchor", "middle")
+.text("Average Daily Temperature");
+
+//Set scale for x-axis
+var xScale = d3.scale.linear()
+ .range([-legendWidth/2, legendWidth/2])
+ .domain([-15,30] );
+
+//Define x-axis
+var xAxis = d3.svg.axis()
+  .orient("bottom")
+  .ticks(5)
+  .tickFormat(function(d) { return d + "°C"; })
+  .scale(xScale);
+
+//Set up X axis
+legendsvg.append("g")
+.attr("class", "axis")
+.attr("transform", "translate(0," + (10) + ")")
+.call(xAxis);
+
+  </script>
+
+</script>
+
+</body>
+</html>
